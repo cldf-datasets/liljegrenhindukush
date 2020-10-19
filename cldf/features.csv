@@ -1,0 +1,306 @@
+ID,Name,Description
+GC01b,GC01b,"Sex-based Gender
+
+Differentiation in languages with gender categories (see Grammatical
+Gender) may be based on or linked to a biological differentiation
+between male and female referents, as in ‎(1). In languages with a
+masculine-feminine differentiation, nouns denoting inanimates or
+non-humans can be assigned masculine or feminine gender too.
+
+(1) <span id=""_Ref531867975"" class=""anchor""></span>Ushojo
+    \[ush\] (Indo-Aryan)
+
+| a.  | ek                                                                          | **phoó**                                              | asíl-**u**,                                              | se                                                           | seekel-aá                                                 | yáa     | áal-**u**.                                                 |
+|-----|-----------------------------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------|--------------------------------------------------------------|-----------------------------------------------------------|---------|------------------------------------------------------------|
+|     | one                                                                         | boy(<span style=""font-variant:small-caps;"">m</span>)  | be.<span style=""font-variant:small-caps;"">pst-msg</span> | <span style=""font-variant:small-caps;"">3sg.nom</span>        | bicycle-<span style=""font-variant:small-caps;"">loc</span> | going   | come.<span style=""font-variant:small-caps;"">pfv-msg</span> |
+|     | ‘There was a boy, he came riding on a bicycle.’ (USH-PearStoryAH:001)       |
+| b.  | ek                                                                          | **phuí**                                              | ...                                                      | seekal-aá                                                    | yáa                                                       | mušíin  | tarapayá                                                   |
+|     | one                                                                         | girl(<span style=""font-variant:small-caps;"">f</span>) |                                                          | bicycle-<span style=""font-variant:small-caps;"">loc</span>    | going                                                     | to.near | in.direction                                               |
+|     | ‘A girl… came in his direction, riding on a bicycle.’ (USH-PearStoryAH:012) |
+| c.  | axeér                                                                       | **oóš**                                               | čóku                                                     | bíl-**i**.                                                   |
+|     | finally                                                                     | wind(<span style=""font-variant:small-caps;"">f</span>) | quiet                                                    | become.<span style=""font-variant:small-caps;"">pfv-fsg</span> |
+|     | ‘Finally the wind gave up.’ (USH-NorthwindAH:007)                           |
+
+A majority of our sample varieties display evidence of sex-based noun
+classification, while only 14 of the sample varieties lack this
+property.
+
+"
+GC01c,GC01c,
+GC02a,GC02a,
+GC02b,GC02b,
+GC02c,GC02c,
+GC02d,GC02d,
+GC03,GC03,
+GC04a,GC04a,
+GC04b,GC04b,
+GC05a,GC05a,
+GC05b,GC05b,
+GC06a,GC06a,
+GC06b,GC06b,
+GC07a,GC07a,
+GC07b,GC07b,
+PH01a,PH01a,"Retroflexion
+
+The use of retroflex sounds to obtain (minimal) contrasts in the lexicon
+was investigated. Although a distinct retroflex place of articulation
+was detected in most cases, it was indeed the contrast between
+alveolar-dental sounds and retroflex (or retracted) sounds with the same
+manner of articulation that was taken as diagnostic rather than the
+presence of a very specific tongue shape. For some of the languages, and
+for some of the subsets, the contrast is probably better described as
+apical (or subapical) vs laminal pronunciation.
+
+The inventory of Indo-Aryan Khowar has eight retroflex (or apical
+post-alveolar) consonants (plosive, affricate and fricative),
+contrasting on the one had with dental/alveolar and on the other with
+laminal post-alveolar consonants. Some examples of words in Khowar
+containing retroflex sounds are displayed in ‎(1).
+
+| **Khowar \[khw\]** | **Dental/alveolar** | **Retroflex (apical)** | **Post-alveolar (laminal)** |
+|--------------------|---------------------|------------------------|-----------------------------|
+| Plosive            | t d                 | ʈ ɖ                    |                             |
+|                    | tʰ                  | ʈʰ                     |                             |
+| Affricate          | ts dz               | ʈʂ ɖʐ                  | tɕ dʑ                       |
+|                    | tsʰ                 | ʈʂʰ                    | tɕʰ                         |
+| Fricative          |                     | ʂ ʐ                    | ɕ ʑ                         |
+
+(1) <span id=""_Ref12343426"" class=""anchor""></span>Khowar
+    \[khw\] (Indo-Aryan)
+
+| a.  | /ʈip/   | ‘full’ (KHW-40listAA:018)   |
+|-----|---------|-----------------------------|
+| b.  | /ʈʂʰan/ | ‘leaf’ (KHW-40listAA:012)   |
+| c.  | /uʂak/  | ‘cold’ (KHW-ValQuestAA:060) |
+
+Retroflexion is a strongly areal feature, present in as many as 54 of
+the sample languages. Turkic is the only phylogenetic grouping in which
+this feature is entirely absent.
+
+"
+PH01b,PH01b,"Retroflex Plosives
+
+The use of retroflex (or apical post-alveolar) plosive consonants
+contrasting with dental/alveolar plosives was investigated. In Nuristani
+Ashkun, a dental voiceless plosive (1a) contrasts with a retroflex
+voiceless plosive (1b), and a dental voiced plosive (1c) contrasts with
+a retroflex voiced plosive (1d).
+
+(1) <span id=""_Ref12343426"" class=""anchor""></span>Ashkun
+    \[ask\] (Nuristani)
+
+| a.  | /zat /   | ‘night’ (ASK-40listWS:024)    |
+|-----|----------|-------------------------------|
+| b.  | /vaːʈ /  | ‘stone’ (ASK-40listWS:032)    |
+| c.  | /awndaj/ | ‘grandfather’ (ASK-KinWS:013) |
+| d.  | /muɖuk / | ‘frog’ (ASK-ValQuestWS:034)   |
+
+The presence of retroflex plosives is a strongly areal feature, present
+in as many as 50 of the sample languages. They are absent in the
+inventories of the Turkic languages, some of the Iranian languages and
+in Tibeto-Burman Ladakhi.
+
+"
+PH01c,PH01c,
+PH02a,PH02a,
+PH02b,PH02b,
+PH03a,PH03a,
+PH03b,PH03b,
+PH03c,PH03c,
+PH03d,PH03d,
+PH04,PH04,
+PH05a,PH05a,
+PH05b,PH05b,
+PH06,PH06,
+PH07,PH07,
+PH08a,PH08a,
+PH08b,PH08b,
+WO01a,WO01a,"Verb Object Word Order
+
+For this feature systematic occurrences of a verb preceding a lexical
+(nonpronominal) object in a transitive clause were noted. In the sample,
+Indo-Aryan Kashmiri of India is such a language (although clauses with
+OV order occur too), as shown in (1).
+
+(1) <span id=""_Ref531867975"" class=""anchor""></span>Kashmiri, India
+    \[kas(i)\] (Indo-Aryan)
+
+| ləɖk-an                                                            | moːr                                                   | loːri                                                   | sɨːtʲ | sɔrupʰ. |
+|--------------------------------------------------------------------|--------------------------------------------------------|---------------------------------------------------------|-------|---------|
+| boy-<span style=""font-variant:small-caps;"">erg</span>              | kill.<span style=""font-variant:small-caps;"">msg</span> | stick.<span style=""font-variant:small-caps;"">abl</span> | with  | snake   |
+|                                                                    | VERB                                                   |                                                         |       | OBJECT  |
+| ‘The boy killed the snake with a stick.’ (KASi-ValQuestHK:026/028) |
+
+In the region, VO Word Order is a feature only occurring in the two
+varieties of Kashmiri included in the sample.
+
+"
+WO01b,WO01b,"Object Verb Word Order
+
+For this feature systematic occurrences of a verb following a lexical
+(nonpronominal) object in a transitive clause were noted. The Indo-Aryan
+Kalkoti sentence in (1) illustrates this word order.
+
+(1) <span id=""_Ref531867975"" class=""anchor""></span>Kalkoti
+    \[xka\] (Indo-Aryan)
+
+| triaːl-um                                               | maːs   | pat͡ʃʰ-aːl.                                             |     |     |
+|---------------------------------------------------------|--------|--------------------------------------------------------|-----|-----|
+| women-<span style=""font-variant:small-caps;"">obl</span> | meat   | cook-<span style=""font-variant:small-caps;"">pfv</span> |     |     |
+|                                                         | OBJECT | VERB                                                   |     |     |
+| ‘The women cooked the meat.’ (XKA-ValQuestJK:079)       |
+
+In the region, OV Word Order is found in all of the sample languages
+(although it is not the dominant one in the two varieties of Kashmiri).
+
+"
+WO02a,WO02a,
+WO02b,WO02b,
+WO02c,WO02c,
+WO03,WO03,
+WO04a,WO04a,
+WO04b,WO04b,
+WO05a,WO05a,
+WO05b,WO05b,
+WO06,WO06,
+WO07a,WO07a,
+WO07b,WO07b,
+WO08,WO08,
+WO09,WO09,
+WO10,WO10,
+CS01a,CS01a,"Ergative Alignment (Nouns)
+
+In an ergative system of case marking, A, the more agent-like NP
+argument of a two-place transitive predicate, is encoded differently
+from S, the core argument of a one-place intransitive predicate. Any
+occurrence (whether consistently or in a sub-domain of a language) of
+such (A≠S contrastive) marking of full noun phrases has been taken as
+positive evidence of this feature. In Western Kati, the A argument
+carries an oblique case suffix *–a* in the past tense, while the S
+argument remains zero marked for case.
+
+(1) <span id=""_Ref531867975"" class=""anchor""></span>Western Kati
+    \[bsh(w)\] (Nuristani)
+
+| a.  | d͡ʒuk                                                              | ʒen-e.                                                             |
+|-----|-------------------------------------------------------------------|--------------------------------------------------------------------|
+|     | girl                                                              | cry.<span style=""font-variant:small-caps;"">pst-3fsg</span>         |
+|     | **S**                                                             |                                                                    |
+|     | ‘The girl cried.’ (BSHw-ValQuestAA:083)                           |
+| b.  | d͡ʒuk-**a**                                                        | wa-is                                                              |
+|     | girl-<span style=""font-variant:small-caps;"">obl</span>            | grandmother-<span style=""font-variant:small-caps;"">3sg.poss</span> |
+|     | **A**                                                             |                                                                    |
+|     | ‘The girl sent flowers to her grandmother.’ (BSHw-ValQuestAA:037) |
+
+A majority of our sample varieties display evidence of ergative
+alignment for nouns. The distribution is clearly subareal, with ergative
+alignment in the south and in the central parts of the Hindu Kush
+region, and the lack thereof primarily in the north.
+
+"
+CS01b,CS01b,"Accusative Alignment (Nouns)
+
+In an accusative system of case marking, P, the more patient-like NP
+argument of a two-place transitive predicate, is encoded differently
+from S, the core argument of a one-place intransitive predicate. Any
+occurrence (whether consistently or in a sub-domain of a language) of
+such (P≠S contrastive) marking of full noun phrases has been taken as
+positive evidence of this feature. In Uzbek (see ‎(1)), the P argument
+carries a case suffix *–deː*, while the S argument remains zero marked
+for case. (The case marking *‑de* in addition encodes various locative
+relations. A direct object with definite reference may also occur with a
+suffix *–niː*.)
+
+(1) <span id=""_Ref531867975"" class=""anchor""></span>Uzbek
+    \[uzs\] (Turkic)
+
+| a.  | iːlɑːn                                                     | wiːl-deː.                                               |
+|-----|------------------------------------------------------------|---------------------------------------------------------|
+|     | snake                                                      | die-<span style=""font-variant:small-caps;"">pst</span>   |
+|     | **S**                                                      |                                                         |
+|     | ‘The snake died.’ (UZS-ValQuestAL:061)                     |
+| b.  | uːʁul                                                      | iːlɑːn=deː                                              |
+|     | boy                                                        | snake=<span style=""font-variant:small-caps;"">loc</span> |
+|     | A                                                          | **P**                                                   |
+|     | ‘The boy hit the snake with a stick.’ (UZS-ValQuestAL:028) |
+
+Accusative alignment is clearly subareal in its distribution. While it
+is not a feature associated with the geographical core of the Hindu
+Kush, it is strongly represented in the northwestern sub-region (in
+Indo-Aryan, Nuristani, Iranian and Turkic), and then again in the
+southeastern sub-region (Indo-Aryan and Tibeto-Burman).
+
+"
+CS02a,CS02a,
+CS02b,CS02b,
+CS03a,CS03a,
+CS03b,CS03b,
+CS03c,CS03c,
+CS04a,CS04a,
+CS04b,CS04b,
+CS05,CS05,
+CS06a,CS06a,
+CS06b,CS06b,
+CS06c,CS06c,
+CS07,CS07,
+CS08,CS08,
+CS09,CS09,
+LX01a,LX01a,"Kinship: F=FB
+
+Some languages display a certain kind of polysemy pattern in which the
+kinship term used for referring to an anchor’s father (F) is also used
+for referring to a father’s brother (FB). Usually, that is done by
+adding a modifying ‘big’ for a paternal uncle that is older than the
+anchor’s father, and ‘little’ for a paternal uncle that is younger. This
+pattern occurs in Tibeto-Burman Balti, as can be seen in ‎(1).
+
+(1) <span id=""_Ref12343426"" class=""anchor""></span>Balti
+    \[bft\] (Tibeto-Burman)
+
+| a.  | áta           | ‘father’ (BFT-KinHS:001)                                           |
+|-----|---------------|--------------------------------------------------------------------|
+| b.  | áta t͡ɕʰoʁó    | ‘father’s older brother’ \[lit. big father\] (BFT- KinHS:022)      |
+| c.  | áta t͡sʰunt͡sêː | ‘father’s younger brother’ \[lit. little father\] (BFT- KinHS:023) |
+
+The feature occurs in approximately a third of the sample, essentially
+in a central belt stretching through the geographical core of the region
+from west to east. This polysemy is sometimes in addition to a general
+term for a paternal uncle, lexically distinct from the term for
+‘father’.
+
+"
+LX01b,LX01b,"Kinship: FB=MB
+
+In some languages the same kinship term is used for referring to an
+anchor’s father’s brother (FB) as the one used for referring to the
+mother’s brother (MB). This pattern occurs in Iranian Munji, as can be
+seen in ‎(1). This term is also lexically distinct from the term for
+‘father’.
+
+(1) <span id=""_Ref12343426"" class=""anchor""></span>Munji
+    \[mnj\] (Iranian)
+
+| a.  | tɑːt | ‘father’ (MNJ-KinDM:001)            |
+|-----|------|-------------------------------------|
+| b.  | bɑːj | ‘father’s brother’ (MNJ- KinDM:021) |
+| c.  | bɑːj | ‘mother’s brother’ (MNJ- KinDM:027) |
+
+The feature is a minority pattern in the region, but it occurs in four
+geographically clustered (but not all of them closely related) languages
+in the central part of the Hindu Kush.
+
+"
+LX01c,LX01c,
+LX01d,LX01d,
+LX01e,LX01e,
+LX02a,LX02a,
+LX02b,LX02b,
+LX03a,LX03a,
+LX03b,LX03b,
+LX04a,LX04a,
+LX04b,LX04b,
+LX05,LX05,
+LX06a,LX06a,
+LX06b,LX06b,
+LX07,LX07,
+LX08,LX08,

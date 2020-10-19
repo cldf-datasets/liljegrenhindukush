@@ -7,6 +7,9 @@
     ],
     "aboutUrl": null,
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/Holman-2008-40"
+    ],
     "dc:identifier": "https://hindukush.ling.su.se/",
     "dc:isVersionOf": null,
     "dc:related": null,
@@ -17,13 +20,13 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/liljegrenhindukush",
-            "dc:created": "a2b4d83"
+            "dc:created": "57273f7"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.2.1-28-g8701a9c"
+            "dc:created": "v4.3-3-g5fd5ffb"
         },
         {
             "rdf:type": "prov:Entity",
@@ -41,7 +44,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.5.2"
+            "dc:description": "3.6.12"
         },
         {
             "dc:title": "python-packages",
@@ -56,6 +59,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
+            "dc:extent": 2360,
             "tableSchema": {
                 "columns": [
                     {
@@ -141,6 +145,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
+            "dc:extent": 79,
             "tableSchema": {
                 "columns": [
                     {
@@ -173,7 +178,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 0,
+            "dc:extent": 59,
             "tableSchema": {
                 "columns": [
                     {
