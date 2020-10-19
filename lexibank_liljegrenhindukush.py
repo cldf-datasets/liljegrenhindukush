@@ -92,6 +92,7 @@ class Dataset(pylexibank.Dataset):
                 for p in self.raw_dir.glob('*.md')
             }
             writer.cldf.add_component(LanguageTable)  # we reuse the one from above!
+            writer.cldf.add_component('CodeTable')
             for i, row in enumerate(self.raw_dir.read_csv(
                     'MultipleFeaturesHK-20200918-forRobert.MultipleFeatures.csv', dicts=True)):
                 """
@@ -107,11 +108,22 @@ class Dataset(pylexibank.Dataset):
                             Name=col,
                             Description=descs.get(col),
                         ))
+                        for code, desc in [
+                            ('1', 'present'),
+                            ('0', 'absent'),
+                            ('?', 'indeterminate'),
+                        ]:
+                            writer.objects['CodeTable'].append(dict(
+                                ID='{}-{}'.format(col, code if code != '?' else 'x'),
+                                Name=desc,
+                                Parameter_ID=col,
+                            ))
                 for col in list(row.keys())[5:45]:
                     if row[col]:
                         writer.objects['ValueTable'].append(dict(
                             ID='{}-{}'.format(lid, col),
                             Language_ID=lid,
                             Parameter_ID=col,
+                            Code_ID='{}-{}'.format(col, row[col] if row[col] != '?' else 'x'),
                             Value=row[col],
                         ))
