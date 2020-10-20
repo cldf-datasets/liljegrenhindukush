@@ -102,7 +102,7 @@ class Dataset(pylexibank.Dataset):
                     break
                 lid = row['ISO'].replace(' (', '_').replace(')', '')
                 if i == 0:
-                    for col in list(row.keys())[5:]:
+                    for col in list(row.keys())[4:]:
                         writer.objects['ParameterTable'].append(dict(
                             ID=col,
                             Name=col,
@@ -115,10 +115,11 @@ class Dataset(pylexibank.Dataset):
                         ]:
                             writer.objects['CodeTable'].append(dict(
                                 ID='{}-{}'.format(col, code if code != '?' else 'x'),
-                                Name=desc,
+                                Name=code,
+                                Description=desc,
                                 Parameter_ID=col,
                             ))
-                for col in list(row.keys())[5:45]:
+                for col in list(row.keys())[4:]:
                     if row[col]:
                         writer.objects['ValueTable'].append(dict(
                             ID='{}-{}'.format(lid, col),
