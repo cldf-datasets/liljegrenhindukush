@@ -1,26 +1,22 @@
 from pathlib import Path
 import subprocess
 
+from csvw.metadata import URITemplate
 import cldfbench
 import pylexibank
 
-# Customize your basic data.
-# if you need to store other data in columns than the lexibank defaults, then over-ride
-# the table type (pylexibank.[Language|Lexeme|Concept|Cognate|]) and add the required columns e.g.
-#
-#import attr
-#
-#@attr.s
-#class Concept(pylexibank.Concept):
-#    MyAttribute1 = attr.ib(default=None)
+import attr
+
+
+@attr.s
+class Lexeme(pylexibank.Lexeme):
+    audio = attr.ib(default=None)
 
 
 class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
     id = "liljegrenhindukush"
-
-    # register custom data types here (or language_class, lexeme_class, cognate_class):
-    #concept_class = Concept
+    lexeme_class = Lexeme
 
     # define the way in which forms should be handled
     form_spec = pylexibank.FormSpec(
@@ -76,14 +72,18 @@ class Dataset(pylexibank.Dataset):
                 lang = [l for l in writer.objects['LanguageTable'] if l['ID'] == lid][0]
                 lang['Latitude'] = row['lat']
                 lang['Longitude'] = row['lng']
-                for col in list(row.keys())[5:45]:
+                for j, col in enumerate(list(row.keys())[5:45], start=1):
+                    audio_path = self._data_dir / 'Audio files' / lang['Name'] / '{}_40_{}.wav'.format(lid, str(j).rjust(2, '0'))
                     writer.add_form(
                         Language_ID=lid,
                         Parameter_ID=cmap[col],
                         Value=row[col],
                         Form=row[col],
+                        audio=audio_path.name if audio_path.exists() else None,
                     )
 
+            writer.cldf['FormTable', 'audio'].valueUrl = URITemplate(
+                'https://github.com/cldf-datasets/liljegrenhindukush/blob/master/raw/Hindukush%20data/Audio%20files/Ashkun/{audio}?raw=true')
             LanguageTable = writer.cldf['LanguageTable']
 
         with self.cldf_writer(args, cldf_spec='structure', clean=False) as writer:

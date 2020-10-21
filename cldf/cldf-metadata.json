@@ -15,7 +15,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/liljegrenhindukush",
-            "dc:created": "d314062"
+            "dc:created": "e64ff74"
         },
         {
             "rdf:type": "prov:Entity",
@@ -123,6 +123,11 @@
                     {
                         "datatype": "string",
                         "name": "Profile"
+                    },
+                    {
+                        "datatype": "string",
+                        "valueUrl": "https://github.com/cldf-datasets/liljegrenhindukush/blob/master/raw/Hindukush%20data/Audio%20files/Ashkun/{audio}?raw=true",
+                        "name": "audio"
                     }
                 ],
                 "foreignKeys": [
