@@ -15,7 +15,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/liljegrenhindukush",
-            "dc:created": "e64ff74"
+            "dc:created": "29f6df9"
         },
         {
             "rdf:type": "prov:Entity",
@@ -54,7 +54,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 2360,
+            "dc:extent": 11553,
             "tableSchema": {
                 "columns": [
                     {
@@ -228,7 +228,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 40,
+            "dc:extent": 194,
             "tableSchema": {
                 "columns": [
                     {

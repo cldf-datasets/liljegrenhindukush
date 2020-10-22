@@ -4,6 +4,7 @@ import subprocess
 from csvw.metadata import URITemplate
 import cldfbench
 import pylexibank
+from clldutils.misc import slug
 
 import attr
 
@@ -22,7 +23,7 @@ class Dataset(pylexibank.Dataset):
     form_spec = pylexibank.FormSpec(
         brackets={"(": ")"},  # characters that function as brackets
         separators=";/,",  # characters that split forms e.g. "a, b".
-        missing_data=('?', '-'),  # characters that denote missing data.
+        missing_data=('?', '---'),  # characters that denote missing data.
         strip_inside_brackets=True   # do you want data removed in brackets or not?
     )
 
@@ -63,24 +64,37 @@ class Dataset(pylexibank.Dataset):
                     Glottocode=lang['Glottocode'].split('>')[1].split('<')[0],
                     ISO639P3code=lang['ISO 639-3'].split('>')[1].split('<')[0],
                 ))
-            cmap = writer.add_concepts(lookup_factory=lambda c: c.english.split('(')[0].strip())
-            for i, row in enumerate(self.raw_dir.read_csv(self._data_dir / '40list.csv', dicts=True)):
-                """
-                Language, ISO, Family, lng, lat, 
-                """
-                lid = row['ISO'].replace(' (', '_').replace(')', '')
-                lang = [l for l in writer.objects['LanguageTable'] if l['ID'] == lid][0]
-                lang['Latitude'] = row['lat']
-                lang['Longitude'] = row['lng']
-                for j, col in enumerate(list(row.keys())[5:45], start=1):
-                    audio_path = self._data_dir / 'Audio files' / lang['Name'] / '{}_40_{}.wav'.format(lid, str(j).rjust(2, '0'))
-                    writer.add_form(
-                        Language_ID=lid,
-                        Parameter_ID=cmap[col],
-                        Value=row[col],
-                        Form=row[col],
-                        audio=audio_path.name if audio_path.exists() else None,
-                    )
+            cmap = writer.add_concepts(lookup_factory=lambda c: ('40list', c.english.split('(')[0].strip()))
+            for row in self.etc_dir.read_csv('concepts.csv', dicts=True):
+                cid = '{}-{}'.format(row['Category'], slug(row['Gloss']))
+                cmap[(row['Category'], row['Gloss'])] = cid
+                writer.add_concept(
+                    ID=cid,
+                    Name=row['Gloss'],
+                    Concepticon_ID=row['CONCEPTICON_ID'],
+                )
+            for cat in ['40list', 'Kinship', 'Numerals']:
+                for i, row in enumerate(self.raw_dir.read_csv(self._data_dir / '{}.csv'.format(cat), dicts=True)):
+                    lid = row['ISO'].replace(' (', '_').replace(')', '')
+                    if cat == '40list':
+                        lang = [l for l in writer.objects['LanguageTable'] if l['ID'] == lid][0]
+                        lang['Latitude'] = row['lat']
+                        lang['Longitude'] = row['lng']
+                        for j, col in enumerate(list(row.keys())[5:45], start=1):
+                            audio_path = self._data_dir / 'Audio files' / lang['Name'] / '{}_40_{}.wav'.format(lid, str(j).rjust(2, '0'))
+                            writer.add_lexemes(
+                                Language_ID=lid,
+                                Parameter_ID=cmap[(cat, col)],
+                                Value=row[col],
+                                audio=audio_path.name if audio_path.exists() else None,
+                            )
+                    else:
+                        for j, col in enumerate(list(row.keys())[5:], start=1):
+                            writer.add_lexemes(
+                                Language_ID=lid,
+                                Parameter_ID=cmap[(cat, col)],
+                                Value=row[col],
+                            )
 
             writer.cldf['FormTable', 'audio'].valueUrl = URITemplate(
                 'https://github.com/cldf-datasets/liljegrenhindukush/blob/master/raw/Hindukush%20data/Audio%20files/Ashkun/{audio}?raw=true')

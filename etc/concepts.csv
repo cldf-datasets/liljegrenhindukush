@@ -1,0 +1,155 @@
+Category,Gloss,CONCEPTICON_ID
+Kinship,Father,1217
+Kinship,Mother,
+Kinship,Parent,
+Kinship,Son,
+Kinship,Daughter,
+Kinship,(own) child,
+Kinship,Brother,
+Kinship,sister,
+Kinship,older brother,
+Kinship,younger brother,
+Kinship,older sister,
+Kinship,younger sister,
+Kinship,father’s father,
+Kinship,father’s mother,
+Kinship,mother’s father,
+Kinship,mother’s mother,
+Kinship,son’s son,
+Kinship,son’s daughter,
+Kinship,daughter’s son,
+Kinship,daughter’s daughter,
+Kinship,father’s brother,
+Kinship,father’s older brother,
+Kinship,father’s younger brother,
+Kinship,father’s sister,
+Kinship,father’s older sister,
+Kinship,father’s younger sister,
+Kinship,mother’s brother,
+Kinship,mother’s older brother,
+Kinship,mother’s younger brother,
+Kinship,mother’s sister,
+Kinship,mother’s older sister,
+Kinship,mother’s younger sister,
+Kinship,brother’s son,
+Kinship,brother’s daughter,
+Kinship,sister’s son,
+Kinship,sister’s daughter,
+Kinship,husband,
+Kinship,wife,
+Kinship,father’s older brother’s wife,
+Kinship,father’s younger brother’s wife,
+Kinship,father’s sister’s husband,
+Kinship,mother’s brother’s wife,
+Kinship,mother’s sister’s husband,
+Kinship,son’s wife,
+Kinship,daughter’s husband,
+Kinship,brother’s wife (male ego),
+Kinship,brother’s wife (female ego),
+Kinship,sister’s husband (male ego),
+Kinship,sister’s husband (female ego),
+Kinship,wife’s father,
+Kinship,wife’s mother,
+Kinship,husband’s father,
+Kinship,husband’s mother,
+Kinship,husband’s brother,
+Kinship,husband’s sister,
+Kinship,wife’s brother,
+Kinship,wife’s sister,
+Kinship,husband’s brother’s wife,
+Kinship,husband’s sister’s husband,
+Kinship,wife’s brother’s wife,
+Kinship,wife’s sister’s husband,
+Kinship,co-wife,
+Kinship,son’s wife’s father,
+Kinship,son’s wife’s mother,
+Kinship,daughter’s husband’s father,
+Kinship,daughter’s husband’s mother,
+Kinship,stepsister (no shared parent),
+Kinship,stepbrother (no shared parent),
+Kinship,stepmother,236
+Kinship,stepfather,237
+Kinship,stepson,1059
+Kinship,stepdaughter,1058
+Kinship,father’s father’s father,
+Kinship,mother’s mother’s mother,
+Kinship,forefather,
+Kinship,foremother,
+Kinship,father’s brother’s son,
+Kinship,father’s brother’s daughter,
+Kinship,father’s sister’s son,
+Kinship,father’s sister’s daughter,
+Kinship,mother’s brother’s son,
+Kinship,mother’s brother’s daughter,
+Kinship,mother’s sister’s son,
+Kinship,mother’s sister’s daughter,
+Kinship,relative,
+Kinship,affinal relative,
+Kinship,blood relative,
+Kinship,wife’s relative(s),
+Kinship,head of household,
+Kinship,head of clan,
+Kinship,head of tribe,
+Kinship,"halfsister (same father, different mother)",
+Kinship,"halfbrother (same father, different mother)",
+Kinship,"halfsister (same mother, different father)",
+Kinship,"halfbrother (same mother, different father)",
+Numerals,1,1493
+Numerals,2,1498
+Numerals,3,492
+Numerals,4,1500
+Numerals,5,493
+Numerals,6,1703
+Numerals,7,1704
+Numerals,8,1705
+Numerals,9,1483
+Numerals,10,1515
+Numerals,11,1706
+Numerals,12,1707
+Numerals,13,1708
+Numerals,14,2451
+Numerals,15,1709
+Numerals,16,2454
+Numerals,17,2453
+Numerals,18,1713
+Numerals,19,1714
+Numerals,20,1710
+Numerals,21,1734
+Numerals,22,3166
+Numerals,23,3165
+Numerals,24,1736
+Numerals,25,1738
+Numerals,26,3476
+Numerals,27,3477
+Numerals,28,3478
+Numerals,29,3479
+Numerals,30,1715
+Numerals,31,3480
+Numerals,32,3481
+Numerals,33,3482
+Numerals,34,3483
+Numerals,35,3484
+Numerals,36,3485
+Numerals,37,3486
+Numerals,38,3487
+Numerals,39,3488
+Numerals,40,1716
+Numerals,41,3556
+Numerals,42,3557
+Numerals,43,3489
+Numerals,44,3490
+Numerals,45,3491
+Numerals,46,3558
+Numerals,47,3559
+Numerals,48,3492
+Numerals,49,3560
+Numerals,50,1717
+Numerals,60,1718
+Numerals,70,1721
+Numerals,80,1722
+Numerals,90,1724
+Numerals,100,1634
+Numerals,110,3503
+Numerals,120,3504
+Numerals,200,2676
+Numerals,1000,1843
