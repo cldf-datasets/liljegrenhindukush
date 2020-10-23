@@ -8,6 +8,7 @@
     "dc:identifier": "https://hindukush.ling.su.se/",
     "dc:isVersionOf": null,
     "dc:related": null,
+    "dc:source": "sources.bib",
     "dc:title": "Language Contact and Relatedness in the Hindukush Region",
     "dcat:accessURL": "https://github.com/cldf-datasets/liljegrenhindukush",
     "prov:wasDerivedFrom": [
@@ -15,7 +16,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/liljegrenhindukush",
-            "dc:created": "29f6df9"
+            "dc:created": "e324d4d"
         },
         {
             "rdf:type": "prov:Entity",
@@ -218,6 +219,22 @@
                     {
                         "datatype": "string",
                         "name": "Family"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "SubGroup"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Location"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Elicitation"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Consultant"
                     }
                 ],
                 "primaryKey": [

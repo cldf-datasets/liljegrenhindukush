@@ -11,19 +11,13 @@ Conceptlists in Concepticon:
 [![Build Status](https://travis-ci.org/cldf-datasets/liljegrenhindukush.svg?branch=master)](https://travis-ci.org/cldf-datasets/liljegrenhindukush)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 53%](https://img.shields.io/badge/Concepticon-53%25-red.svg "Concepticon: 53%")
-![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
+![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
 - **Varieties:** 59
 - **Concepts:** 194
 - **Lexemes:** 11,553
-- **Sources:** 0
+- **Sources:** 1
 - **Synonymy:** 1.04
-
-## Possible Improvements:
-
-
-
-- Entries missing sources: 11553/11553 (100.00%)
 
 # Contributors
 

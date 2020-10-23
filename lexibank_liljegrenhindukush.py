@@ -1,3 +1,4 @@
+import shutil
 from pathlib import Path
 import subprocess
 
@@ -5,8 +6,30 @@ from csvw.metadata import URITemplate
 import cldfbench
 import pylexibank
 from clldutils.misc import slug
+from bs4 import BeautifulSoup as bs
 
 import attr
+
+INDO_EUROPEAN_SUBGROUPS = {
+    'indo1321': 'Indo-Aryan',
+    'iran1269': 'Iranian',
+    'nuri1243': 'Nuristani',
+}
+
+BIB = """@misc{hindukush,
+    title = {Language contact and relatedness in the Hindukush region},
+    howpublished = {Project hosted by Stockholm University and funded by Vetenskapsrådet (the Swedish Research Council), grant number 421-2014-631.}
+}"""
+
+
+def title_and_desc(p):
+    text = p.read_text(encoding='utf8').split('| Feature value |')[0].strip()
+    lines = [l.strip() for l in text.split('\n')]
+    if len(lines) < 2:
+        assert p.stem == 'README'
+        return None, None
+    assert lines[1] == ''
+    return bs(lines[0], features="html5lib").text, '\n'.join(lines[2:])
 
 
 @attr.s
@@ -14,12 +37,20 @@ class Lexeme(pylexibank.Lexeme):
     audio = attr.ib(default=None)
 
 
+@attr.s
+class Language(pylexibank.Language):
+    SubGroup = attr.ib(default=None)
+    Location = attr.ib(default=None)
+    Elicitation = attr.ib(default=None)
+    Consultant = attr.ib(default=None)
+
+
 class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
     id = "liljegrenhindukush"
     lexeme_class = Lexeme
+    language_class = Language
 
-    # define the way in which forms should be handled
     form_spec = pylexibank.FormSpec(
         brackets={"(": ")"},  # characters that function as brackets
         separators=";/,",  # characters that split forms e.g. "a, b".
@@ -38,31 +69,52 @@ class Dataset(pylexibank.Dataset):
             ),
         }
 
-    @property
-    def _data_dir(self):
-        return self.raw_dir / 'Hindukush data'
-
     def cmd_download(self, args):
-        self.raw_dir.xlsx2csv(self._data_dir / 'MultipleFeaturesHK-20200918-forRobert.xlsx')
-        for p in self.raw_dir.glob('*.docx'):
+        self.raw_dir.xlsx2csv(self._data_dir / 'MultipleFeaturesHK.xlsx')
+        for p in self._data_dir.joinpath('Features').glob('*.docx'):
+            shutil.copy(str(p), self.raw_dir / p.name)
             subprocess.check_call([
                 'pandoc',
                 '-o', p.stem + '.md',
                 '-t', 'markdown-simple_tables-multiline_tables-grid_tables',
                 p.name], cwd=str(self.raw_dir))
+            self.raw_dir.joinpath(p.name).unlink()
+
+    @property
+    def _data_dir(self):
+        return self.raw_dir / 'Hindukush data'
 
     def cmd_makecldf(self, args):
         """
         Convert the raw data to a CLDF dataset.
         """
+        features = list(self.raw_dir.read_csv('MultipleFeaturesHK.MultipleFeatures.csv', dicts=True))
+        gl_by_id = {l.id: l for l in args.glottolog.api.languoids()}
+        lerrata = {r['Name']: r['Glottocode'] for r in self.etc_dir.read_csv('languages.csv', dicts=True)}
+        coords = {r['ISO']: (r['Coord1'], r['Coord2']) for r in features}
         with self.cldf_writer(args) as writer:
+            writer.add_sources(BIB)
             for lang in self.raw_dir.read_csv(self._data_dir / 'DataSampleHK.csv', dicts=True):
+                gc = lerrata.get(lang['Language'], lang['Glottocode'].split('>')[1].split('<')[0])
+                glang = gl_by_id[gc]
+                sg = None
+                for k, v in INDO_EUROPEAN_SUBGROUPS.items():
+                    if k in [l[1] for l in glang.lineage]:
+                        sg = v
+                        break
                 writer.add_language(**dict(
                     ID=lang['Project code'].replace(' (', '_').replace(')', ''),
                     Name=lang['Language'],
-                    #Description=lang['Location'],
-                    Glottocode=lang['Glottocode'].split('>')[1].split('<')[0],
+                    Latitude=coords[lang['Project code']][1],
+                    Longitude=coords[lang['Project code']][0],
+                    Glottocode=gc,
+                    Glottolog_Name=glang.name,
                     ISO639P3code=lang['ISO 639-3'].split('>')[1].split('<')[0],
+                    Family=glang.lineage[0][0] if glang.lineage else None,
+                    SubGroup=sg,
+                    Location=lang['Location'],
+                    Elicitation=lang['Elicitation'],
+                    Consultant=lang['Consultant code'],
                 ))
             cmap = writer.add_concepts(lookup_factory=lambda c: ('40list', c.english.split('(')[0].strip()))
             for row in self.etc_dir.read_csv('concepts.csv', dicts=True):
@@ -78,8 +130,6 @@ class Dataset(pylexibank.Dataset):
                     lid = row['ISO'].replace(' (', '_').replace(')', '')
                     if cat == '40list':
                         lang = [l for l in writer.objects['LanguageTable'] if l['ID'] == lid][0]
-                        lang['Latitude'] = row['lat']
-                        lang['Longitude'] = row['lng']
                         for j, col in enumerate(list(row.keys())[5:45], start=1):
                             audio_path = self._data_dir / 'Audio files' / lang['Name'] / '{}_40_{}.wav'.format(lid, str(j).rjust(2, '0'))
                             writer.add_lexemes(
@@ -87,6 +137,7 @@ class Dataset(pylexibank.Dataset):
                                 Parameter_ID=cmap[(cat, col)],
                                 Value=row[col],
                                 audio=audio_path.name if audio_path.exists() else None,
+                                Source=['hindukush'],
                             )
                     else:
                         for j, col in enumerate(list(row.keys())[5:], start=1):
@@ -94,6 +145,7 @@ class Dataset(pylexibank.Dataset):
                                 Language_ID=lid,
                                 Parameter_ID=cmap[(cat, col)],
                                 Value=row[col],
+                                Source=['hindukush'],
                             )
 
             writer.cldf['FormTable', 'audio'].valueUrl = URITemplate(
@@ -101,17 +153,11 @@ class Dataset(pylexibank.Dataset):
             LanguageTable = writer.cldf['LanguageTable']
 
         with self.cldf_writer(args, cldf_spec='structure', clean=False) as writer:
-            descs = {
-                p.stem.split('-')[0]: p.read_text(encoding='utf8').split('| Feature value |')[0]
-                for p in self.raw_dir.glob('*.md')
-            }
+            writer.cldf.sources.add(BIB)
+            descs = {p.stem.split('-')[0]: title_and_desc(p) for p in self.raw_dir.glob('*.md')}
             writer.cldf.add_component(LanguageTable)  # we reuse the one from above!
             writer.cldf.add_component('CodeTable')
-            for i, row in enumerate(self.raw_dir.read_csv(
-                    'MultipleFeaturesHK-20200918-forRobert.MultipleFeatures.csv', dicts=True)):
-                """
-                Language, ISO, Family, lng, lat, 
-                """
+            for i, row in enumerate(features):
                 if not any(v for v in row.values()):
                     break
                 lid = row['ISO'].replace(' (', '_').replace(')', '')
@@ -119,8 +165,8 @@ class Dataset(pylexibank.Dataset):
                     for col in list(row.keys())[4:]:
                         writer.objects['ParameterTable'].append(dict(
                             ID=col,
-                            Name=col,
-                            Description=descs.get(col),
+                            Name=descs.get(col, (None, None))[0] or col,
+                            Description=descs.get(col, (None, None))[1],
                         ))
                         for code, desc in [
                             ('1', 'present'),
@@ -141,4 +187,5 @@ class Dataset(pylexibank.Dataset):
                             Parameter_ID=col,
                             Code_ID='{}-{}'.format(col, row[col] if row[col] != '?' else 'x'),
                             Value=row[col],
+                            Source=['hindukush'],
                         ))
