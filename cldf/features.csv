@@ -1,4 +1,4 @@
-ID,Name,Description
+ID,Name,Description,Category
 GC01a,Grammatical Gender,"Agreement is taken as the defining characteristic of grammatical gender.
 This is exemplified in ‎(1); the verb in Sawi takes a masculine
 agreement suffix *-**u*** with the masculine noun ‘rain’ as a subject
@@ -17,7 +17,7 @@ and a feminine agreement suffix *-**i*** with the feminine noun ‘sun’.
 
 A majority of our sample varieties display evidence of two or more
 genders lexically associated with nouns, while only 12 of the sample
-varieties lack this property altogether."
+varieties lack this property altogether.",Grammatical categories
 GC01b,Sex-based Gender,"Differentiation in languages with gender categories (see Grammatical
 Gender) may be based on or linked to a biological differentiation
 between male and female referents, as in ‎(1). In languages with a
@@ -40,7 +40,7 @@ non-humans can be assigned masculine or feminine gender too.
 
 A majority of our sample varieties display evidence of sex-based noun
 classification, while only 14 of the sample varieties lack this
-property."
+property.",Grammatical categories
 GC01c,Animacy-based Gender,"Differentiation in languages with gender categories (see Grammatical
 Gender) may be based on animacy differentiation. Often nouns denoting
 animates are distinguished from those denoting inanimates in such
@@ -61,7 +61,7 @@ forms for inanimate and animate agreement.
 
 Animacy-based differentiation of nouns is present in 11 of the sample
 languages, while the majority of the sample languages do not display
-this feature value."
+this feature value.",Grammatical categories
 GC02a,Unique A Case,"Morphological case on nouns often expresses the syntactic and semantic
 relationships between clausal constituents. In this study, we
 investigated to what extent a unique case marker was used in the past
@@ -92,7 +92,7 @@ zero marked or takes a dative case marker.
 
 Unique case-marking of the A argument is present in 41 of the sample
 languages, i.e. in the majority of them. The languages lacking this
-property are primarily found in the region’s northwest."
+property are primarily found in the region’s northwest.",Grammatical categories
 GC02b,Unique S Case,"Morphological case on nouns often expresses the syntactic and semantic
 relationships between clausal constituents. In this study, we
 investigated to what extent a unique case marker was used in the past
@@ -120,7 +120,7 @@ object is marked with a dative case clitic *=koː*.
 
 Unique case-marking of the S argument is present in only 13 of the
 sample languages. In the other languages its case marking is the same as
-that for one or more of the other arguments, A, P or R."
+that for one or more of the other arguments, A, P or R.",Grammatical categories
 GC02c,Unique P Case,"Morphological case on nouns often expresses the syntactic and semantic
 relationships between clausal constituents. In this study, we
 investigated to what extent a unique case marker was used in the past
@@ -148,7 +148,7 @@ a transitive or an intransitive clause.
 
 Unique case-marking of the P argument is present in 19 of the sample
 languages, i.e. in approximately a third of the sample. The languages
-displaying this property are primarily found in the region’s northwest."
+displaying this property are primarily found in the region’s northwest.",Grammatical categories
 GC02d,Unique R Case,"Morphological case on nouns often expresses the syntactic and semantic
 relationships between clausal constituents. In this study, we
 investigated to what extent a unique case marker was used for the
@@ -175,7 +175,7 @@ are zero marked.
 
 Unique case-marking of the R argument is present in 50 of the sample
 languages, i.e. in the majority of them. The few languages lacking this
-property are primarily found in the region’s south."
+property are primarily found in the region’s south.",Grammatical categories
 GC03,Multi-Value Distance Contrasts,"Distance contrasts expressed in adnominal demonstratives were
 investigated. A three-way contrast in relation to the deictic centre was
 regarded as the minimum for being classified as a multi-value distance
@@ -211,7 +211,7 @@ many of the sample languages additional deictic parameters involved
 as non-deictic distinctions expressed (such as case, number and gender)
 that make the analysis of the limited material extremely challenging.
 The present study should therefore be treated as preliminary in this
-respect."
+respect.",Grammatical categories
 GC04a,Prepositional Coding of Source,"<span id=""_Hlk51063511"" class=""anchor""></span>The strategy for marking a
 noun phrase as a source or an origin was investigated. <span
 id=""_Hlk51060338"" class=""anchor""></span>The positive value of this
@@ -233,7 +233,7 @@ role is coded by a preposition, as shown in (1).
 This is a feature is a minority feature and limited to the Iranian
 languages of the sample (primarily in the north of the region). It is
 present (sometimes in addition to other coding, such as suffixing or a
-postposition) in 11 of the languages."
+postposition) in 11 of the languages.",Grammatical categories
 GC04b,Postpositional Coding of Source,"The strategy for marking a noun phrase as a source or an origin was
 investigated. The positive value of this feature reflects the presence
 of a marker following the noun phrase, whether clitical or adpositional.
@@ -253,7 +253,7 @@ shown in (1).
 
 This is a feature of nearly all the sample languages, either as the only
 explicit marking or in addition to other coding, such as prepositions or
-suffixes."
+suffixes.",Grammatical categories
 GC05a,Prepositional Coding of Goal,"The strategy for marking a noun phrase as a goal was investigated. <span
 id=""_Hlk51060338"" class=""anchor""></span>The positive value of this
 feature reflects the presence of a marker preceding the noun phrase,
@@ -273,7 +273,7 @@ semantic role is coded by a preposition, as shown in (1).
 
 This is minority feature and limited to some of the Iranian languages in
 the north. It is present (sometimes in addition to other coding, such as
-suffixing or a postposition) in seven of the languages."
+suffixing or a postposition) in seven of the languages.",Grammatical categories
 GC05b,Postpositional Coding of Goal,"The strategy for marking a noun phrase as a goal was investigated. The
 positive value of this feature reflects the presence of a marker
 following the noun phrase, whether clitical or adpositional. In
@@ -293,7 +293,7 @@ shown in (1).
 
 This is a feature of a majority of the sample languages, either as the
 only explicit marking or in addition to other coding, such as
-prepositions or suffixes."
+prepositions or suffixes.",Grammatical categories
 GC06a,Prepositional Coding of Location,"The strategy for marking a noun phrase as a location was investigated.
 <span id=""_Hlk51060338"" class=""anchor""></span>The positive value of this
 feature reflects the presence of a marker preceding the noun phrase,
@@ -316,7 +316,7 @@ preposition *pə* and a postposition *kiː* is used.
 
 This is a minority feature and limited to Iranian languages (primarily
 in the north). It is present (sometimes in addition to other coding,
-such as suffixing or a postposition) in eleven of the sample languages."
+such as suffixing or a postposition) in eleven of the sample languages.",Grammatical categories
 GC06b,Postpositional Coding of Location,"The strategy for marking a noun phrase as a location was investigated.
 The positive value of this feature reflects the presence of a marker
 following the noun phrase, whether clitical or adpositional. In
@@ -336,7 +336,7 @@ postpositions, as shown in (1).
 
 This is a feature of a majority of the sample languages, either as the
 only explicit marking or in addition to other coding, such as
-prepositions or suffixes."
+prepositions or suffixes.",Grammatical categories
 GC07a,Possessive Prefixes,"The presence of prefixes indexing the inalienable possessor of a
 possessee was investigated. This is a feature of Hunza Burushaski, as
 shown in (1). These are used with a restricted class of possessee nouns
@@ -365,7 +365,7 @@ prefix attached to them (indexing for person, animacy and number).
 
 This is a feature found only in the two Burushaski varieties in this
 sample. However, see the feature Possessive Suffixes for similar
-functions expressed with suffixes instead of prefixes."
+functions expressed with suffixes instead of prefixes.",Grammatical categories
 GC07b,Possessive Suffixes,"The presence of suffixes indexing the inalienable possessor of a
 possessee was investigated. This is a feature of Indo-Aryan Alasai
 Pashai, as shown in (1). These are mainly used with a restricted class
@@ -393,7 +393,7 @@ to be fully investigated.
 This is a feature found to a varying extent in at least 21 of the
 languages in the sample, primarily in the western part of the region.
 See the feature Possessive Prefixes for similar functions expressed with
-prefixes instead of suffixes."
+prefixes instead of suffixes.",Grammatical categories
 PH01a,Retroflexion,"The use of retroflex sounds to obtain (minimal) contrasts in the lexicon
 was investigated. Although a distinct retroflex place of articulation
 was detected in most cases, it was indeed the contrast between
@@ -427,7 +427,7 @@ containing retroflex sounds are displayed in ‎(1).
 
 Retroflexion is a strongly areal feature, present in as many as 54 of
 the sample languages. Turkic is the only phylogenetic grouping in which
-this feature is entirely absent."
+this feature is entirely absent.",Phonology
 PH01b,Retroflex Plosives,"The use of retroflex (or apical post-alveolar) plosive consonants
 contrasting with dental/alveolar plosives was investigated. In Nuristani
 Ashkun, a dental voiceless plosive (1a) contrasts with a retroflex
@@ -446,7 +446,7 @@ a retroflex voiced plosive (1d).
 The presence of retroflex plosives is a strongly areal feature, present
 in as many as 50 of the sample languages. They are absent in the
 inventories of the Turkic languages, some of the Iranian languages and
-in Tibeto-Burman Ladakhi."
+in Tibeto-Burman Ladakhi.",Phonology
 PH01c,Retroflex Fricatives,"The use of retroflex (or apical post-alveolar) fricative consonants
 contrasting with dental/alveolar fricatives, on the one hand, and with
 laminal post-alveolar/palatal fricatives, on the other, was
@@ -467,7 +467,7 @@ post-alveolar fricatives, as shown in (1).
 Retroflex fricatives is a majority feature in the area, present in 33 of
 the sample languages. The presence of this feature is particularly
 prominent at the geographical core of the Hindu Kush, shared by
-Indo-Aryan, Nuristani, Iranian and Burushaski alike."
+Indo-Aryan, Nuristani, Iranian and Burushaski alike.",Phonology
 PH02a,Dental Affricates,"The use of dental affricates contrasting with affricates with other
 places of articulation as well as with other dental sounds was
 investigated. The inventory of Iranian Wakhi of Pakistan contains a
@@ -488,7 +488,7 @@ d\. /ðas/ ‘ten’ (WBLp-NumEK:010)
 The presence of dental affricates is a strongly areal features, present
 in as many as 47 or the sample languages. The feature is present in
 languages across five of the phylogenetic groupings, while absent in
-both of the Turkic sample languages."
+both of the Turkic sample languages.",Phonology
 PH02b,Retroflex Affricates,"The use of retroflex affricates contrasting with affricates with other
 places of articulation as well as with other retroflex sounds was
 investigated. All of the sample languages that have retroflex affricates
@@ -511,7 +511,7 @@ While the presence of retroflex affricates is not a majority feature in
 the region in general, it is a strongly subareal feature. All of the
 languages spoken at the geographical core of the Hindu Kush have
 retroflex affricates, whether Indo-Aryan, Iranian, Nuristani or
-Burushaski."
+Burushaski.",Phonology
 PH03a,(C)VC Syllable Structure,"The occurrence of a single consonant in the position after a vowel was
 investigated. This can, but does not have to, co-occur with the presence
 of a single onset consonant. Thus, both VC and CVC structures are
@@ -527,7 +527,7 @@ structures occur, as displayed in (1).
 | c.  | /d͡ʒa.maːʂ/ | ‘son-in-law’ (TRW-KinUD:045) |
 
 In the region, (C)VC Syllable Structure is found in all of the sample
-languages."
+languages.",Phonology
 PH03b,CCV Syllable Structure,"The occurrence of two consonants before a vowel was investigated. This
 can, but does not have to, co-occur with the presence of one or more
 coda consonants. Such sequences of two consonants are exemplified with
@@ -542,7 +542,7 @@ words from Iranian Sanglechi in (1).
 | c.  | /vruːd/  | ‘brother’ (SGY-KinGM:007) |
 
 In the region, CCV Syllable Structures are found in 39 of the sample
-languages."
+languages.",Phonology
 PH03c,CCCV Syllable Structure,"The occurrence of three consonants before a vowel was investigated. This
 can, but does not have to, co-occur with the presence of one or more
 coda consonants. Such sequences of three consonants are exemplified with
@@ -557,7 +557,7 @@ words from Tibeto-Burman Balti in (1).
 
 In the region, CCCV Syllable Structures are with relative certainty
 found in only six of the sample languages. Three of those are
-Tibeto-Burman."
+Tibeto-Burman.",Phonology
 PH03d,(C)VCC Syllable Structure,"The occurrence of two consonants in the position after a vowel was
 investigated. This can, but does not have to, co-occur with the presence
 of one or more onset consonants. The presence of this feature is
@@ -572,7 +572,7 @@ exemplified by the words from Iranian Ishkashimi displayed in (1).
 | c.  | /krust/ | ‘skin’ (ISK-40listSO:030)  |
 
 In the region, (C)VCC Syllable Structure is found in 42 of the sample
-languages."
+languages.",Phonology
 PH04,Lateral Fricatives,"The occurrence of voiceless lateral fricatives was investigated. In
 languages where it occurs, it appears to contrast phonologically with
 voiceless lateral approxmants. Indo-Aryan Gawarbati is one of those
@@ -590,7 +590,7 @@ Lateral fricatives is a minority feature in the area, but with its
 presence in 13 of the sample languages it has an overall frequency that
 is considerably higher than its global presence. It is found in
 Tibeto-Burman as well as among the region’s Iranian and Indo-Aryan
-languages."
+languages.",Phonology
 PH05a,Voiceless Aspiration,"The use of aspiration to contrast voiceless sounds was investigated. In
 languages that display this feature there is a subset of aspirated
 sounds that contrasts at several places of articulation with the
@@ -622,7 +622,7 @@ regional sample. It is a partly sub-areal feature, primarily associated
 with the Eastern part of the region; partly a phylogenetic feature,
 present primarily (but not uniformly so) in Indo-Aryan, Tibeto-Burman
 and Burushaski, largely absent in Iranian, and completely absent in
-Nuristani and Turkic."
+Nuristani and Turkic.",Phonology
 PH05b,Voiced Aspiration,"The use of aspiration to contrast voiced sounds was investigated. In
 languages that display this feature there is a subset of aspirated
 sounds that contrasts at several places of articulation with the
@@ -653,7 +653,7 @@ entire subset of aspirated voiced units.
 
 Voiced aspiration contrast is in any case a minority feature in the
 region, possibly present in eight of the varieties. All of those, except
-Iranian Parachi, are Indo-Aryan."
+Iranian Parachi, are Indo-Aryan.",Phonology
 PH06,Uvulars,"The presence of consonants with a uvular place of articulation was
 investigated. The uvulars that are found in the sample are almost
 without exception either plosives or fricatives. Only uvular consonants
@@ -676,7 +676,7 @@ fricative /χ/ is Iranian Darwazi, as exemplified in (1).
 Uvular consonants are present in a little more than half of the sample
 languages. All six phylogenetic groups are represented. A slight
 north/south divide can be traced, with what seems like a preference for
-uvulars in the north as compared to the south."
+uvulars in the north as compared to the south.",Phonology
 PH07,Nasalized Vowels,"The presence of contrastive vowel nasalization was investigated,
 exemplified by Pakistani Gojri words with oral vs corresponding
 nasalized vowels in (1).
@@ -695,7 +695,7 @@ nasalized vowels in (1).
 Constrastive vowel nasalization occurs in 23 of the sample languages,
 but its occurrence is both geographically and phylogenetically
 restricted. It is typical of Indo-Aryan languages in the south and east.
-It does not occur in Turkic, Iranian or Tibeto-Burman."
+It does not occur in Turkic, Iranian or Tibeto-Burman.",Phonology
 PH08a,Small Consonant Inventory,"The size of the consonant inventory of each language was investigated.
 The categories labelled “small” (6-14 consonants) and “moderately small”
 (15-18 consonants) in WALS, were collapsed and any inventory size
@@ -721,7 +721,7 @@ consonants.
 
 <span id=""_Hlk50485920"" class=""anchor""></span>Only two of the sample
 languages were recorded as using 18 or less consonants in the 40-item
-list, Turkic Kyrgyz and Nuristani East Kati."
+list, Turkic Kyrgyz and Nuristani East Kati.",Phonology
 PH08b,Large Consonant Inventory,"The size of the consonant inventory of each language was investigated.
 The categories labelled “moderately large” (26-33) and “large” (34 or
 more) in WALS, were collapsed and any inventory size comprising 26 or
@@ -751,7 +751,7 @@ in which as many as 35-36 consonant phonemes have been posited.)
 
 19 languages were recorded as using 26 or more consonants in the 40-item
 list. There is a tendency for those languages to belong in the eastern
-half of the region."
+half of the region.",Phonology
 WO01a,Verb Object Word Order,"For this feature systematic occurrences of a verb preceding a lexical
 (nonpronominal) object in a transitive clause were noted. In the sample,
 Indo-Aryan Kashmiri of India is such a language (although clauses with
@@ -767,7 +767,7 @@ OV order occur too), as shown in (1).
 | ‘The boy killed the snake with a stick.’ (KASi-ValQuestHK:026/028) |
 
 In the region, VO Word Order is a feature only occurring in the two
-varieties of Kashmiri included in the sample."
+varieties of Kashmiri included in the sample.",Word order
 WO01b,Object Verb Word Order,"For this feature systematic occurrences of a verb following a lexical
 (nonpronominal) object in a transitive clause were noted. The Indo-Aryan
 Kalkoti sentence in (1) illustrates this word order.
@@ -782,7 +782,7 @@ Kalkoti sentence in (1) illustrates this word order.
 | ‘The women cooked the meat.’ (XKA-ValQuestJK:079)       |
 
 In the region, OV Word Order is found in all of the sample languages
-(although it is not the dominant one in the two varieties of Kashmiri)."
+(although it is not the dominant one in the two varieties of Kashmiri).",Word order
 WO02a,Adpositions,"This feature is defined as the occurrence of a distinct category of
 syntactic (vis-à-vis morphological) elements that combine with nouns or
 pronouns to express spatial or temporal relations. Admittedly, the
@@ -803,7 +803,7 @@ be coded in the oblique case, as shown in (1).
 
 In the region, there are no languages that clearly lack this property.
 However, the present data is insufficient for classifying two of the
-languages in the sample with certainty."
+languages in the sample with certainty.",Word order
 WO02b,Postpositions,"Postpositions are adpositions that follow the noun phrase they occur
 with. In Kyrgyz, see ‎(1), the postposition (alternatively case suffix)
 *ga* encodes a goal relation.
@@ -830,7 +830,7 @@ Pashto of Afghanistan, as can be seen in ‎(2).
 
 The presence of postpositions is a majority feature in the region. Only
 four of the sample languages (all Iranian) do not show any evidence of
-having postpositions, while two are indeterminate in this respect."
+having postpositions, while two are indeterminate in this respect.",Word order
 WO02c,Prepositions,"Prepositions are adpositions that precede the noun phrase they occur
 with. In Iranian Yidgha, see ‎(1), the preposition *ne* encodes a goal
 relation.
@@ -856,7 +856,7 @@ Iranian Parachi, as can be seen in ‎(2).
 | ‘The children sat on the floor.’ (PRC-ValQuestSH:050)  |
 
 The presence of prepositions is limited to the Iranian languages of the
-region and are found primarily in the northwest."
+region and are found primarily in the northwest.",Word order
 WO03,Initial Interrogative in Content Question,"Crosslinguistically, interrogative phrases occur either obligatorily at
 the beginning of the sentence (as it does in English), or in other
 positions, such as in the position in which the corresponding
@@ -875,7 +875,7 @@ modifiers do.
 
 In the sample, none of the languages display an obligatory
 sentence-initial occurrence. Instead, interrogative phrases occur in the
-same position as in non-interrogative sentences."
+same position as in non-interrogative sentences.",Word order
 WO04a,Initial Polar Question Particle,"Questions that elicit a response equivalent to ‘yes’ or ‘no’ are formed
 with an utterance-initial question particle in some languages. In Gojri
 as spoken in Afghanistan this is an option, as seen in (1),while similar
@@ -903,7 +903,7 @@ language.
 
 Approximately a third of the languages in the sample use initial polar
 question markers. These represent Indo-Aryan, Nuristani, Iranian, and
-Turkic. All of those are languages spoken in Afghanistan."
+Turkic. All of those are languages spoken in Afghanistan.",Word order
 WO04b,Final Polar Question Particle,"Questions that elicit a response equivalent to ‘yes’ or ‘no’ are formed
 with an utterance-final question particle in some languages.
 Tibeto-Burman Ladakhi is one of those languages. An example is given in
@@ -919,7 +919,7 @@ copula.
 | ‘Is this your ball?’ (LBJ-DemIS:005a) |
 
 Nearly half of the languages in the sample use final polar question
-markers. These represent all the six phyla in the sample."
+markers. These represent all the six phyla in the sample.",Word order
 WO05a,Adjective Noun Word Order,"The relative order of a noun and an adjective modifying it was
 investigated. The order AdjN, i.e. the adjective preceding the noun, is
 exemplified by Indo-Aryan Gawarbati of Afghanistan in (1).
@@ -935,7 +935,7 @@ Afghanistan \[gwt(a)\] (Indo-Aryan)
 
 An overwhelming majority of the sample languages apply an adjective—noun
 word order (either as the only option, or in addition to the reverse
-order). It is only entirely absent in three of the languages."
+order). It is only entirely absent in three of the languages.",Word order
 WO05b,Noun Adjective Word Order,"The relative order of a noun and an adjective modifying it was
 investigated. The order NAdj, i.e. the adjective following the noun, is
 exemplified by Tibeto-Burman Ladakhi in (1).
@@ -951,7 +951,7 @@ exemplified by Tibeto-Burman Ladakhi in (1).
 
 This is a minority feature. Only seven sample languages apply a
 noun—adjective word order (either as the only option, or in addition to
-the reverse order)."
+the reverse order).",Word order
 WO06,Demonstrative Noun Word Order,"The relative order of a noun and a demonstrative accompanying it was
 investigated. The order DemN, i.e. the demonstrative preceding the noun,
 is exemplified by Nuristani Eastern Kati in (1).
@@ -965,7 +965,7 @@ is exemplified by Nuristani Eastern Kati in (1).
 | DEM                           | <span style=""font-variant:small-caps;"">N</span> |     |     |
 | ‘that ball’ (BSHe-DemZA:005a) |
 
-This order is present in all the languages of the sample."
+This order is present in all the languages of the sample.",Word order
 WO07a,Object Oblique Word Order,"The order in a clause between a lexical object and an oblique phrase was
 investigated. The latter is a noun phrase or an adverbial phrase that
 functions as an adverbial modifier of the verb. The order object
@@ -983,7 +983,7 @@ Afghanistan, as seen in (1).
 
 This order is present in a little more than half of the sample, either
 as the only option or as an alternative to the reverse order. This
-feature is primarily present in the west and the north."
+feature is primarily present in the west and the north.",Word order
 WO07b,Oblique Object Word Order,"The order in a clause between a lexical object and an oblique phrase was
 investigated. The latter is a noun phrase or an adverbial phrase that
 functions as an adverbial modifier of the verb. The order object
@@ -1001,7 +1001,7 @@ in (1).
 
 This order is present in a majority of the sample, either as the only
 option or as an alternative to the reverse order. It is mainly absent in
-the northwestern part of the region."
+the northwestern part of the region.",Word order
 WO08,Subject Verb Word Order,"The order of lexical/pronominal subject and verb was investigated. The
 order subject followed by verb is exemplified by Nuristani Kamviri, as
 illustrated in (1).
@@ -1015,7 +1015,7 @@ illustrated in (1).
 | SUBJ                                   | <span style=""font-variant:small-caps;"">VERB</span>         |     |     |     |     |
 | ‘The snake died.’ (XVI-ValQuestAB:061) |
 
-This order is present in all of the languages of the sample."
+This order is present in all of the languages of the sample.",Word order
 WO09,Genitive Noun Word Order,"The order of a genitive noun phrase with respect to the head noun was
 investigated. The order GenN, i.e. the genitive noun phrase preceding
 the noun, is exemplified by Indo-Aryan Gawarbati of Pakistan in (1).
@@ -1034,7 +1034,7 @@ the noun, is exemplified by Indo-Aryan Gawarbati of Pakistan in (1).
 |     | ‘the page of a book’ (GWTp-ValQuestAS:032)                            |
 
 An overwhelming majority of the sample languages apply a genitive—noun
-word order. It is only entirely absent in two of the languages."
+word order. It is only entirely absent in two of the languages.",Word order
 WO10,Possessive Noun Word Order,"The order of an independent possessive pronoun with respect to the head
 noun was investigated. The order PossN, i.e. the possessive pronoun
 preceding the noun, is exemplified by Indo-Aryan Khowar in (1).
@@ -1051,7 +1051,7 @@ preceding the noun, is exemplified by Indo-Aryan Khowar in (1).
 An overwhelming majority of the sample languages apply a possessive—noun
 word order (some of them in addition to the use of a possessive affix).
 It is entirely absent only in one of the languages, namely Iranian
-Darwazi."
+Darwazi.",Word order
 CS01a,Ergative Alignment (Nouns),"In an ergative system of case marking, A, the more agent-like NP
 argument of a two-place transitive predicate, is encoded differently
 from S, the core argument of a one-place intransitive predicate. Any
@@ -1077,7 +1077,7 @@ argument remains zero marked for case.
 A majority of our sample varieties display evidence of ergative
 alignment for nouns. The distribution is clearly subareal, with ergative
 alignment in the south and in the central parts of the Hindu Kush
-region, and the lack thereof primarily in the north."
+region, and the lack thereof primarily in the north.",Clause structure
 CS01b,Accusative Alignment (Nouns),"In an accusative system of case marking, P, the more patient-like NP
 argument of a two-place transitive predicate, is encoded differently
 from S, the core argument of a one-place intransitive predicate. Any
@@ -1106,7 +1106,7 @@ Accusative alignment is clearly subareal in its distribution. While it
 is not a feature associated with the geographical core of the Hindu
 Kush, it is strongly represented in the northwestern sub-region (in
 Indo-Aryan, Nuristani, Iranian and Turkic), and then again in the
-southeastern sub-region (Indo-Aryan and Tibeto-Burman)."
+southeastern sub-region (Indo-Aryan and Tibeto-Burman).",Clause structure
 CS02a,A Agreement (Past),"This feature is defined as the presence in the past tenses of verbal
 agreement with the more agent-like NP argument of a two-place transitive
 predicate. It may or may not co-occur with agreement with the more
@@ -1134,7 +1134,7 @@ class=""anchor""></span>
 |     | ‘The woman shouted at the children.’ (SCLi-ValQuestSA:020) |
 
 This feature, evidenced in nearly half of the sample, is particularly
-well-represented in the northern half of the region."
+well-represented in the northern half of the region.",Clause structure
 CS02b,P Agreement (Past),"This feature is defined as the presence in the past tenses of verbal
 agreement with the more patient-like NP argument of a two-place
 transitive predicate. It may or may not co-occur with agreement with the
@@ -1159,7 +1159,7 @@ in gender and number, as seen in ‎(1).
 |     | ‘The girl filled the glass with water.’ (PHL-ValQuestNA:044)                    |
 
 This feature, evidenced in nearly half of the sample, is particularly
-well-represented in the southern half of the region."
+well-represented in the southern half of the region.",Clause structure
 CS03a,Zero Copula for Predicate Nominals,"Clauses with nonverbal predicates may or may not have a copula, i.e. an
 element explicitly linking a copula subject with a copula complement.
 For complements encoding identity, some of the sample languages do not
@@ -1184,7 +1184,7 @@ Iranian Rushani in ‎(2).
 
 Although not a majority feature in the region in its entirety, this is a
 strongly sub-areal feature, occurring in Iranian, Indo-Aryan and Turkic
-in a contiguous area in the region’s northwest."
+in a contiguous area in the region’s northwest.",Clause structure
 CS03b,Zero Copula for Predicate Adjectives,"Clauses with nonverbal predicates may or may not have a copula, i.e. an
 element explicitly linking a copula subject with a copula complement.
 For complements encoding properties, some of the sample languages do not
@@ -1209,7 +1209,7 @@ Uzbek in ‎(2).
 Although not a majority feature in the region in its entirety, this is
 possibly a significant sub-areal feature, occurring mainly in the
 northern parts of the region, evidently in Iranian, Indo-Aryan and
-Turkic."
+Turkic.",Clause structure
 CS03c,Shared Encoding of Nominal and Adjectival Predicates,"It was investigated whether the same copula could be applied equally to
 nominal and adjectival predicates. Nuristani Ashkun, as in (1), is an
 example of a language in which nominal and adjectival predicates
@@ -1244,7 +1244,7 @@ used.
 |     | ‘That house is very beautiful.’ (PRX-DemMH:006a) |
 
 This feature is present in the majority of the sample. It is absent in
-all three of the sample’s Tibeto-Burman languages."
+all three of the sample’s Tibeto-Burman languages.",Clause structure
 CS04a,Ergative Alignment of Verbal Marking,"In an ergative system of verb agreement, features of the more
 patient-like NP argument of a two-place transitive predicate and
 features of the core NP argument of a one-place intransitive predicate,
@@ -1281,7 +1281,7 @@ of the transitive clause.<span id=""_Hlk51167693"" class=""anchor""></span>
 |     | ‘The man screamed.’ (PBUp-ValQuestKK:058)                                                               |
 
 This feature, evidenced in nearly half of the sample, is particularly
-well-represented in the southern half of the region."
+well-represented in the southern half of the region.",Clause structure
 CS04b,Accusative Alignment of Verbal Marking,"In an accusative system of verb agreement, features of the more
 agent-line NP argument of a two-place transitive predicate and features
 of the core NP argument of a one-place intransitive predicate are
@@ -1319,7 +1319,7 @@ id=""_Ref51167911"" class=""anchor""></span>\[khw\] (Indo-Aryan)
 This feature is a majority feature, evidenced in the entire region
 (whether as the only alignment pattern, or in addition to an ergative
 alignment pattern) except for the far east with its Tibeto-Burman
-languages which altogether lack agreement marking on verbs."
+languages which altogether lack agreement marking on verbs.",Clause structure
 CS05,Non-Nominative Experiencer,"The use of a case form or construction other than the basic/direct or
 nominative as a subject to encode a noun phrase as an experiencer was
 investigated. In Indo-Aryan Kashmiri of India, as seen in (1), the
@@ -1349,7 +1349,7 @@ latter lacking an explicit subject.
 
 This feature was evidenced in approximately half of the sample. However,
 this is not to say that it couldn’t be expressed non-nominatively in the
-languages given a negative value."
+languages given a negative value.",Clause structure
 CS06a,Occurrence of Theme=Patient (Indirect Object Construction),"The occurrence of an indirect object construction was investigated, that
 is: whether the theme of a ditransitive verb is treated like the patient
 of a mono-transitive verb, whereas the recipient is given a different
@@ -1376,7 +1376,7 @@ This feature was evidenced (as the only possible construction or as a
 construction in addition to other constructions) in almost all the
 languages in the sample. For the remaining languages, it was not
 possible to determine whether the construction is possible based on the
-present data set."
+present data set.",Clause structure
 CS06b,Occurrence of Recipient=Patient (Secondary Object Construction),"The occurrence of a secondary object construction was investigated, that
 is: whether the recipient of a ditransitive verb is treated like the
 patient of a mono-transitive verb, whereas the theme is given a
@@ -1401,7 +1401,7 @@ occurs without any explicit case marking.
 
 This feature was evidenced in a minority of the languages in the sample,
 although for a fair number of the languages the evidence was
-non-conclusive as far as the present data set is concerned."
+non-conclusive as far as the present data set is concerned.",Clause structure
 CS06c,Occurrence of Theme=Recipient (Double Object Construction),"The occurrence of a double object construction was investigated, that
 is: whether both the recipient and the theme of a ditransitive verb are
 treated like the patient of a mono-transitive verb. Although it cannot
@@ -1409,7 +1409,7 @@ be entirely excluded, there is no clear example in the present data set
 of that construction type, if both NP marking and verbal agreement are
 taken into account. See Occurrence of Recipient=Patient and Occurrence
 of Theme=Patient for construction types observed in ditransitive
-clauses. This feature would deserve a more thorough investigation."
+clauses. This feature would deserve a more thorough investigation.",Clause structure
 CS07,P-A Agreement Order,"The occurrence of verb agreement reflecting the order P (the more
 patient-like argument) followed by A (the more agent-like argument) was
 investigated. The presence of this features presupposes simultaneous
@@ -1446,7 +1446,7 @@ This feature was evidenced in only a small minority of the languages,
 curiously spread out geographically. Apart from the isolate Burushaski,
 in the northwest, this is also a feature of some of the Indo-Aryan
 Pashai varieties in the southwest as well as in Indo-Aryan Kashmiri in
-the southeast."
+the southeast.",Clause structure
 CS08,Verbal Person Agreement,"Verbal person marking on the inflected verb was investigated. The
 presence of this feature is exemplified by Nuristani Prasun in (1). The
 verb is marked for person (and number) in agreement with the subject, in
@@ -1473,7 +1473,7 @@ singular, and third person plural.
 
 Verbal person agreement (in at least one tense-aspect category) is
 present in most of the sample languages, as far as was possible to
-determine."
+determine.",Clause structure
 CS09,Verbal Gender Agreement,"Verbal gender marking on the inflected verb was investigated. The
 presence of this feature is exemplified by Indo-Aryan Sawi, in (1). The
 verb in Sawi is marked for gender (and number) in agreement with the
@@ -1504,7 +1504,7 @@ Verbal person agreement (in at least one tense-aspect category) is
 present in a majority of the sample languages, including Burushaski and
 most of the Indo-Aryan and Nuristani languages, while entirely excluding
 Tibeto-Burman and Turkic. Geographically most of the languages
-displaying this feature are found in the southern half of the region."
+displaying this feature are found in the southern half of the region.",Clause structure
 LX01a,Kinship: F=FB,"Some languages display a certain kind of polysemy pattern in which the
 kinship term used for referring to an anchor’s father (F) is also used
 for referring to a father’s brother (FB). Usually, that is done by
@@ -1524,7 +1524,7 @@ The feature occurs in approximately a third of the sample, essentially
 in a central belt stretching through the geographical core of the region
 from west to east. This polysemy is sometimes in addition to a general
 term for a paternal uncle, lexically distinct from the term for
-‘father’."
+‘father’.",Lexicon
 LX01b,Kinship: FB=MB,"In some languages the same kinship term is used for referring to an
 anchor’s father’s brother (FB) as the one used for referring to the
 mother’s brother (MB). This pattern occurs in Iranian Munji, as can be
@@ -1541,7 +1541,7 @@ seen in ‎(1). This term is also lexically distinct from the term for
 
 The feature is a minority pattern in the region, but it occurs in four
 geographically clustered (but not all of them closely related) languages
-in the central part of the Hindu Kush."
+in the central part of the Hindu Kush.",Lexicon
 LX01c,Kinship: M=MZ,"Some languages display a certain kind of polysemy pattern in which the
 kinship term used for referring to an anchor’s mother (M) is also used
 for referring to a mother’s sister (MZ). Usually, that is done by adding
@@ -1562,7 +1562,7 @@ distinctly subareal distribution. It occurs, on the one hand in Eastern
 Nuristan, and on the other, in Eastern Karakoram. This polysemy is in
 some of those languages in addition to a general term for a maternal
 aunt, lexically distinct from the term for ‘mother’. In other cases, the
-polysemy also extends to the anchor’s father’s sister."
+polysemy also extends to the anchor’s father’s sister.",Lexicon
 LX01d,Kinship: MZ=FZ,"In some languages the same kinship term is used for referring to an
 anchor’s mother’s sister (MZ) as the one used for referring to the
 father’s sister (FZ). This pattern occurs in Indo-Aryan Alasai Pashai,
@@ -1594,7 +1594,7 @@ aunts, alike, as can be seen in ‎(2).
 The feature occurs in approximately a fourth of the sample. It has a
 distinctly subareal distribution, occurring in a geographical belt
 stretching from the region’s southwestern corner to the region’s
-northeastern corner."
+northeastern corner.",Lexicon
 LX01e,Kinship: MB=FZ,"In some languages the same kinship term is used for referring to an
 anchor’s mother’s brother (MB) as the one used for referring to the
 father’s sister (FZ), i.e. both parents’ different-sex siblings. This
@@ -1616,7 +1616,7 @@ same-sex siblings.
 | h.  | d͡ʑoʈ mahma | ‘mother’s younger sister’ \[lit. little mother\] (BSKn-KinSD:032)  |
 
 In the Hindu Kush sample, it is a feature exclusively of two Burushaski
-varieties."
+varieties.",Lexicon
 LX02a,Decimal Numeral Base,"One aspect of numeral expressions is the multiplicational base that is
 used. Some languages use a decimal numeral base: the general structure
 of numerals in those languages is *m10+n* (the actual order of elements
@@ -1651,7 +1651,7 @@ off from some of its closest relatives that apply a vigesimal system.
 | ‘110’                                   |
 
 A decimal base is present in approximately a third of the sample,
-essentially in its peripheral western and southern parts."
+essentially in its peripheral western and southern parts.",Lexicon
 LX02b,Vigesimal Numeral Base,"One aspect of numeral expressions is the multiplicational base that is
 used. Some languages use a vigesimal numeral base: the general structure
 of numerals in those languages is *m20+n* (the actual order of elements
@@ -1686,7 +1686,7 @@ example of a language using a vigesimal base.
 
 A vigesimal base is present in approximately two thirds of the sample,
 essentially constituting the overall dominant system in its central
-parts."
+parts.",Lexicon
 LX03a,Numeral Composition 10+n,"One aspect of numeral expressions is the sequential order of elements in
 complex cardinal numerals, i.e. numerals that combine one or more
 multiplicational bases with a single lower numeral to express numbers
@@ -1724,7 +1724,7 @@ displaying all the numerals 1-20.
 The numeral composition order 10+n is present in a minority of the
 sample, in approximately a fourth of the languages, and primarily in the
 north, encompassing all Tibeto-Burman, Turkic, Burushaski, but only a
-few of the Indo-Aryan and Iranian languages."
+few of the Indo-Aryan and Iranian languages.",Lexicon
 LX03b,Numeral Composition 20+n,"One aspect of numeral expressions is the sequential order of elements in
 complex cardinal numerals, i.e. numerals that combine one or more
 multiplicational bases with a lower numeral to express numbers above 10.
@@ -1763,7 +1763,7 @@ with a 20+n order.
 
 The numeral composition order 20+n is present in the majority of the
 sample. The languages applying the reverse order are exclusively found
-in the southern half of the region, most of which are Indo-Aryan."
+in the southern half of the region, most of which are Indo-Aryan.",Lexicon
 LX04a,Kinship: Parent Compound,"Terms referring to one’s parents were investigated. In some languages,
 this is expressed though a compound involving the lexemes ‘mother’ and
 ‘father’, either instead of or in addition to a distinct ‘parent(s)’
@@ -1782,7 +1782,7 @@ occur, too.
 | c.  | maːl      | ‘father’ (SHD- KinGQ:001) |
 
 The feature is a majority pattern in the region, occurring across the
-region, in languages of all six phyla."
+region, in languages of all six phyla.",Lexicon
 LX04b,Kinship: M-F Compound,"Terms referring to one’s parents were investigated. In some languages,
 this is expressed though a compound involving the lexemes ‘mother’ and
 ‘father’ (see Kinship: Parent Compound). These compounds are
@@ -1812,7 +1812,7 @@ The feature value M+F is a majority pattern in the region. However,
 while the M+F pattern is restricted to the three Indo-Iranian phyla, the
 F+M pattern occurs in languages belonging to all six phyla. There is a
 clearly geographical distribution, with the M+F pattern in the south and
-west, and the F+M pattern in the north and east."
+west, and the F+M pattern in the north and east.",Lexicon
 LX05,Kinship: Grandparents by Parent’s Sex,"In the region, there are two types of grandparent terms: a) those that
 make a two-way differentiation based on the sex of the referent, and b)
 those that make a four-way differentiation based on the sex of the
@@ -1841,7 +1841,7 @@ value for this feature) is e.g. Kohistani Shina, as shown in (2).
 
 Differentiating grandparents by one’s parent’s sex is a minority pattern
 and is only found in some of the Indo-Aryan languages spoken in the
-south."
+south.",Lexicon
 LX06a,Kinship: Grandchildren by Sex,"Terms referring to one’s grandchildren were investigated. One of the
 relevant features is that grandchildren are distinguished according to
 their biological sex, i.e. differentiating terms corresponding to
@@ -1865,7 +1865,7 @@ shown in (2). A single term for ‘grandchild’ is used, regardless of sex.
 |-------|-----------------------------------|
 
 Differentiation by the grandchild’s sex is a majority feature. It is
-only absent in 10 of the sample languages."
+only absent in 10 of the sample languages.",Lexicon
 LX06b,Kinship: Grandchildren by Children’s Sex,"Terms referring to one’s grandchildren were investigated. One of the
 relevant features is that grandchildren are distinguished according to
 the anchor’s children’s biological sex. This is usually realized as a
@@ -1885,7 +1885,7 @@ Pakistan, as shown in (1).
 
 Differentiating grandchildren by one’s children’s sex is a minority
 pattern, but it is found in various parts of the region and in several
-of the phyla represented."
+of the phyla represented.",Lexicon
 LX07,Colexification: Hide=Steal,"A polysemy pattern shared by a number of languages in the sample is a
 verb that corresponds to the semantic notion of ‘hiding’ as well as that
 of ‘stealing’. This is the case with Iranian Pashto (India), as seen in
@@ -1907,7 +1907,7 @@ expressed with a light verb ‘to do, make’ and an adjectival element
 This colexification pattern is present in 21of the sample languages,
 i.e. in a little more than a third of them, of which all are either
 Indo-Aryan or Iranian, and spoken in the south central parts of the
-region."
+region.",Lexicon
 LX08,Colexification: Woman=Wife,"A polysemy pattern shared by a number of languages in the sample is a
 noun that corresponds to the semantic notion of ‘woman’ as well as that
 of ‘wife’. This is the case in Nuristani Ashkun, as seen in ‎(1); in
@@ -1938,4 +1938,4 @@ in (3).
 
 This colexification pattern is present in (at least) 21of the sample
 languages, i.e. in a little more than a third of them, of which almost
-all are Indo-Iranian, and spoken in the southern parts of the region."
+all are Indo-Iranian, and spoken in the southern parts of the region.",Lexicon

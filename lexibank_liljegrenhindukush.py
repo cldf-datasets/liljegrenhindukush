@@ -1,8 +1,8 @@
 import shutil
 from pathlib import Path
 import subprocess
+import collections
 
-from csvw.metadata import URITemplate
 import cldfbench
 import pylexibank
 from clldutils.misc import slug
@@ -33,8 +33,13 @@ def title_and_desc(p):
 
 
 @attr.s
+class Concept(pylexibank.Concept):
+    domain = attr.ib(default=None)
+
+
+@attr.s
 class Lexeme(pylexibank.Lexeme):
-    audio = attr.ib(default=None)
+    Audio_Files = attr.ib(default=None)
 
 
 @attr.s
@@ -50,12 +55,13 @@ class Dataset(pylexibank.Dataset):
     id = "liljegrenhindukush"
     lexeme_class = Lexeme
     language_class = Language
+    concept_class = Concept
 
     form_spec = pylexibank.FormSpec(
         brackets={"(": ")"},  # characters that function as brackets
         separators=";/,",  # characters that split forms e.g. "a, b".
         missing_data=('?', '---'),  # characters that denote missing data.
-        strip_inside_brackets=True   # do you want data removed in brackets or not?
+        strip_inside_brackets=True  # do you want data removed in brackets or not?
     )
 
     def cldf_specs(self):
@@ -85,14 +91,39 @@ class Dataset(pylexibank.Dataset):
         return self.raw_dir / 'Hindukush data'
 
     def cmd_makecldf(self, args):
-        """
-        Convert the raw data to a CLDF dataset.
-        """
+        #
+        # FIXME: add proper media table!
+        #
         features = list(self.raw_dir.read_csv('MultipleFeaturesHK.MultipleFeatures.csv', dicts=True))
         gl_by_id = {l.id: l for l in args.glottolog.api.languoids()}
         lerrata = {r['Name']: r['Glottocode'] for r in self.etc_dir.read_csv('languages.csv', dicts=True)}
         coords = {r['ISO']: (r['Coord1'], r['Coord2']) for r in features}
         with self.cldf_writer(args) as writer:
+            writer.cldf.add_table(
+                'media.csv',
+                {
+                    'name': 'ID',
+                    'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#id',
+                    'valueUrl': 'https://cdstar.shh.mpg.de/bitstreams/{objid}/{fname}',
+                },
+                'objid',
+                'fname',
+                'mimetype',
+                {'name': 'size', 'datatype': 'integer'},
+            )
+            audio = collections.defaultdict(list)
+            for objid, spec in self.raw_dir.read_json('cdstar.json').items():
+                lang, fname = spec['metadata']['path'].split('/')
+                for bs in spec['bitstreams']:
+                    writer.objects['media.csv'].append(dict(
+                        ID=bs['checksum'],
+                        objid=objid,
+                        fname=bs['bitstreamid'],
+                        mimetype=bs['content-type'],
+                        size=bs['filesize'],
+                    ))
+                    audio[lang, fname.split('.')[0]].append(bs['checksum'])
+
             writer.add_sources(BIB)
             for lang in self.raw_dir.read_csv(self._data_dir / 'DataSampleHK.csv', dicts=True):
                 gc = lerrata.get(lang['Language'], lang['Glottocode'].split('>')[1].split('<')[0])
@@ -124,6 +155,7 @@ class Dataset(pylexibank.Dataset):
                     ID=cid,
                     Name=row['Gloss'],
                     Concepticon_ID=row['CONCEPTICON_ID'],
+                    domain=row['Category'],
                 )
             for cat in ['40list', 'Kinship', 'Numerals']:
                 for i, row in enumerate(self.raw_dir.read_csv(self._data_dir / '{}.csv'.format(cat), dicts=True)):
@@ -131,12 +163,12 @@ class Dataset(pylexibank.Dataset):
                     if cat == '40list':
                         lang = [l for l in writer.objects['LanguageTable'] if l['ID'] == lid][0]
                         for j, col in enumerate(list(row.keys())[5:45], start=1):
-                            audio_path = self._data_dir / 'Audio files' / lang['Name'] / '{}_40_{}.wav'.format(lid, str(j).rjust(2, '0'))
+                            audio_key = (lang['Name'], '{}_40_{}'.format(lid, str(j).rjust(2, '0')))
                             writer.add_lexemes(
                                 Language_ID=lid,
                                 Parameter_ID=cmap[(cat, col)],
                                 Value=row[col],
-                                audio=audio_path.name if audio_path.exists() else None,
+                                Audio_Files=audio.get(audio_key, []),
                                 Source=['hindukush'],
                             )
                     else:
@@ -148,15 +180,17 @@ class Dataset(pylexibank.Dataset):
                                 Source=['hindukush'],
                             )
 
-            writer.cldf['FormTable', 'audio'].valueUrl = URITemplate(
-                'https://github.com/cldf-datasets/liljegrenhindukush/blob/master/raw/Hindukush%20data/Audio%20files/Ashkun/{audio}?raw=true')
+            writer.cldf['FormTable', 'Audio_Files'].separator = ' '
+            writer.cldf.add_foreign_key('FormTable', 'Audio_Files', 'media.csv', 'ID')
             LanguageTable = writer.cldf['LanguageTable']
 
         with self.cldf_writer(args, cldf_spec='structure', clean=False) as writer:
             writer.cldf.sources.add(BIB)
             descs = {p.stem.split('-')[0]: title_and_desc(p) for p in self.raw_dir.glob('*.md')}
+            categories = {r['Prefix']: r['Category'] for r in self.etc_dir.read_csv('features.csv', dicts=True)}
             writer.cldf.add_component(LanguageTable)  # we reuse the one from above!
             writer.cldf.add_component('CodeTable')
+            writer.cldf.add_columns('ParameterTable', 'Category')
             for i, row in enumerate(features):
                 if not any(v for v in row.values()):
                     break
@@ -166,6 +200,7 @@ class Dataset(pylexibank.Dataset):
                         writer.objects['ParameterTable'].append(dict(
                             ID=col,
                             Name=descs.get(col, (None, None))[0] or col,
+                            Category=categories.get(col[:2]) or col[:2],
                             Description=descs.get(col, (None, None))[1],
                         ))
                         for code, desc in [

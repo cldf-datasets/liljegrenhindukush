@@ -17,9 +17,14 @@ setup(
     entry_points={
         'lexibank.dataset': [
             'liljegrenhindukush=lexibank_liljegrenhindukush:Dataset',
-        ]
+        ],
+        'cldfbench.commands': [
+            'liljegrenhindukush=liljegrenhindukushcommands',
+        ],
     },
     install_requires=[
+        'cdstarcat>=1.3',
+        'cldfbench>=1.2.3',
         'pylexibank>=2.7.1',
     ],
     extras_require={

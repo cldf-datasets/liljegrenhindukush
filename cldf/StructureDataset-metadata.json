@@ -21,7 +21,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/liljegrenhindukush",
-            "dc:created": "e324d4d"
+            "dc:created": "d497d8a"
         },
         {
             "rdf:type": "prov:Entity",
@@ -33,7 +33,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0-rc.1-25-g4d21fb8"
+            "dc:created": "v2.4.0-1-gb4a1681"
         },
         {
             "rdf:type": "prov:Entity",
@@ -180,6 +180,10 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
                         "required": false,
                         "name": "Description"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Category"
                     }
                 ],
                 "primaryKey": [

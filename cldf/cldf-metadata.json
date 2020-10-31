@@ -16,7 +16,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/liljegrenhindukush",
-            "dc:created": "e324d4d"
+            "dc:created": "d497d8a"
         },
         {
             "rdf:type": "prov:Entity",
@@ -28,7 +28,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0-rc.1-25-g4d21fb8"
+            "dc:created": "v2.4.0-1-gb4a1681"
         },
         {
             "rdf:type": "prov:Entity",
@@ -127,8 +127,8 @@
                     },
                     {
                         "datatype": "string",
-                        "valueUrl": "https://github.com/cldf-datasets/liljegrenhindukush/blob/master/raw/Hindukush%20data/Audio%20files/Ashkun/{audio}?raw=true",
-                        "name": "audio"
+                        "separator": " ",
+                        "name": "Audio_Files"
                     }
                 ],
                 "foreignKeys": [
@@ -149,6 +149,17 @@
                         ],
                         "reference": {
                             "resource": "parameters.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Audio_Files"
+                        ],
+                        "reference": {
+                            "resource": "media.csv",
                             "columnReference": [
                                 "ID"
                             ]
@@ -267,6 +278,10 @@
                     {
                         "datatype": "string",
                         "name": "Concepticon_Gloss"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "domain"
                     }
                 ],
                 "primaryKey": [
@@ -274,6 +289,38 @@
                 ]
             },
             "url": "parameters.csv"
+        },
+        {
+            "dc:extent": 80,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "valueUrl": "https://cdstar.shh.mpg.de/bitstreams/{objid}/{fname}",
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "objid"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "fname"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "mimetype"
+                    },
+                    {
+                        "datatype": "integer",
+                        "name": "size"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "media.csv"
         }
     ]
 }

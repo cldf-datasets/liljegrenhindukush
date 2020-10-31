@@ -1,44 +1,44 @@
-ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile,audio
-ask-1-1,,ask,1,lu,lu,,,hindukush,,,,,ask_40_01.wav
-ask-5-1,,ask,5,aʈi,aʈi,,,hindukush,,,,,ask_40_02.wav
-ask-9-1,,ask,9,t͡sut͡su,t͡sut͡su,,,hindukush,,,,,ask_40_03.wav
-ask-13-1,,ask,13,agə,agə,,,hindukush,,,,,ask_40_04.wav
-ask-17-1,,ask,17,məɽə,məɽə,,,hindukush,,,,,ask_40_05.wav
-ask-21-1,,ask,21,kuɽi,kuɽi,,,hindukush,,,,,ask_40_06.wav
-ask-25-1,,ask,25,pʰija,pʰija,,,hindukush,,,,,ask_40_07.wav
-ask-29-1,,ask,29,kamaʈ͡ʂə,kamaʈ͡ʂə,,,hindukush,,,,,ask_40_08.wav
-ask-33-1,,ask,33,at͡si,at͡si,,,hindukush,,,,,ask_40_09.wav
-ask-37-1,,ask,37,aŋə,aŋə,,,hindukush,,,,,ask_40_10.wav
-ask-2-1,,ask,2,moːt͡s,moːt͡s,,,hindukush,,,,,ask_40_11.wav
-ask-6-1,,ask,6,paraj,paraj,,,hindukush,,,,,ask_40_12.wav
-ask-10-1,,ask,10,dos,dos,,,hindukush,,,,,ask_40_13.wav
-ask-14-1,,ask,14,purud͡zu,purud͡zu,,,hindukush,,,,,ask_40_14.wav
-ask-18-1,,ask,18,ʃiŋ,ʃiŋ,,,hindukush,,,,,ask_40_15.wav
-ask-22-1,,ask,22,aj,aj,,,hindukush,,,,,ask_40_16.wav
-ask-26-1,,ask,26,zaɖuŋ,zaɖuŋ,,,hindukush,,,,,ask_40_17.wav
-ask-30-1,,ask,30,paːr,paːr,,,hindukush,,,,,ask_40_18.wav
-ask-34-1,,ask,34,vijon,vijon,,,hindukush,,,,,ask_40_19.wav
-ask-38-1,,ask,38,uː,uː,,,hindukush,,,,,ask_40_20.wav
-ask-3-1,,ask,3,kanɖrə,kanɖrə,,,hindukush,,,,,ask_40_21.wav
-ask-7-1,,ask,7,nam,nam,,,hindukush,,,,,ask_40_22.wav
-ask-11-1,,ask,11,nusθə,nusθə,,,hindukush,,,,,ask_40_23.wav
-ask-15-1,,ask,15,zat,zat,,,hindukush,,,,,ask_40_24.wav
-ask-19-1,,ask,19,kəsrə,kəsrə,,,hindukush,,,,,ask_40_25.wav
-ask-23-1,,ask,23,at͡ʃ,at͡ʃ,,,hindukush,,,,,ask_40_26.wav
-ask-27-1,,ask,27,kurvurt͡ʃo,kurvurt͡ʃo,,,hindukush,,,,,ask_40_27.wav
-ask-31-1,,ask,31,mat͡s,mat͡s,,,hindukush,,,,,ask_40_28.wav
-ask-35-1,,ask,35,vendə,vendə,,,hindukush,,,,,ask_40_29.wav
-ask-39-1,,ask,39,t͡sam,t͡sam,,,hindukush,,,,,ask_40_30.wav
-ask-4-1,,ask,4,isθa,isθa,,,hindukush,,,,,ask_40_31.wav
-ask-8-1,,ask,8,vaːʈ,vaːʈ,,,hindukush,,,,,ask_40_32.wav
-ask-12-1,,ask,12,su,su,,,hindukush,,,,,ask_40_33.wav
-ask-16-1,,ask,16,ʒu,ʒu,,,hindukush,,,,,ask_40_34.wav
-ask-20-1,,ask,20,dont,dont,,,hindukush,,,,,ask_40_35.wav
-ask-24-1,,ask,24,kandə,kandə,,,hindukush,,,,,ask_40_36.wav
-ask-28-1,,ask,28,du,du,,,hindukush,,,,,ask_40_37.wav
-ask-32-1,,ask,32,abu,abu,,,hindukush,,,,,ask_40_38.wav
-ask-36-1,,ask,36,ima,ima,,,hindukush,,,,,ask_40_39.wav
-ask-40-1,,ask,40,tu,tu,,,hindukush,,,,,ask_40_40.wav
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile,Audio_Files
+ask-1-1,,ask,1,lu,lu,,,hindukush,,,,,3f49e2d7a33522883c97090c753fe0f0 c14eb82ad72464e99221925d1a3827fd
+ask-5-1,,ask,5,aʈi,aʈi,,,hindukush,,,,,aef343815a438cd68e6431f3f516f9a3 87167b294ca083459d4041400e00dd91
+ask-9-1,,ask,9,t͡sut͡su,t͡sut͡su,,,hindukush,,,,,db473016d15819b4da904b4a55ffac97 b190b9bc1cbef604a08b1e475d181d65
+ask-13-1,,ask,13,agə,agə,,,hindukush,,,,,48aaaf5d1cd5909efd6b2a4c66fd1f40 b782e10f5e8640d58d61cf1b1cd41f86
+ask-17-1,,ask,17,məɽə,məɽə,,,hindukush,,,,,7935dc84627cf391ac0aa8a73edafd63 c7d2641671132aeb1de5efc202c73d87
+ask-21-1,,ask,21,kuɽi,kuɽi,,,hindukush,,,,,21923f0e6676f35e64fdddf18de6c263 778778c35aa8536e3f1b9a3f4197086b
+ask-25-1,,ask,25,pʰija,pʰija,,,hindukush,,,,,9b6e043c2f2aa02a59503d548f6431c1 519f4a08b587ef2d64aa6cdecc365f75
+ask-29-1,,ask,29,kamaʈ͡ʂə,kamaʈ͡ʂə,,,hindukush,,,,,8ac794bc842de067b29404a8e940f3c5 b582572df20d50f5ae6f08a168c87186
+ask-33-1,,ask,33,at͡si,at͡si,,,hindukush,,,,,3c761baf6a503bb7004715e863eae61a 09c1ae1f030a6d6ad23d262003bc9465
+ask-37-1,,ask,37,aŋə,aŋə,,,hindukush,,,,,8efc3af824254af0aa129f2eefdacd20 68af185dde54308c993cfd5aa511e878
+ask-2-1,,ask,2,moːt͡s,moːt͡s,,,hindukush,,,,,9c4d5b2c7be93bafc554c46d87a76281 3d90ce98db124e7d9adda5f0ebc07215
+ask-6-1,,ask,6,paraj,paraj,,,hindukush,,,,,45b87e031b05dfdf11f612a1eeed8473 9a48e677dd8ef3cd0a17a60f1829d5ae
+ask-10-1,,ask,10,dos,dos,,,hindukush,,,,,d604648c0b165157f5f426037169f986 30dd66740a67e6aa3b5930c639d52f32
+ask-14-1,,ask,14,purud͡zu,purud͡zu,,,hindukush,,,,,74b07c6d1d51976f7fde8553ff0bb997 70f1daf7d056d5a4fa483ce55d16006c
+ask-18-1,,ask,18,ʃiŋ,ʃiŋ,,,hindukush,,,,,a20cc21e1975d8e9916c90299fea9db3 822f98b758f2862a89a5c5ee94b25816
+ask-22-1,,ask,22,aj,aj,,,hindukush,,,,,c3192043f22a8471a43df25308d0f18a ca4ba3c462b28aecd99ed61f12ef241b
+ask-26-1,,ask,26,zaɖuŋ,zaɖuŋ,,,hindukush,,,,,c6547a669ec18e2cb5232d9cdd5cb6c9 a54f681288a78065e489e5f91863b330
+ask-30-1,,ask,30,paːr,paːr,,,hindukush,,,,,712ab24b27961e014824935e25284447 dc04c6381fc6b4387b4c789bfa154579
+ask-34-1,,ask,34,vijon,vijon,,,hindukush,,,,,367de29e3e5c7ad37ef1e0416fdd72e0 b483b880f2e38954a991c81c5bd3ca0b
+ask-38-1,,ask,38,uː,uː,,,hindukush,,,,,dd9d8a24ad15e19dc06e8bd7493900f1 93d1eed96fb1e4abe7b5e7f9133e94e1
+ask-3-1,,ask,3,kanɖrə,kanɖrə,,,hindukush,,,,,68f0f3a7790a0911b00b45b610d5597f 3f414cc512792fbc3f0f032f930280cb
+ask-7-1,,ask,7,nam,nam,,,hindukush,,,,,f74459396ee4ad5eee33cbf421e5c8c8 c4eeae9902b5feee3e270929c9f1b5da
+ask-11-1,,ask,11,nusθə,nusθə,,,hindukush,,,,,594f21b3e0d77d3709fda4aaa607f10c e2c381fbadbdd8516b05c62e5305a200
+ask-15-1,,ask,15,zat,zat,,,hindukush,,,,,47f8ffb242a30fbcca67a76196c35be5 609b5b1a428716e66a35ea46bdaede51
+ask-19-1,,ask,19,kəsrə,kəsrə,,,hindukush,,,,,f8f710bba3c2aedfa6bd02c5223b3c92 5addb7dd5311717e6c6ba2fdeb6ac3b3
+ask-23-1,,ask,23,at͡ʃ,at͡ʃ,,,hindukush,,,,,734b9efff61afb9198c4ae389a62f136 03b127727cdae5402f4bdcc35a7c277c
+ask-27-1,,ask,27,kurvurt͡ʃo,kurvurt͡ʃo,,,hindukush,,,,,1b708911e8e176e1fad43e385372ebee 8d4fd84ec2fa80025f6476ab7b25386b
+ask-31-1,,ask,31,mat͡s,mat͡s,,,hindukush,,,,,039e110123b9f107bd7644aad6c42ea9 ea4986b057a255c64da4d552ebc2a80f
+ask-35-1,,ask,35,vendə,vendə,,,hindukush,,,,,a4ddb10ef420d64c6f83117b494fcefb 99a1b54be274dbc9873dbca1610ba667
+ask-39-1,,ask,39,t͡sam,t͡sam,,,hindukush,,,,,967790d74f3c82058ca20feaa8a675eb 2ab3e2cf24f8e5b39b33e34c518ce211
+ask-4-1,,ask,4,isθa,isθa,,,hindukush,,,,,1f95e357a59a5eb0cbe594e0dc1758fc a4a139e72ebbe0f35472f34ff564052e
+ask-8-1,,ask,8,vaːʈ,vaːʈ,,,hindukush,,,,,a57b0ff2dbdc08f9d32c6eb5eff4c810 016e86be3e80486641eb1241b34642af
+ask-12-1,,ask,12,su,su,,,hindukush,,,,,dcbff39b1869a385fbff13aa550f7818 90f0d8bdd49f32cd61362b699d51b2a5
+ask-16-1,,ask,16,ʒu,ʒu,,,hindukush,,,,,cc27e8739f212b1d6b962c6898006562 6ded2676ece0e7b75630ef324b191521
+ask-20-1,,ask,20,dont,dont,,,hindukush,,,,,3d4c0bc2526531dbcb836061969780f6 a6e4e16756611644c58a35d3d456c9d8
+ask-24-1,,ask,24,kandə,kandə,,,hindukush,,,,,216203d08cdab27921c4b2db2059e9c2 934d491964d51e3c785a728cbd22e70b
+ask-28-1,,ask,28,du,du,,,hindukush,,,,,b65b718aa3985befa920e412c14299f7 e28a1375d14c3f338750e86823a7d268
+ask-32-1,,ask,32,abu,abu,,,hindukush,,,,,2da0b55e34a4925950fb9c6efecffc00 f154bc4540d7fe5cc104a2292c7770d8
+ask-36-1,,ask,36,ima,ima,,,hindukush,,,,,d275322ff4ffaf2c717da78be6fd5f0e 56b27999ca90d1d7598af63e682d2296
+ask-40-1,,ask,40,tu,tu,,,hindukush,,,,,8d4cedebae4641f69dcd681fe9d5573a 4f5831a21fee36b319ad607a5557a320
 bft-1-1,,bft,1,kʰraq,kʰraq,,,hindukush,,,,,
 bft-5-1,,bft,5,ruːspah,ruːspah,,,hindukush,,,,,
 bft-9-1,,bft,9,braŋ,braŋ,,,hindukush,,,,,
