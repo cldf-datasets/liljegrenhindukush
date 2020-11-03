@@ -27,7 +27,7 @@ value for this feature) is e.g. Kohistani Shina, as shown in (2).
 | b.  | dadi  | ‘father’s mother, mother’s mother’ (PLK-KinRK:014, 016) |
 
 Differentiating grandparents by one’s parent’s sex is a minority pattern
-and is only found in some of the Indo-Aryan languages spoken in the
+and is only found in a few of the Indo-Aryan languages spoken in the
 south.
 
 | Feature value | \# of varieties displaying it | %   |

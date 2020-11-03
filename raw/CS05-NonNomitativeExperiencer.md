@@ -9,7 +9,7 @@ with the first person pronoun form used for dative and ergative alike.
 (1) <span id="_Ref531867975" class="anchor"></span>Kashmiri, India <span
     id="_Ref51167911" class="anchor"></span>\[kas(i)\] (Indo-Aryan)
 
-| **me**                                                | ləd͡ʒ                                                         | tɨːr.      |     |     |     |
+| **me**                                                | lədʑ                                                         | tɨːr.      |     |     |     |
 |-------------------------------------------------------|--------------------------------------------------------------|------------|-----|-----|-----|
 | <span style="font-variant:small-caps;">1sg.dat</span> | strike.<span style="font-variant:small-caps;">pst.fsg</span> | cold(ness) |     |     |     |
 | ‘I feel cold.’ (KASi-ValQuestAN:060)                  |
@@ -22,14 +22,14 @@ latter lacking an explicit subject.
 (1) <span id="_Ref51229717" class="anchor"></span>Aret Pashai
     \[aee(at)\] (Indo-Aryan)
 
-| eːʃ-**əm**                                                        | kər-iː.                                                  |     |     |     |     |
+| eːɕ-**əm**                                                        | kər-iː.                                                  |     |     |     |     |
 |-------------------------------------------------------------------|----------------------------------------------------------|-----|-----|-----|-----|
 | cold(ness)-<span style="font-variant:small-caps;">1sg.poss</span> | do.<span style="font-variant:small-caps;">prs-3sg</span> |     |     |     |     |
 | ‘I feel cold.’ (AEEat-ValQuestHH:060)                             |
 
 This feature was evidenced in approximately half of the sample. However,
-this is not to say that it couldn’t be expressed non-nominatively in the
-languages given a negative value.
+this is not to say that it could not be expressed non-nominatively in
+the languages given a negative value.
 
 | Feature value | \# of varieties displaying it | %   |
 |---------------|-------------------------------|-----|

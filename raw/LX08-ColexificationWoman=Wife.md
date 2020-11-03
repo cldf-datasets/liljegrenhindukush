@@ -17,9 +17,9 @@ in (3).
 (1) <span id="_Ref50625793" class="anchor"></span>Dameli
     \[dml\] (Indo-Aryan)
 
-| a.  | ʒaːmi         | ‘woman’ (DML-ValQuestHM:054) |
+| a.  | ʑaːmi         | ‘woman’ (DML-ValQuestHM:054) |
 |-----|---------------|------------------------------|
-| b.  | ʒaːmi, iʃtriː | ‘wife’ (DML-KinHM:038)       |
+| b.  | ʑaːmi, iɕtriː | ‘wife’ (DML-KinHM:038)       |
 
 (1) <span id="_Ref50627217" class="anchor"></span>Pashto, Pakistan
     \[pbu(p)\] (Iranian)
@@ -28,9 +28,9 @@ in (3).
 |-----|------|-------------------------------|
 | b.  | χəza | ‘wife’ (PBUp-KinKK:038)       |
 
-This colexification pattern is present in (at least) 21of the sample
-languages, i.e. in a little more than a third of them, of which almost
-all are Indo-Iranian, and spoken in the southern parts of the region.
+This colexification pattern is present in at least a third of the sample
+languages, of which almost all are Indo-Iranian, and spoken in the
+southern parts of the region.
 
 | Feature value | \# of varieties displaying it | %   |
 |---------------|-------------------------------|-----|

@@ -14,9 +14,10 @@ seen in ‎(1). This term is also lexically distinct from the term for
 | b.  | bɑːj | ‘father’s brother’ (MNJ- KinDM:021) |
 | c.  | bɑːj | ‘mother’s brother’ (MNJ- KinDM:027) |
 
-The feature is a minority pattern in the region, but it occurs in four
-geographically clustered (but not all of them closely related) languages
-in the central part of the Hindu Kush.
+The feature is a minority pattern in the region, but it occurs in a few
+geographically clustered languages in the central part of the Hindu
+Kush. The languages in question are not all closely related to one
+another.
 
 | Feature value | \# of varieties displaying it | %   |
 |---------------|-------------------------------|-----|

@@ -14,20 +14,24 @@ a transitive or an intransitive clause.
 (1) <span id="_Ref12281344" class="anchor"></span>Khowar
     \[khw\] (Indo-Aryan)
 
-| a.  | ɖaq                                                              | aji-**o**                                                 | ban-en                                                           | pr-aj.                                                      |                                                            |     |
-|-----|------------------------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------|-----|
-|     | boy                                                              | snake-<span style="font-variant:small-caps;">obl</span>   | stick-<span style="font-variant:small-caps;">inst</span>         | hit.<span style="font-variant:small-caps;">pst-3sg</span>   |                                                            |     |
-|     | ‘The boy hit the snake with a stick.’ (KHW-ValQuestAA:028)       |
-| b.  | aji                                                              | obrit-aj.                                                 |                                                                  |                                                             |
-|     | snake                                                            | die.<span style="font-variant:small-caps;">pst-3sg</span> |                                                                  |                                                             |
-|     | ‘The snake died.’ (KHW-ValQuestAA:061)                           |
-| c.  | kumoːru                                                          | tan                                                       | waw-o=te                                                         | gamburi-**an**                                              | anzeːt-aj.                                                 |
-|     | girl                                                             | <span style="font-variant:small-caps;">refl</span>        | grandmother-<span style="font-variant:small-caps;">obl</span>=to | flower-<span style="font-variant:small-caps;">obl.pl</span> | give.<span style="font-variant:small-caps;">pst-3sg</span> |
+| a.  | ɖaq                                                        | aji-**o**                                               | ban-en                                                   | pr-aj.                                                    |     |     |
+|-----|------------------------------------------------------------|---------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------|-----|-----|
+|     | boy                                                        | snake-<span style="font-variant:small-caps;">obl</span> | stick-<span style="font-variant:small-caps;">inst</span> | hit.<span style="font-variant:small-caps;">pst-3sg</span> |     |     |
+|     | ‘The boy hit the snake with a stick.’ (KHW-ValQuestAA:028) |
+
+| b.  | aji                                    | obrit-aj.                                                 |     |     |
+|-----|----------------------------------------|-----------------------------------------------------------|-----|-----|
+|     | snake                                  | die.<span style="font-variant:small-caps;">pst-3sg</span> |     |     |
+|     | ‘The snake died.’ (KHW-ValQuestAA:061) |
+
+| c.  | kumoːru                                                          | tan                                                | waw-o=te                                                         | gamburi-**an**                                              | anzeːt-aj.                                                 |
+|-----|------------------------------------------------------------------|----------------------------------------------------|------------------------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------|
+|     | girl                                                             | <span style="font-variant:small-caps;">refl</span> | grandmother-<span style="font-variant:small-caps;">obl</span>=to | flower-<span style="font-variant:small-caps;">obl.pl</span> | give.<span style="font-variant:small-caps;">pst-3sg</span> |
 |     | ‘The girl sent flowers to her grandmother.’ (KHW-ValQuestAA:037) |
 
-Unique case-marking of the P argument is present in 19 of the sample
-languages, i.e. in approximately a third of the sample. The languages
-displaying this property are primarily found in the region’s northwest.
+Unique case-marking of the P argument is present in approximately a
+third of the sample. The languages displaying this property are
+primarily found in the region’s northwest.
 
 | Feature value | \# of varieties displaying it | %   |
 |---------------|-------------------------------|-----|

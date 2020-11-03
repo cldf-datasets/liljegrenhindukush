@@ -31,9 +31,9 @@ containing retroflex sounds are displayed in ‎(1).
 | b.  | /ʈʂʰan/ | ‘leaf’ (KHW-40listAA:012)   |
 | c.  | /uʂak/  | ‘cold’ (KHW-ValQuestAA:060) |
 
-Retroflexion is a strongly areal feature, present in as many as 54 of
-the sample languages. Turkic is the only phylogenetic grouping in which
-this feature is entirely absent.
+Retroflexion is a strongly areal feature, present in nearly all of the
+sample languages. Turkic is the only phylogenetic grouping in which this
+feature is entirely absent.
 
 | Feature value | \# of varieties displaying it | %   |
 |---------------|-------------------------------|-----|

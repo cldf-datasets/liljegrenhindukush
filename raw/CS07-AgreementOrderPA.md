@@ -14,23 +14,29 @@ male), X (a non-human gender), and Y (another non-human gender).
 (1) <span id="_Ref12281344" class="anchor"></span>Hunza Burushaski
     \[bsk(h)\] (isolate)
 
-| a.  | hileːs-eːj                                                    | dasin                                                  | tʰan                                                  | **muː**-ti-m-**i**.                                                                                              |
-|-----|---------------------------------------------------------------|--------------------------------------------------------|-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-|     | boy-<span style="font-variant:small-caps;">erg</span>         | girl                                                   | tip                                                   | <span style="font-variant:small-caps;">3sg.hf</span>-do-<span style="font-variant:small-caps;">pst-3sg.hm</span> |
-|     | A                                                             | P                                                      |                                                       | p-V-a                                                                                                            |
-|     | ‘The boy pushed the girl.’ (BSKh-ValQuestSK:074)              |
-| b.  | dasiːn-eːj                                                    | kitaːb-eː                                              | tap                                                   | ʈ͡ʂaʈ                                                                                                             |
-|     | girl-<span style="font-variant:small-caps;">erg</span>        | book-<span style="font-variant:small-caps;">gen</span> | leaf(<span style="font-variant:small-caps;">y</span>) | rip                                                                                                              |
-|     | A                                                             |                                                        | P                                                     |                                                                                                                  |
+| a.  | hileːs-eːj                                            | dasin | tʰan | **muː**-ti-m-**i**.                                                                                              |
+|-----|-------------------------------------------------------|-------|------|------------------------------------------------------------------------------------------------------------------|
+|     | boy-<span style="font-variant:small-caps;">erg</span> | girl  | tip  | <span style="font-variant:small-caps;">3sg.hf</span>-do-<span style="font-variant:small-caps;">pst-3sg.hm</span> |
+|     | A                                                     | P     |      | p-V-a                                                                                                            |
+|     | ‘The boy pushed the girl.’ (BSKh-ValQuestSK:074)      |
+
+| b.  | dasiːn-eːj                                                    | kitaːb-eː                                              | tap                                                   | ʈʂaʈ | **eː**-tu-m-**u**.                                                                                              |     |
+|-----|---------------------------------------------------------------|--------------------------------------------------------|-------------------------------------------------------|------|-----------------------------------------------------------------------------------------------------------------|-----|
+|     | girl-<span style="font-variant:small-caps;">erg</span>        | book-<span style="font-variant:small-caps;">gen</span> | leaf(<span style="font-variant:small-caps;">y</span>) | rip  | <span style="font-variant:small-caps;">3sg.y</span>-do-<span style="font-variant:small-caps;">pst-3sg.hf</span> |     |
+|     | A                                                             |                                                        | P                                                     |      | p-V-a                                                                                                           |     |
 |     | ‘The girl tore the page from the book.’ (BSKh-ValQuestSK:032) |
-| c.  | guʃ-inant͡s-eːj                                                | ʈeːbəl                                                 | saːf                                                  | **eː**-tu-m-**an**.                                                                                              |
-|     | woman-<span style="font-variant:small-caps;">pl-erg</span>    | table(<span style="font-variant:small-caps;">x</span>) | clean                                                 | <span style="font-variant:small-caps;">3sg.x</span>-do-<span style="font-variant:small-caps;">pst-3pl.h</span>   |
-|     | A                                                             | P                                                      |                                                       | p-V-a                                                                                                            |
-|     | ‘The women wiped the table.’ (BSKh-ValQuestSK:072)            |
-| d.  | gus-eːj                                                       | ʁunoː                                                  | zan                                                   | **oː**-tu-m-**u**.                                                                                               |
-|     | woman-<span style="font-variant:small-caps;">erg</span>       | seeds(<span style="font-variant:small-caps;">x</span>) | grind                                                 | <span style="font-variant:small-caps;">3pl.x</span>-do-<span style="font-variant:small-caps;">pst-3sg.hf</span>  |
-|     | A                                                             | P                                                      |                                                       | p-V-a                                                                                                            |
-|     | ‘The woman ground the seeds.’ (BSKh-ValQuestSK:071)           |
+
+| c.  | guɕ-inants-eːj                                             | ʈeːbəl                                                 | saːf  | **eː**-tu-m-**an**.                                                                                            |
+|-----|------------------------------------------------------------|--------------------------------------------------------|-------|----------------------------------------------------------------------------------------------------------------|
+|     | woman-<span style="font-variant:small-caps;">pl-erg</span> | table(<span style="font-variant:small-caps;">x</span>) | clean | <span style="font-variant:small-caps;">3sg.x</span>-do-<span style="font-variant:small-caps;">pst-3pl.h</span> |
+|     | A                                                          | P                                                      |       | p-V-a                                                                                                          |
+|     | ‘The women wiped the table.’ (BSKh-ValQuestSK:072)         |
+
+| d.  | gus-eːj                                                 | ʁunoː                                                  | zan   | **oː**-tu-m-**u**.                                                                                              |     |     |
+|-----|---------------------------------------------------------|--------------------------------------------------------|-------|-----------------------------------------------------------------------------------------------------------------|-----|-----|
+|     | woman-<span style="font-variant:small-caps;">erg</span> | seeds(<span style="font-variant:small-caps;">x</span>) | grind | <span style="font-variant:small-caps;">3pl.x</span>-do-<span style="font-variant:small-caps;">pst-3sg.hf</span> |     |     |
+|     | A                                                       | P                                                      |       | p-V-a                                                                                                           |     |     |
+|     | ‘The woman ground the seeds.’ (BSKh-ValQuestSK:071)     |
 
 This feature was evidenced in only a small minority of the languages,
 curiously spread out geographically. Apart from the isolate Burushaski,

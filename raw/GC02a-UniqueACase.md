@@ -14,23 +14,29 @@ zero marked or takes a dative case marker.
 (1) <span id="_Ref12281344" class="anchor"></span>Purik
     \[prx\] (Tibeto-Burman)
 
-| a.  | bomo-**s**                                                     | ŋi                                                     | pʰila                                                  | mindoq                                                 | kʰur-e                                                  | soŋ.                                                 |
-|-----|----------------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|---------------------------------------------------------|------------------------------------------------------|
-|     | girl-<span style="font-variant:small-caps;">erg</span>         | <span style="font-variant:small-caps;">1sg.gen</span>  | sake                                                   | flower                                                 | carry-<span style="font-variant:small-caps;">cnj</span> | go.<span style="font-variant:small-caps;">pst</span> |
-|     | ‘The girl brought flowers to me.’ (PRX-ValQuestMM:075)         |
-| b.  | bomo                                                           | tʃoŋs.                                                 |                                                        |                                                        |
-|     | girl                                                           | jump                                                   |                                                        |                                                        |
-|     | ‘The girl jumped.’ (PRX-ValQuestMM:052)                        |
-| c.  | butsʰa-**s**                                                   | bomo                                                   | tʃʰu-juŋ                                               | pʰul-e                                                 | taŋ-s.                                                  |
-|     | boy-<span style="font-variant:small-caps;">erg</span>          | girl                                                   | water-into                                             | push-<span style="font-variant:small-caps;">cnj</span> | give-<span style="font-variant:small-caps;">pst</span>  |
-|     | ‘The boy pushed the girl into the water.’ (PRX-ValQuestMM:074) |
-| d.  | butsʰa-**s**                                                   | bomo-la                                                | ɬta-s.                                                 |                                                        |
-|     | boy-<span style="font-variant:small-caps;">erg</span>          | girl-<span style="font-variant:small-caps;">dat</span> | look-<span style="font-variant:small-caps;">pst</span> |                                                        |
-|     | ‘The boy looked at the girl.’ (PRX-ValQuestMM:003)             |
+| a.  | bomo-**s**                                             | ŋi                                                    | pʰila | mindoq | kʰur-e                                                  | soŋ.                                                 |
+|-----|--------------------------------------------------------|-------------------------------------------------------|-------|--------|---------------------------------------------------------|------------------------------------------------------|
+|     | girl-<span style="font-variant:small-caps;">erg</span> | <span style="font-variant:small-caps;">1sg.gen</span> | sake  | flower | carry-<span style="font-variant:small-caps;">cnj</span> | go.<span style="font-variant:small-caps;">pst</span> |
+|     | ‘The girl brought flowers to me.’ (PRX-ValQuestMM:075) |
 
-Unique case-marking of the A argument is present in 41 of the sample
-languages, i.e. in the majority of them. The languages lacking this
-property are primarily found in the region’s northwest.
+| b.  | bomo                                    | tɕoŋs. |     |     |
+|-----|-----------------------------------------|--------|-----|-----|
+|     | girl                                    | jump   |     |     |
+|     | ‘The girl jumped.’ (PRX-ValQuestMM:052) |
+
+| c.  | butsʰa-**s**                                                   | bomo | tɕʰu-juŋ   | pʰul-e                                                 | taŋ-s.                                                 |
+|-----|----------------------------------------------------------------|------|------------|--------------------------------------------------------|--------------------------------------------------------|
+|     | boy-<span style="font-variant:small-caps;">erg</span>          | girl | water-into | push-<span style="font-variant:small-caps;">cnj</span> | give-<span style="font-variant:small-caps;">pst</span> |
+|     | ‘The boy pushed the girl into the water.’ (PRX-ValQuestMM:074) |
+
+| d.  | butsʰa-**s**                                          | bomo-la                                                | ɬta-s.                                                 |     |
+|-----|-------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|-----|
+|     | boy-<span style="font-variant:small-caps;">erg</span> | girl-<span style="font-variant:small-caps;">dat</span> | look-<span style="font-variant:small-caps;">pst</span> |     |
+|     | ‘The boy looked at the girl.’ (PRX-ValQuestMM:003)    |
+
+Unique case-marking of the A argument is present in a majority of the
+sample languages. The languages lacking this property are primarily
+found in the region’s northwest.
 
 | Feature value | \# of varieties displaying it | %   |
 |---------------|-------------------------------|-----|

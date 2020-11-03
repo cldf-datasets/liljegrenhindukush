@@ -1,9 +1,9 @@
 Verb Object Word Order
 
 For this feature systematic occurrences of a verb preceding a lexical
-(nonpronominal) object in a transitive clause were noted. In the sample,
-Indo-Aryan Kashmiri of India is such a language (although clauses with
-OV order occur too), as shown in (1).
+(non-pronominal) object in a transitive clause were noted. In the
+sample, Indo-Aryan Kashmiri of India is such a language (although
+clauses with OV order occur too), as shown in (1).
 
 (1) <span id="_Ref531867975" class="anchor"></span>Kashmiri, India
     \[kas(i)\] (Indo-Aryan)

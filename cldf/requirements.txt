@@ -15,7 +15,7 @@ idna==2.10
 iniconfig==1.1.1
 isodate==0.6.0
 jdcal==1.4.1
--e git+https://github.com/cldf-datasets/liljegrenhindukush.git@d497d8a06e5f9b06ae5ab2a2f7f0fba915defabe#egg=lexibank_liljegrenhindukush
+-e git+https://github.com/cldf-datasets/liljegrenhindukush.git@e031765aafff82763dd119fac0909b01918157e2#egg=lexibank_liljegrenhindukush
 lingpy==2.6.6
 Markdown==3.3.1
 networkx==2.2
@@ -27,7 +27,7 @@ purl==1.5
 py==1.9.0
 pybtex==0.23.0
 pycdstar==1.0.1
-pycldf==1.16.0
+pycldf==1.17.0
 pyclts==2.1.3
 pyconcepticon==2.6.0
 pycountry==20.7.3

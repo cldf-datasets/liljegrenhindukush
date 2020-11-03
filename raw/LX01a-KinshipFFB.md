@@ -10,10 +10,10 @@ pattern occurs in Tibeto-Burman Balti, as can be seen in ‎(1).
 (1) <span id="_Ref12343426" class="anchor"></span>Balti
     \[bft\] (Tibeto-Burman)
 
-| a.  | áta           | ‘father’ (BFT-KinHS:001)                                           |
+| a.  | ata           | ‘father’ (BFT-KinHS:001)                                           |
 |-----|---------------|--------------------------------------------------------------------|
-| b.  | áta t͡ɕʰoʁó    | ‘father’s older brother’ \[lit. big father\] (BFT- KinHS:022)      |
-| c.  | áta t͡sʰunt͡sêː | ‘father’s younger brother’ \[lit. little father\] (BFT- KinHS:023) |
+| b.  | ata tɕʰoʁo    | ‘father’s older brother’ \[lit. big father\] (BFT- KinHS:022)      |
+| c.  | ata tsʰuntseː | ‘father’s younger brother’ \[lit. little father\] (BFT- KinHS:023) |
 
 The feature occurs in approximately a third of the sample, essentially
 in a central belt stretching through the geographical core of the region

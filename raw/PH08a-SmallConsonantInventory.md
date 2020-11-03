@@ -14,18 +14,18 @@ using the above-mentioned method, representative of the value small is
 that of Turkic Kyrgyz, as displayed in the table, with its 17
 consonants.
 
-|              | **Labial** | **Dental/alveolar** | **Post-alveolar** | **Velar/uvular** |
-|--------------|------------|---------------------|-------------------|------------------|
-| Plosive      | p, b       | t, d                |                   | k, ɡ, q          |
-| Affricate    |            |                     | tɕ, dʑ            |                  |
-| Fricative    |            | s, z                | ɕ                 |                  |
-| Nasal        | m          | n                   |                   |                  |
-| Lateral/flap |            | l, r                |                   |                  |
-| Approximant  |            |                     | j                 |                  |
+| **Kyrgyz \[kir\] (Turkic)** | **Labial** | **Dental/alveolar** | **Post-alveolar** | **Velar/uvular** |
+|-----------------------------|------------|---------------------|-------------------|------------------|
+| Plosive                     | p, b       | t, d                |                   | k, ɡ, q          |
+| Affricate                   |            |                     | tɕ, dʑ            |                  |
+| Fricative                   |            | s, z                | ɕ                 |                  |
+| Nasal                       | m          | n                   |                   |                  |
+| Lateral/flap                |            | l, r                |                   |                  |
+| Approximant                 |            |                     | j                 |                  |
 
 <span id="_Hlk50485920" class="anchor"></span>Only two of the sample
 languages were recorded as using 18 or less consonants in the 40-item
-list, Turkic Kyrgyz and Nuristani East Kati.
+list, Turkic Kyrgyz and Nuristani Eastern Kati.
 
 | Feature value | \# of varieties displaying it | %   |
 |---------------|-------------------------------|-----|

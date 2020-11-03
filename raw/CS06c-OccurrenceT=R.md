@@ -12,7 +12,7 @@ clauses. This feature would deserve a more thorough investigation.
 | Feature value | \# of varieties displaying it | %   |
 |---------------|-------------------------------|-----|
 | Present       | 0                             | 0   |
-| Absent        | 47                            | 80  |
-| Indeterminate | 11                            | 20  |
+| Absent        | 48                            | 81  |
+| Indeterminate | 11                            | 19  |
 
 

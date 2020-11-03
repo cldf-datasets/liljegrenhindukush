@@ -23,7 +23,7 @@ shown in (2). A single term for ‘grandchild’ is used, regardless of sex.
 |-------|-----------------------------------|
 
 Differentiation by the grandchild’s sex is a majority feature. It is
-only absent in 10 of the sample languages.
+absent only in a few of the sample languages.
 
 | Feature value | \# of varieties displaying it | %   |
 |---------------|-------------------------------|-----|

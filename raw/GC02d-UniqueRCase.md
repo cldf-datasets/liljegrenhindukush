@@ -16,17 +16,19 @@ are zero marked.
 (1) <span id="_Ref12281344" class="anchor"></span>Amla Pashai
     \[psi(am)\] (Indo-Aryan)
 
-| a.  | kiʈaːlik-iː                                                        | baː-staː**=ntiː**                                                     | gul                                                          | gəɽ-eː-t͡ʃ-in.                                                |
-|-----|--------------------------------------------------------------------|-----------------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
-|     | girl-<span style="font-variant:small-caps;">obl</span>             | grandmother<span style="font-variant:small-caps;">-3sg.poss=</span>to | flower                                                       | send-<span style="font-variant:small-caps;">pst-f-3pl</span> |
+| a.  | kiʈaːlik-iː                                                        | baː-staː**=ntiː**                                                     | gul    | gəɽ-eː-tɕ-in.                                                |
+|-----|--------------------------------------------------------------------|-----------------------------------------------------------------------|--------|--------------------------------------------------------------|
+|     | girl-<span style="font-variant:small-caps;">obl</span>             | grandmother<span style="font-variant:small-caps;">-3sg.poss=</span>to | flower | send-<span style="font-variant:small-caps;">pst-f-3pl</span> |
 |     | ‘The girl sent flowers to her grandmother.’ (PSIam-ValQuestNG:037) |
-| b.  | kilaː-j                                                            | kiʈaːlik                                                              | warg-iː=kuːt͡ʃa                                               | ʈeːla                                                        |
-|     | boy-<span style="font-variant:small-caps;">obl</span>              | girl                                                                  | water-<span style="font-variant:small-caps;">obl</span>=into | pushing                                                      |
-|     | ‘The boy pushed the girl into the water.’ (PSIam-ValQuestNG:074)   |
 
-Unique case-marking of the R argument is present in 50 of the sample
-languages, i.e. in the majority of them. The few languages lacking this
-property are primarily found in the region’s south.
+| b.  | kilaː-j                                                          | kiʈaːlik | warg-iː=kuːtɕa                                               | ʈeːla   | k-i-tɕ-aːn.                                                                                               |
+|-----|------------------------------------------------------------------|----------|--------------------------------------------------------------|---------|-----------------------------------------------------------------------------------------------------------|
+|     | boy-<span style="font-variant:small-caps;">obl</span>            | girl     | water-<span style="font-variant:small-caps;">obl</span>=into | pushing | do-<span style="font-variant:small-caps;">pst</span>-<span style="font-variant:small-caps;">f-3fsg</span> |
+|     | ‘The boy pushed the girl into the water.’ (PSIam-ValQuestNG:074) |
+
+Unique case-marking of the R argument is present in the large majority
+of the sample languages. The few languages lacking this property are
+primarily found in the region’s south.
 
 | Feature value | \# of varieties displaying it | %   |
 |---------------|-------------------------------|-----|

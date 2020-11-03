@@ -12,8 +12,8 @@ occurs in Nuristani Waigali, as can be seen in ‎(1).
 
 | a.  | jej         | ‘mother’ (WBK-KinSR:002)                                         |
 |-----|-------------|------------------------------------------------------------------|
-| b.  | dyʃtyː jej  | ‘mother’s older sister’ \[lit. big mother\] (WBK-KinSR:031)      |
-| c.  | kynʃtyː jej | ‘mother’s younger sister’ \[lit. little mother\] (WBK-KinSR:032) |
+| b.  | dyɕtyː jej  | ‘mother’s older sister’ \[lit. big mother\] (WBK-KinSR:031)      |
+| c.  | kynɕtyː jej | ‘mother’s younger sister’ \[lit. little mother\] (WBK-KinSR:032) |
 
 The feature occurs in a minority of the sample languages but it has a
 distinctly subareal distribution. It occurs, on the one hand in Eastern

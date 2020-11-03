@@ -12,7 +12,7 @@ structures occur, as displayed in (1).
 | a.  | /aːʈ/      | ‘eight’ (TRW-NumUD:008)      |
 |-----|------------|------------------------------|
 | b.  | /paːʂ/     | ‘leaf’ (TRW-40listUD:018)    |
-| c.  | /d͡ʒa.maːʂ/ | ‘son-in-law’ (TRW-KinUD:045) |
+| c.  | /dʑa.maːʂ/ | ‘son-in-law’ (TRW-KinUD:045) |
 
 In the region, (C)VC Syllable Structure is found in all of the sample
 languages.

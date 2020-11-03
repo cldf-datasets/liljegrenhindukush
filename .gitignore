@@ -1,4 +1,3 @@
-bank stuff
 cldf/.transcription-report.json
 
 # Byte-compiled / optimized / DLL files
@@ -61,4 +60,4 @@ coverage.xml
 venv/
 ENV/
 .idea/
-
+Audio files

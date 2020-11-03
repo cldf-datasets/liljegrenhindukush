@@ -13,11 +13,10 @@ languages. See examples in (1).
 | b.  | /puɬ/ | ‘son’ (GWTp-KinAS:004)     |
 | c.  | /ɡaɬ/ | ‘skin’ (GWTp-40listAS:030) |
 
-Lateral fricatives is a minority feature in the area, but with its
-presence in 13 of the sample languages it has an overall frequency that
-is considerably higher than its global presence. It is found in
-Tibeto-Burman as well as among the region’s Iranian and Indo-Aryan
-languages.
+The presence of lateral fricatives is a minority feature in the area,
+but its presence is still considerably higher than its corresponding
+global frequency. It is found in Tibeto-Burman as well as among the
+region’s Iranian and Indo-Aryan languages.
 
 | Feature value | \# of varieties displaying it | %   |
 |---------------|-------------------------------|-----|

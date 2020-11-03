@@ -17,8 +17,9 @@ the noun, is exemplified by Indo-Aryan Gawarbati of Pakistan in (1).
 |     | GEN                                                                   | N     |     |     |
 |     | ‘the page of a book’ (GWTp-ValQuestAS:032)                            |
 
-An overwhelming majority of the sample languages apply a genitive—noun
-word order. It is only entirely absent in two of the languages.
+Nearly all of the sample languages apply a genitive—noun word order. It
+is only entirely absent in a couple of the languages, and indeterminate
+for another few.
 
 | Feature value | \# of varieties displaying it | %   |
 |---------------|-------------------------------|-----|

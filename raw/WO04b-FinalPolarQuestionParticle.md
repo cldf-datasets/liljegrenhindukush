@@ -15,7 +15,8 @@ copula.
 | ‘Is this your ball?’ (LBJ-DemIS:005a) |
 
 Nearly half of the languages in the sample use final polar question
-markers. These represent all the six phyla in the sample.
+markers. These represent all six phylogenetic groupings included in the
+sample.
 
 | Feature value | \# of varieties displaying it | %   |
 |---------------|-------------------------------|-----|

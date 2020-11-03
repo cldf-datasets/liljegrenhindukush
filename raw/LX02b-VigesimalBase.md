@@ -14,23 +14,21 @@ used as a recurring element for forming numbers beyond the interval 1-19
 (see Decimal Numeral Base). No attempt has been made to distinguish pure
 vigesimal from hybrid vigesimal-decimal along the lines of WALS, as
 there is in most cases no such clear-cut treatment between numbers below
-100 and above 100. Shemal Pashai, as displayed in the table, is an
-example of a language using a vigesimal base.
+100 and above 100. Shemal Pashai, as displayed in ‎(1), is an example of
+a language using a vigesimal base.
 
-| **Shemal Pashai \[aee(sh)\]** |
-|-------------------------------|
-|                               |
-| ‘10’                          |
-| ‘20’                          |
-| ‘30’                          |
-| ‘40’                          |
-| ‘50’                          |
-| ‘60’                          |
-| ‘70’                          |
-| ‘80’                          |
-| ‘90’                          |
-| ‘100’                         |
-| ‘110’                         |
+(1) <span id="_Ref12343426" class="anchor"></span>Shemal Pashai
+    \[aee(sh)\] (Indo-Aryan)
+
+| ‘6’  | tɕə          | numeral n=6       | ‘46’  | dijɑː bi tɕə        | 2x(10)+6  |
+|------|--------------|-------------------|-------|---------------------|-----------|
+| ‘10’ | *daːj*       | numeral n=10      | ‘50’  | *dijɑː bi daːj*     | 2x(20)+10 |
+| ‘16’ | *səɽ*        | numeral n=16      | ‘60’  | *ɬejɑː*             | 3x(20)    |
+| ‘20’ | *wist*       | vigesimal base 20 | ‘70’  | *ɬejɑː bi daːj*     | 3x(20)+10 |
+| ‘26’ | *wistə tɕə*  | 20+6              | ‘80’  | *t͡soːrijɑː*         | 4x(20)    |
+| ‘30’ | *wistə daːj* | 20+10             | ‘90’  | *t͡soːrijɑː bi daːj* | 4x(20)+10 |
+| ‘36’ | *wistə səɽ*  | 20+16             | ‘100’ | *paːnijɑː*          | 5x(20)    |
+| ‘40’ | *dijɑː*      | 2x(20)            | ‘110’ | *paːnijɑː bi daːj*  | 5x(20)+10 |
 
 A vigesimal base is present in approximately two thirds of the sample,
 essentially constituting the overall dominant system in its central

@@ -14,14 +14,16 @@ suffix *–niː*.)
 (1) <span id="_Ref531867975" class="anchor"></span>Uzbek
     \[uzs\] (Turkic)
 
-| a.  | iːlɑːn                                                     | wiːl-deː.                                               |
-|-----|------------------------------------------------------------|---------------------------------------------------------|
-|     | snake                                                      | die-<span style="font-variant:small-caps;">pst</span>   |
-|     | **S**                                                      |                                                         |
-|     | ‘The snake died.’ (UZS-ValQuestAL:061)                     |
-| b.  | uːʁul                                                      | iːlɑːn=deː                                              |
-|     | boy                                                        | snake=<span style="font-variant:small-caps;">loc</span> |
-|     | A                                                          | **P**                                                   |
+| a.  | iːlɑːn                                 | wiːl-deː.                                             |
+|-----|----------------------------------------|-------------------------------------------------------|
+|     | snake                                  | die-<span style="font-variant:small-caps;">pst</span> |
+|     | **S**                                  |                                                       |
+|     | ‘The snake died.’ (UZS-ValQuestAL:061) |
+
+| b.  | uːʁul                                                      | iːlɑːn=deː                                              | jaʁɑːtɕ | minan | uːr-deː.                                              |
+|-----|------------------------------------------------------------|---------------------------------------------------------|---------|-------|-------------------------------------------------------|
+|     | boy                                                        | snake=<span style="font-variant:small-caps;">loc</span> | stick   | with  | hit-<span style="font-variant:small-caps;">pst</span> |
+|     | A                                                          | **P**                                                   |         |       |                                                       |
 |     | ‘The boy hit the snake with a stick.’ (UZS-ValQuestAL:028) |
 
 Accusative alignment is clearly subareal in its distribution. While it

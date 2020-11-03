@@ -19,7 +19,7 @@ corresponding unaspirated voiced consonants are given in (1).
 | c.  | /nʰaːlũː/ | ‘to see’ (MVY-40listHU:029)  |
 |     | /nãw/     | ‘nine’ (MVY-NumHU:009)       |
 | d.  | /ʐʰaː/    | ‘brother’ (MVY-KinHU:007)    |
-|     | /ʐamʈ͡ʂuː/ | ‘son-in-law’ (MVY-KinHU:045) |
+|     | /ʐamʈʂuː/ | ‘son-in-law’ (MVY-KinHU:045) |
 
 It should be pointed out that the treatment of aspirated series is an
 issue which is far from straightforward. In some cases, the distribution
@@ -28,9 +28,10 @@ linguists analyzing individual languages (including Indus Kohistani) to
 apply a suprasegmental or a cluster analysis rather than positing an
 entire subset of aspirated voiced units.
 
-Voiced aspiration contrast is in any case a minority feature in the
-region, possibly present in eight of the varieties. All of those, except
-Iranian Parachi, are Indo-Aryan.
+Voiced aspiration contrast is a minority feature in the region, possibly
+present in only a few of the varieties. All of those, except Iranian
+Parachi, are Indo-Aryan languages spoken in the southern and central
+parts of the region.
 
 | Feature value | \# of varieties displaying it | %   |
 |---------------|-------------------------------|-----|

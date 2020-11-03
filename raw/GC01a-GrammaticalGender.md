@@ -8,17 +8,20 @@ and a feminine agreement suffix *-**i*** with the feminine noun ‘sun’.
 (1) <span id="_Ref531867975" class="anchor"></span>Sawi
     \[sdg\] (Indo-Aryan)
 
-| a.  | **baʂ**                                               | uʈiʈ-**u.**                                                  |
-|-----|-------------------------------------------------------|--------------------------------------------------------------|
-|     | rain(<span style="font-variant:small-caps;">m</span>) | fall.<span style="font-variant:small-caps;">pfv-msg</span>   |
+| a.  | **baʂ**                                               | uʈiʈ-**u.**                                                |
+|-----|-------------------------------------------------------|------------------------------------------------------------|
+|     | rain(<span style="font-variant:small-caps;">m</span>) | fall.<span style="font-variant:small-caps;">pfv-msg</span> |
 |     | ‘It rained.’ (SDG-ValQuestFR:069)                     |
-| b.  | **suri**                                              | ukeːt-**i**.                                                 |
-|     | sun(<span style="font-variant:small-caps;">f</span>)  | get.up.<span style="font-variant:small-caps;">pfv-fsg</span> |
-|     | ‘The sun rose.’ (SDG-NorthwindFR:004a)                |
 
-A majority of our sample varieties display evidence of two or more
-genders lexically associated with nouns, while only 12 of the sample
-varieties lack this property altogether.
+| b.  | **suri**                                             | ukeːt-**i**.                                                 |
+|-----|------------------------------------------------------|--------------------------------------------------------------|
+|     | sun(<span style="font-variant:small-caps;">f</span>) | get.up.<span style="font-variant:small-caps;">pfv-fsg</span> |
+|     | ‘The sun rose.’ (SDG-NorthwindFR:004a)               |
+
+A majority of our sample languages display evidence of two or more
+genders lexically associated with nouns. Approximately a fifth of the
+sample varieties lacks this property altogether, among them the Turkic
+and Tibeto-Burman varieties.
 
 | Feature value | \# of varieties displaying it | %   |
 |---------------|-------------------------------|-----|

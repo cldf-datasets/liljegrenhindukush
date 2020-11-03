@@ -5,29 +5,32 @@ The strategy for marking a noun phrase as a location was investigated.
 feature reflects the presence of a marker preceding the noun phrase,
 whether clitical or adpositional. In Iranian Pashto of Pakistan, this
 semantic role is coded by a preposition, as shown in (1). For a location
-at, or neat, a surface, as in (1a), the preposition *pə* is sufficient,
-while for the location inside something, as in (1b),a combination of the
-preposition *pə* and a postposition *kiː* is used.
+at, or near, a surface, as in (1a), the preposition *pə* is sufficient,
+while for the location inside something, as in (1b), a combination of
+the preposition *pə* and a postposition *kiː* is used.
 
 (1) <span id="_Ref12281344" class="anchor"></span>Pashto, Pakistan
     \[pbu(p)\] (Iranian)
 
-| a.  | maːʃuːm-aːn                                                 | **pə ** | beːnt͡ʃ  | naːst  | diː.                                                     |     |
-|-----|-------------------------------------------------------------|---------|---------|--------|----------------------------------------------------------|-----|
-|     | child-<span style="font-variant:small-caps;">pl</span>      | \[at    | bench\] | seated | be.<span style="font-variant:small-caps;">prs.3pl</span> |     |
-|     | ‘The children sit on the bench.’ (PBUp-ValQuestKK:051)      |
-| b.  | buːɖaː-gaːn                                                 | **pə ** | kəliː   | kiː    | uːs-iː.                                                  |     |
-|     | old.person-<span style="font-variant:small-caps;">pl</span> | \[at    | village | in\]   | live.<span style="font-variant:small-caps;">prs-3</span> |     |
+| a.  | maːʃuːm-aːn                                            | **pə ** | beːntʃ  | naːst  | diː.                                                     |     |
+|-----|--------------------------------------------------------|---------|---------|--------|----------------------------------------------------------|-----|
+|     | child-<span style="font-variant:small-caps;">pl</span> | \[at    | bench\] | seated | be.<span style="font-variant:small-caps;">prs.3pl</span> |     |
+|     | ‘The children sit on the bench.’ (PBUp-ValQuestKK:051) |
+
+| b.  | buːɖaː-gaːn                                                 | **pə ** | kəliː   | kiː  | uːs-iː.                                                  |     |
+|-----|-------------------------------------------------------------|---------|---------|------|----------------------------------------------------------|-----|
+|     | old.person-<span style="font-variant:small-caps;">pl</span> | \[at    | village | in\] | live.<span style="font-variant:small-caps;">prs-3</span> |     |
 |     | ‘The old people live in town.’ (PBUp-ValQuestKK:056)        |
 
-This is a minority feature and limited to Iranian languages (primarily
-in the north). It is present (sometimes in addition to other coding,
-such as suffixing or a postposition) in eleven of the sample languages.
+This is a minority feature and, in this data sample, limited to Iranian
+languages (primarily in the north). In those languages it is sometimes
+present in addition to other coding, such as suffixing or a
+postposition.
 
 | Feature value | \# of varieties displaying it | %   |
 |---------------|-------------------------------|-----|
-| Present       | 11                            |     |
-| Absent        | 48                            |     |
-| Indeterminate | 0                             |     |
+| Present       | 11                            | 19  |
+| Absent        | 48                            | 81  |
+| Indeterminate | 0                             | 0   |
 
 

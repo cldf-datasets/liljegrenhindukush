@@ -7,7 +7,7 @@ relation.
 (1) <span id="_Ref531867975" class="anchor"></span>Yidgha
     \[ydg\] (Iranian)
 
-| ʒiŋgo                                                | **ne ** | bazaːr | ʂu-wi.                                                   |     |
+| ʑiŋgo                                                | **ne ** | bazaːr | ʂu-wi.                                                   |     |
 |------------------------------------------------------|---------|--------|----------------------------------------------------------|-----|
 | woman                                                | to      | bazaar | go.<span style="font-variant:small-caps;">pst-3sg</span> |     |
 | ‘The woman went to the market.’ (YDG-ValQuestSZ:054) |
@@ -24,13 +24,14 @@ Iranian Parachi, as can be seen in ‎(2).
 | child-<span style="font-variant:small-caps;">pl</span> | on.(top.of) | floor | in       | sit.down |
 | ‘The children sat on the floor.’ (PRC-ValQuestSH:050)  |
 
-The presence of prepositions is limited to the Iranian languages of the
-region and are found primarily in the northwest.
+The presence of prepositions found in our sample is limited to the
+Iranian languages of the region and are found primarily in the
+northwest.
 
 | Feature value | \# of varieties displaying it | %   |
 |---------------|-------------------------------|-----|
 | Present       | 11                            | 19  |
-| Absent        | 48                            | 81  |
-| Indeterminate | 0                             | 0   |
+| Absent        | 47                            | 80  |
+| Indeterminate | 1                             | 1   |
 
 

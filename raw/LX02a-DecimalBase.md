@@ -13,25 +13,23 @@ taken as diagnostic. The existence of a lexeme ‘20’ without any obvious
 derivational relationship to any other numeral or numeral base has not
 been regarded as counterevidence as long as ‘20’ is not routinely used
 as a recurring element for forming numbers beyond the interval 20-29
-(see Vigesimal Numeral Base). Sanjan Pashai, as displayed in the table,
-is an example of a language using a decimal base. However, the numerals
-‘40’, ‘50’, etc., are obvious Persian loan forms, setting the language
-off from some of its closest relatives that apply a vigesimal system.
+(see Vigesimal Numeral Base). Sanjan Pashai, as displayed in ‎(1), is an
+example of a language using a decimal base. However, the numerals ‘40’,
+‘50’, etc., are obvious Persian loan forms, setting the language off
+from some of its closest relatives that apply a vigesimal system.
 
-| **Sanjan Pashai \[glh(sn)\] (Iranian)** |
-|-----------------------------------------|
-|                                         |
-| ‘10’                                    |
-| ‘20’                                    |
-| ‘30’                                    |
-| ‘40’                                    |
-| ‘50’                                    |
-| ‘60’                                    |
-| ‘70’                                    |
-| ‘80’                                    |
-| ‘90’                                    |
-| ‘100’                                   |
-| ‘110’                                   |
+(1) <span id="_Ref12343426" class="anchor"></span>Sanjan Pashai
+    \[glh(sn)\] (Indo-Aryan)
+
+| ‘6’  | ʂe         | lower numeral n=6     | ‘46’  | tɕele ʂe     | 4x(10)+6               |
+|------|------------|-----------------------|-------|--------------|------------------------|
+| ‘10’ | *dɑː*      | decimal base 10       | ‘50’  | *pendʑɑː*    | 5x(10)                 |
+| ‘16’ | *ʂuj*      | n+(10)                | ‘60’  | *ɕaːst*      | 6x(10)                 |
+| ‘20’ | *wəst*     | non-derived lexeme 20 | ‘70’  | *haːftɑːd*   | 7x(10)                 |
+| ‘26’ | *wəstə ʂe* | 20+6                  | ‘80’  | *haːʃtɑːd*   | 8x(10)                 |
+| ‘30’ | *triju*    | 3x(10)                | ‘90’  | *nawad*      | 9x(10)                 |
+| ‘36’ | *triju ʂe* | 3x(10)+6              | ‘100’ | *sad*        | non-derived lexeme 100 |
+| ‘40’ | *tɕel*     | 4x(10)                | ‘110’ | *iː sadu da* | 1x100+10               |
 
 A decimal base is present in approximately a third of the sample,
 essentially in its peripheral western and southern parts.

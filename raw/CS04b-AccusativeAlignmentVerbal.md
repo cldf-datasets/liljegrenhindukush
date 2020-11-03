@@ -16,28 +16,34 @@ the subject NP of the transitive clause.
 (1) <span id="_Ref531867975" class="anchor"></span>Khowar <span
     id="_Ref51167911" class="anchor"></span>\[khw\] (Indo-Aryan)
 
-| a.  | **pʰuk**                                                         | **kumoːru **                                              | oːs-it-**aj**.                                                |                                                            |                                                             |                                                            |
-|-----|------------------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------------------------|------------------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------|
-|     | small                                                            | girl                                                      | laugh-<span style="font-variant:small-caps;">pst-3sg</span>   |                                                            |                                                             |                                                            |
-|     | **S**                                                            |                                                           |                                                               |                                                            |                                                             |                                                            |
-|     | ‘The little girl laughed.’ (KHW-ValQuestAA:057)                  |
-| b.  | **moːʃ**(-an)                                                    | kan-tu                                                    | us-it-**aːni**.                                               |                                                            |                                                             |
-|     | man-(<span style="font-variant:small-caps;">pl</span>)           | tree-<span style="font-variant:small-caps;">sprloc</span> | climb-<span style="font-variant:small-caps;">pst-3pl</span>   |                                                            |                                                             |
-|     | **S**                                                            |                                                           |                                                               |                                                            |                                                             |
-|     | ‘The men climbed up the tree.’ (KHW-ValQuestAA:048)              |
-| c.  | **kumoːru**                                                      | tan                                                       | waw-o                                                         | te                                                         | gamburij-an                                                 | anzeː-t-**aj**.                                            |
-|     | girl                                                             | <span style="font-variant:small-caps;">refl</span>        | grandmother-<span style="font-variant:small-caps;">obl</span> | to                                                         | flower-<span style="font-variant:small-caps;">obl.pl</span> | send-<span style="font-variant:small-caps;">pst-3sg</span> |
-|     | **A**                                                            |                                                           |                                                               |                                                            | P                                                           |                                                            |
+| a.  | **pʰuk**                                        | **kumoːru ** | oːs-it-**aj**.                                              |     |     |     |
+|-----|-------------------------------------------------|--------------|-------------------------------------------------------------|-----|-----|-----|
+|     | small                                           | girl         | laugh-<span style="font-variant:small-caps;">pst-3sg</span> |     |     |     |
+|     | **S**                                           |              |                                                             |     |     |     |
+|     | ‘The little girl laughed.’ (KHW-ValQuestAA:057) |
+
+| b.  | **moːɕ**(-an)                                          | kan-tu                                                    | us-it-**aːni**.                                             |     |     |
+|-----|--------------------------------------------------------|-----------------------------------------------------------|-------------------------------------------------------------|-----|-----|
+|     | man-(<span style="font-variant:small-caps;">pl</span>) | tree-<span style="font-variant:small-caps;">sprloc</span> | climb-<span style="font-variant:small-caps;">pst-3pl</span> |     |     |
+|     | **S**                                                  |                                                           |                                                             |     |     |
+|     | ‘The men climbed up the tree.’ (KHW-ValQuestAA:048)    |
+
+| c.  | **kumoːru**                                                      | tan                                                | waw-o                                                         | te  | gamburij-an                                                 | anzeː-t-**aj**.                                            |
+|-----|------------------------------------------------------------------|----------------------------------------------------|---------------------------------------------------------------|-----|-------------------------------------------------------------|------------------------------------------------------------|
+|     | girl                                                             | <span style="font-variant:small-caps;">refl</span> | grandmother-<span style="font-variant:small-caps;">obl</span> | to  | flower-<span style="font-variant:small-caps;">obl.pl</span> | send-<span style="font-variant:small-caps;">pst-3sg</span> |
+|     | **A**                                                            |                                                    |                                                               |     | P                                                           |                                                            |
 |     | ‘The girl sent flowers to her grandmother.’ (KHW-ValQuestAA:037) |
-| d.  | **moːʃ-an**                                                      | dar-aːr                                                   | duːr                                                          | sawzeː-t-**ani**.                                          |                                                             |
-|     | man-<span style="font-variant:small-caps;">pl</span>             | wood-<span style="font-variant:small-caps;">abl</span>    | house                                                         | make-<span style="font-variant:small-caps;">pst-3pl</span> |                                                             |
-|     | **A**                                                            |                                                           | P                                                             |                                                            |                                                             |
-|     | ‘The men built a house out of wood.’ (KHW-ValQuestAA:024)        |
+
+| d.  | **moːɕ-an**                                               | dar-aːr                                                | duːr  | sawzeː-t-**ani**.                                          |     |
+|-----|-----------------------------------------------------------|--------------------------------------------------------|-------|------------------------------------------------------------|-----|
+|     | man-<span style="font-variant:small-caps;">pl</span>      | wood-<span style="font-variant:small-caps;">abl</span> | house | make-<span style="font-variant:small-caps;">pst-3pl</span> |     |
+|     | **A**                                                     |                                                        | P     |                                                            |     |
+|     | ‘The men built a house out of wood.’ (KHW-ValQuestAA:024) |
 
 This feature is a majority feature, evidenced in the entire region
 (whether as the only alignment pattern, or in addition to an ergative
-alignment pattern) except for the far east with its Tibeto-Burman
-languages which altogether lack agreement marking on verbs.
+alignment pattern) except for the far east, where the Tibeto-Burman
+sample languages lack agreement marking on verbs altogether.
 
 | Feature value | \# of varieties displaying it | %   |
 |---------------|-------------------------------|-----|

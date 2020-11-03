@@ -18,7 +18,7 @@ occur, too.
 | c.  | maːl      | ‘father’ (SHD- KinGQ:001) |
 
 The feature is a majority pattern in the region, occurring across the
-region, in languages of all six phyla.
+region, in languages of all phylogenetic groups.
 
 | Feature value | \# of varieties displaying it | %   |
 |---------------|-------------------------------|-----|

@@ -13,9 +13,9 @@ exemplified by Indo-Aryan Gawarbati of Afghanistan in (1).
 | ADJ                                                                                   | N        |     |     |     |
 | <span id="_Hlk50649735" class="anchor"></span>‘the little girl’ (GWTa-ValQuestAG:057) |
 
-An overwhelming majority of the sample languages apply an adjective—noun
-word order (either as the only option, or in addition to the reverse
-order). It is only entirely absent in three of the languages.
+Nearly all of the sample languages apply an adjective—noun word order
+(either as the only option, or in addition to the reverse order). It is
+only entirely absent in a few of the languages.
 
 | Feature value | \# of varieties displaying it | %   |
 |---------------|-------------------------------|-----|

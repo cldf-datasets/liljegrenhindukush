@@ -15,10 +15,11 @@ nasalized vowels in (1).
 | c.  | /tijiː/ | ‘daughter’ (GJUp-KinRN:005)        |
 |     | /dĩː/   | ‘sun’ (GJUp-40listRN:033)          |
 
-Constrastive vowel nasalization occurs in 23 of the sample languages,
-but its occurrence is both geographically and phylogenetically
-restricted. It is typical of Indo-Aryan languages in the south and east.
-It does not occur in Turkic, Iranian or Tibeto-Burman.
+Constrastive vowel nasalization occurs in at least a third of the sample
+languages, but its occurrence is both geographically and
+phylogenetically restricted. It is typical of Indo-Aryan languages in
+the south and east. In our sample, it is not evidenced in Turkic,
+Iranian or Tibeto-Burman.
 
 | Feature value | \# of varieties displaying it | %   |
 |---------------|-------------------------------|-----|

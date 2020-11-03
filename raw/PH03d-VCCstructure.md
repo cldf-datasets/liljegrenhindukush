@@ -13,8 +13,8 @@ exemplified by the words from Iranian Ishkashimi displayed in (1).
 | b.  | /uduχt/ | ‘daughter’ (ISK-KinMA:005) |
 | c.  | /krust/ | ‘skin’ (ISK-40listSO:030)  |
 
-In the region, (C)VCC Syllable Structure is found in 42 of the sample
-languages.
+In the region, (C)VCC Syllable Structure is found in more than two
+thirds of the sample languages.
 
 | Feature value | \# of varieties displaying it | %   |
 |---------------|-------------------------------|-----|

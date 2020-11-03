@@ -7,7 +7,7 @@ Kalkoti sentence in (1) illustrates this word order.
 (1) <span id="_Ref531867975" class="anchor"></span>Kalkoti
     \[xka\] (Indo-Aryan)
 
-| triaːl-um                                               | maːs   | pat͡ʃʰ-aːl.                                             |     |     |
+| triaːl-um                                               | maːs   | patɕʰ-aːl.                                             |     |     |
 |---------------------------------------------------------|--------|--------------------------------------------------------|-----|-----|
 | women-<span style="font-variant:small-caps;">obl</span> | meat   | cook-<span style="font-variant:small-caps;">pfv</span> |     |     |
 |                                                         | OBJECT | VERB                                                   |     |     |

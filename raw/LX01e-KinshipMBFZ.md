@@ -3,7 +3,7 @@ Kinship: MB=FZ
 In some languages the same kinship term is used for referring to an
 anchor’s mother’s brother (MB) as the one used for referring to the
 father’s sister (FZ), i.e. both parents’ different-sex siblings. This
-pattern occur in Nagar Burushaski, as can be seen in ‎(1). This term is
+pattern occurs in Nagar Burushaski, as can be seen in ‎(1). This term is
 lexically distinct from the terms for the anchor’s parents and for their
 same-sex siblings.
 
@@ -15,12 +15,12 @@ same-sex siblings.
 | b.  | nana       | ‘father’s sister’ (BSKn-KinSD:024)                                 |
 | c.  | aɰa        | ‘father’ \[lit. little mother\] (BSKn-KinSD:001)                   |
 | d.  | ujum aɰa   | ‘father’s older brother’ \[lit. big father\] (BSKn-KinSD:022)      |
-| e.  | d͡ʑoʈ aɰa   | ‘father’s younger brother’ \[lit. little father\] (BSKn-KinSD:023) |
+| e.  | dʑoʈ aɰa   | ‘father’s younger brother’ \[lit. little father\] (BSKn-KinSD:023) |
 | f.  | mahma      | ‘mother’ \[lit. big mother\] (BSKn-KinSD:002)                      |
 | g.  | ujum mahma | ‘mother’s older sister’ \[lit. big mother\] (BSKn-KinSD:031)       |
-| h.  | d͡ʑoʈ mahma | ‘mother’s younger sister’ \[lit. little mother\] (BSKn-KinSD:032)  |
+| h.  | dʑoʈ mahma | ‘mother’s younger sister’ \[lit. little mother\] (BSKn-KinSD:032)  |
 
-In the Hindu Kush sample, it is a feature exclusively of two Burushaski
+In the Hindu Kush sample, it is a feature exclusive of two Burushaski
 varieties.
 
 | Feature value | \# of varieties displaying it | %   |

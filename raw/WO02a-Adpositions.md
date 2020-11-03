@@ -19,13 +19,11 @@ be coded in the oblique case, as shown in (1).
 | ‘We gave the books to the children.’ (PBUp-ValQuestKK:036) |
 
 In the region, there are no languages that clearly lack this property.
-However, the present data is insufficient for classifying two of the
-languages in the sample with certainty.
 
 | Feature value | \# of varieties displaying it | %   |
 |---------------|-------------------------------|-----|
-| Present       | 57                            | 97  |
+| Present       | 58                            | 98  |
 | Absent        | 0                             | 0   |
-| Indeterminate | 2                             | 3   |
+| Indeterminate | 1                             | 2   |
 
 

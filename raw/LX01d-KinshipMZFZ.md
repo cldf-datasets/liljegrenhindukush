@@ -1,10 +1,9 @@
 Kinship: MZ=FZ
 
-In some languages the same kinship term is used for referring to an
-anchor’s mother’s sister (MZ) as the one used for referring to the
-father’s sister (FZ). This pattern occurs in Indo-Aryan Alasai Pashai,
-as can be seen in ‎(1). This term is lexically distinct from the term
-for ‘mother’.
+In some languages, the same kinship term is used for referring to an
+anchor’s mother’s sister (MZ) as for referring to father’s sister (FZ).
+This pattern occurs in Indo-Aryan Alasai Pashai, as can be seen in ‎(1).
+This term is lexically distinct from the term for ‘mother’.
 
 (1) <span id="_Ref12343426" class="anchor"></span>Alasai Pashai
     \[psh(ai)\] (Indo-Aryan)
@@ -23,10 +22,10 @@ aunts, alike, as can be seen in ‎(2).
 
 | a.  | aːi          | ‘mother’ (AEEkg-KinAM:002)                                         |
 |-----|--------------|--------------------------------------------------------------------|
-| b.  | kaniʃʈiː aːi | ‘mother’s younger sister’ \[lit. little mother\] (AEEkg-KinAM:032) |
-| c.  | kaniʃʈiː aːi | ‘father’s younger sister’ \[lit. little mother\] (AEEkg-KinAM:026) |
-| d.  | ɖəʃʈiː aːi   | ‘mother’s older sister’ \[lit. big mother\] (AEEkg-KinAM:031)      |
-| e.  | ɖəʃʈiː aːi   | ‘father’s older sister’ \[lit. big mother\] (AEEkg-KinAM:025)      |
+| b.  | kaniɕʈiː aːi | ‘mother’s younger sister’ \[lit. little mother\] (AEEkg-KinAM:032) |
+| c.  | kaniɕʈiː aːi | ‘father’s younger sister’ \[lit. little mother\] (AEEkg-KinAM:026) |
+| d.  | ɖəɕʈiː aːi   | ‘mother’s older sister’ \[lit. big mother\] (AEEkg-KinAM:031)      |
+| e.  | ɖəɕʈiː aːi   | ‘father’s older sister’ \[lit. big mother\] (AEEkg-KinAM:025)      |
 
 The feature occurs in approximately a fourth of the sample. It has a
 distinctly subareal distribution, occurring in a geographical belt

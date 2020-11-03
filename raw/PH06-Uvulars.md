@@ -16,7 +16,7 @@ fricative /χ/ is Iranian Darwazi, as exemplified in (1).
 
 | a.  | /astaʁu/ | ‘bone’ (PRSd-40listML:002) |
 |-----|----------|----------------------------|
-| b.  | /ʃaːχ/   | ‘horn’ (PRSd-40listML:015) |
+| b.  | /ʃoːχ/   | ‘horn’ (PRSd-40listML:015) |
 | c.  | /ləq/    | ‘full’ (PRSd-40listML:012) |
 
 Uvular consonants are present in a little more than half of the sample
@@ -30,4 +30,4 @@ uvulars in the north as compared to the south.
 | Absent        | 25                            | 42  |
 | Indeterminate | 1                             | 1   |
 
-.
+

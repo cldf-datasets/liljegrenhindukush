@@ -19,7 +19,7 @@ Pakistan, as shown in (1).
 
 Differentiating grandchildren by one’s children’s sex is a minority
 pattern, but it is found in various parts of the region and in several
-of the phyla represented.
+of the phyla represented in the sample.
 
 | Feature value | \# of varieties displaying it | %   |
 |---------------|-------------------------------|-----|

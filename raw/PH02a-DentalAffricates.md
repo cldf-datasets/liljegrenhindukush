@@ -9,23 +9,21 @@ as shown in (1).
 
 \(1) Wakhi, Pakistan \[wbl(p)\] (Iranian)
 
-a\. /dzaq/ ‘small’ (WBLp-KinEK:010)
+| a.  | /dzaq/   | ‘small’ (WBLp-KinEK:010)     |
+|-----|----------|------------------------------|
+| b.  | /dʑɨmat/ | ‘wife’ (WBLp-KinSA:038)      |
+| c.  | /zik/    | ‘tongue’ (WBLp-40listEK:034) |
+| d.  | /ðas/    | ‘ten’ (WBLp-NumEK:010)       |
 
-b\. /dʑɨmat/ ‘wife’ (WBLp-KinSA:038)
-
-c\. /zik/ ‘tongue’ (WBLp-40listEK:034)
-
-d\. /ðas/ ‘ten’ (WBLp-NumEK:010)
-
-The presence of dental affricates is a strongly areal features, present
-in as many as 47 or the sample languages. The feature is present in
+The presence of dental affricates is a strongly areal features, absent
+only in about a fifth of the sample languages. The feature is present in
 languages across five of the phylogenetic groupings, while absent in
 both of the Turkic sample languages.
 
 | Feature value | \# of varieties displaying it | %   |
 |---------------|-------------------------------|-----|
-| Present       | 47                            | 79  |
+| Present       | 48                            | 81  |
 | Absent        | 11                            | 19  |
-| Indeterminate | 1                             | 2   |
+| Indeterminate | 0                             | 0   |
 
 

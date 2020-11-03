@@ -12,14 +12,16 @@ the preposition *baj* ‘to’.
 (1) <span id="_Ref12281344" class="anchor"></span>Darwazi
     \[prs(d)\] (Iranian)
 
-| a.  | bat͡ʃa                                                              | miːwa=**ra**                                                    | bəχəwr.                                               |                                                            |
-|-----|--------------------------------------------------------------------|-----------------------------------------------------------------|-------------------------------------------------------|------------------------------------------------------------|
-|     | \[boy\]                                                            | \[fruit=<span style="font-variant:small-caps;">do\]</span>      | eat.<span style="font-variant:small-caps;">pst</span> |                                                            |
-|     | A                                                                  | P                                                               |                                                       |                                                            |
-|     | ‘The boy ate the fruit.’ (PRSd-ValQuestML:001)                     |
-| b.  | dəχtar-ɑː                                                          | aks-ɑː=**ra**                                                   | **baj **                                              | maːlim-a                                                   |
-|     | \[girl-<span style="font-variant:small-caps;">pl\]</span>          | \[picture-<span style="font-variant:small-caps;">pl=do\]</span> | \[to                                                  | teacher-<span style="font-variant:small-caps;">pl\]</span> |
-|     | A                                                                  | T                                                               | R                                                     |                                                            |
+| a.  | batʃa                                          | miːwa=**ra**                                               | bəχəwr.                                               |     |
+|-----|------------------------------------------------|------------------------------------------------------------|-------------------------------------------------------|-----|
+|     | \[boy\]                                        | \[fruit=<span style="font-variant:small-caps;">do\]</span> | eat.<span style="font-variant:small-caps;">pst</span> |     |
+|     | A                                              | P                                                          |                                                       |     |
+|     | ‘The boy ate the fruit.’ (PRSd-ValQuestML:001) |
+
+| b.  | dəχtar-ɑː                                                          | aks-ɑː=**ra**                                                   | **baj ** | maːlim-a                                                   | nəʃuː | dɑː-n.                                                     |
+|-----|--------------------------------------------------------------------|-----------------------------------------------------------------|----------|------------------------------------------------------------|-------|------------------------------------------------------------|
+|     | \[girl-<span style="font-variant:small-caps;">pl\]</span>          | \[picture-<span style="font-variant:small-caps;">pl=do\]</span> | \[to     | teacher-<span style="font-variant:small-caps;">pl\]</span> | sign  | give.<span style="font-variant:small-caps;">pst-3pl</span> |
+|     | A                                                                  | T                                                               | R        |                                                            |       |                                                            |
 |     | ‘The girls showed pictures to the teachers.’ (PRSd-ValQuestML:035) |
 
 This feature was evidenced (as the only possible construction or as a

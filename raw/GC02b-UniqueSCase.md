@@ -14,20 +14,24 @@ object is marked with a dative case clitic *=koː*.
 (1) <span id="_Ref12343426" class="anchor"></span>Hindko
     \[hno\] (Indo-Aryan)
 
-| a.  | sap                                                                                                     | mər                                                     | ɡijaː.                                                   |
-|-----|---------------------------------------------------------------------------------------------------------|---------------------------------------------------------|----------------------------------------------------------|
-|     | snake                                                                                                   | die.<span style="font-variant:small-caps;">cv</span>    | go.<span style="font-variant:small-caps;">pfv.msg</span> |
-|     | ‘The snake died.’ (HNO-ValQuestRH:061)                                                                  |
-| b.  | dʒandak                                                                                                 | ɖuːɡiː=bətʃ                                             | saːməɳĩː                                                 |
-|     | boy                                                                                                     | field=<span style="font-variant:small-caps;">loc</span> | appearing                                                |
-|     | ‘The boy appeared on the field.’ (HNO-ValQuestRH:081)                                                   |
-| c.  | dʒandk-aː=suɳ                                                                                           | suːʈiː=naːl                                             | sap=koː                                                  |
-|     | boy-<span style="font-variant:small-caps;">obl</span>=<span style="font-variant:small-caps;">erg</span> | stick=<span style="font-variant:small-caps;">ins</span> | snake=<span style="font-variant:small-caps;">dat</span>  |
+| a.  | sap                                    | mər                                                  | ɡijaː.                                                   |
+|-----|----------------------------------------|------------------------------------------------------|----------------------------------------------------------|
+|     | snake                                  | die.<span style="font-variant:small-caps;">cv</span> | go.<span style="font-variant:small-caps;">pfv.msg</span> |
+|     | ‘The snake died.’ (HNO-ValQuestRH:061) |
+
+| b.  | dʑandak                                               | ɖuːɡiː=bətɕ                                             | saːməɳĩː  | aː-jaː.                                                    |
+|-----|-------------------------------------------------------|---------------------------------------------------------|-----------|------------------------------------------------------------|
+|     | boy                                                   | field=<span style="font-variant:small-caps;">loc</span> | appearing | come.<span style="font-variant:small-caps;">pfv-msg</span> |
+|     | ‘The boy appeared on the field.’ (HNO-ValQuestRH:081) |
+
+| c.  | dʑandk-aː=suɳ                                                                                           | suːʈiː=naːl                                             | sap=koː                                                 | ʈoː-jaː                                                    |     |
+|-----|---------------------------------------------------------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|------------------------------------------------------------|-----|
+|     | boy-<span style="font-variant:small-caps;">obl</span>=<span style="font-variant:small-caps;">erg</span> | stick=<span style="font-variant:small-caps;">ins</span> | snake=<span style="font-variant:small-caps;">dat</span> | beat.<span style="font-variant:small-caps;">pfv-msg</span> |     |
 |     | ‘The boy beat the snake with a stick.’ (HNO-ValQuestRH:027)                                             |
 
-Unique case-marking of the S argument is present in only 13 of the
-sample languages. In the other languages its case marking is the same as
-that for one or more of the other arguments, A, P or R.
+Unique case-marking of the S argument is present in less than a quarter
+of the sample languages. In the other languages its case marking is the
+same as that for one or more of the other arguments, A, P or R.
 
 | Feature value | \# of varieties displaying it | %   |
 |---------------|-------------------------------|-----|

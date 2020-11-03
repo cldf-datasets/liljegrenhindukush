@@ -12,18 +12,22 @@ class="anchor"></span>
 (1) <span id="_Ref531867975" class="anchor"></span>Gurezi Shina
     \[scl(i)\] (Indo-Aryan)
 
-| a.  | beːs                                                       | t͡ʃuːɳoː-ɽ                                                  | kitaːb-eː                                             | di-**eːs**.                                                 |
+| a.  | beːs                                                       | tɕuːɳoː-ɽ                                                  | kitaːb-eː                                             | di-**eːs**.                                                 |
 |-----|------------------------------------------------------------|------------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------------|
 |     | <span style="font-variant:small-caps;">1mpl.erg</span>     | child-<span style="font-variant:small-caps;">pl.dat</span> | book-<span style="font-variant:small-caps;">pl</span> | give<span style="font-variant:small-caps;">-pfv.1mpl</span> |
 |     | **A**                                                      |                                                            | P                                                     |                                                             |
 |     | ‘We gave the books to the children.’ (SCLi-ValQuestSA:036) |
-| b.  | miː                                                        | baːl-õw                                                    | madid                                                 | tʰ-**aːs**.                                                 |
-|     | <span style="font-variant:small-caps;">1sg.erg.pfv</span>  | boy-<span style="font-variant:small-caps;">pl.gen</span>   | help                                                  | do-<span style="font-variant:small-caps;">pfv.1msg</span>   |
-|     | **A**                                                      |                                                            | P                                                     |                                                             |
-|     | ‘I helped the boys.’ (SCLi-ValQuestSA:015)                 |
-| c.  | muːlaj-õw                                                  | t͡ʃuːɳ-oːɽ                                                  | roːp                                                  | tʰ-**iː**.                                                  |
-|     | woman-<span style="font-variant:small-caps;">pl.erg</span> | child-<span style="font-variant:small-caps;">pl.dat</span> | shouting                                              | do-<span style="font-variant:small-caps;">pfv.3fsg</span>   |
-|     | **A**                                                      |                                                            | P                                                     |                                                             |
+
+| b.  | miː                                                       | baːl-õw                                                  | madid | tʰ-**aːs**.                                               |     |
+|-----|-----------------------------------------------------------|----------------------------------------------------------|-------|-----------------------------------------------------------|-----|
+|     | <span style="font-variant:small-caps;">1sg.erg.pfv</span> | boy-<span style="font-variant:small-caps;">pl.gen</span> | help  | do-<span style="font-variant:small-caps;">pfv.1msg</span> |     |
+|     | **A**                                                     |                                                          | P     |                                                           |     |
+|     | ‘I helped the boys.’ (SCLi-ValQuestSA:015)                |
+
+| c.  | muːlaj-õw                                                  | tɕuːɳ-oːɽ                                                  | roːp     | tʰ-**iː**.                                                |     |
+|-----|------------------------------------------------------------|------------------------------------------------------------|----------|-----------------------------------------------------------|-----|
+|     | woman-<span style="font-variant:small-caps;">pl.erg</span> | child-<span style="font-variant:small-caps;">pl.dat</span> | shouting | do-<span style="font-variant:small-caps;">pfv.3fsg</span> |     |
+|     | **A**                                                      |                                                            | P        |                                                           |     |
 |     | ‘The woman shouted at the children.’ (SCLi-ValQuestSA:020) |
 
 This feature, evidenced in nearly half of the sample, is particularly

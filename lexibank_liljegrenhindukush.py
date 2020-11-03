@@ -111,20 +111,6 @@ class Dataset(pylexibank.Dataset):
                 'mimetype',
                 {'name': 'size', 'datatype': 'integer'},
             )
-            audio = collections.defaultdict(list)
-            for objid, spec in self.raw_dir.read_json('cdstar.json').items():
-                lang, fname = spec['metadata']['path'].split('/')
-                for bs in spec['bitstreams']:
-                    writer.objects['media.csv'].append(dict(
-                        ID=bs['checksum'],
-                        objid=objid,
-                        fname=bs['bitstreamid'],
-                        mimetype=bs['content-type'],
-                        size=bs['filesize'],
-                    ))
-                    audio[lang, fname.split('.')[0]].append(bs['checksum'])
-
-            writer.add_sources(BIB)
             for lang in self.raw_dir.read_csv(self._data_dir / 'DataSampleHK.csv', dicts=True):
                 gc = lerrata.get(lang['Language'], lang['Glottocode'].split('>')[1].split('<')[0])
                 glang = gl_by_id[gc]
@@ -147,6 +133,31 @@ class Dataset(pylexibank.Dataset):
                     Elicitation=lang['Elicitation'],
                     Consultant=lang['Consultant code'],
                 ))
+            lids = set(l['ID'] for l in writer.objects['LanguageTable'])
+            audio = collections.defaultdict(lambda: collections.defaultdict(list))
+            for objid, spec in self.raw_dir.read_json('cdstar.json').items():
+                lang, fname = spec['metadata']['path'].split('/')
+                if '_' not in fname:
+                    assert fname == 'comments.txt', fname
+                    continue
+                lid, fname = fname.split('_', maxsplit=1)
+                lid = {'aae-at': 'aee-at'}.get(lid, lid)
+                lid = lid.replace('-', '_')
+                assert lid in lids, spec['metadata']['path'].split('/')
+                for bs in spec['bitstreams']:
+                    writer.objects['media.csv'].append(dict(
+                        ID=bs['checksum'],
+                        objid=objid,
+                        fname=bs['bitstreamid'],
+                        mimetype=bs['content-type'],
+                        size=bs['filesize'],
+                    ))
+                    akey = fname.split('.')[0]
+                    if akey[-1] in 'abcde':
+                        akey = akey[:-1]
+                    audio[lid][akey].append(bs['checksum'])
+
+            writer.add_sources(BIB)
             cmap = writer.add_concepts(lookup_factory=lambda c: ('40list', c.english.split('(')[0].strip()))
             for row in self.etc_dir.read_csv('concepts.csv', dicts=True):
                 cid = '{}-{}'.format(row['Category'], slug(row['Gloss']))
@@ -161,14 +172,13 @@ class Dataset(pylexibank.Dataset):
                 for i, row in enumerate(self.raw_dir.read_csv(self._data_dir / '{}.csv'.format(cat), dicts=True)):
                     lid = row['ISO'].replace(' (', '_').replace(')', '')
                     if cat == '40list':
-                        lang = [l for l in writer.objects['LanguageTable'] if l['ID'] == lid][0]
                         for j, col in enumerate(list(row.keys())[5:45], start=1):
-                            audio_key = (lang['Name'], '{}_40_{}'.format(lid, str(j).rjust(2, '0')))
+                            audio_key = '40_{}'.format(str(j).rjust(2, '0'))
                             writer.add_lexemes(
                                 Language_ID=lid,
                                 Parameter_ID=cmap[(cat, col)],
                                 Value=row[col],
-                                Audio_Files=audio.get(audio_key, []),
+                                Audio_Files=audio.get(lid, {}).get(audio_key, []),
                                 Source=['hindukush'],
                             )
                     else:

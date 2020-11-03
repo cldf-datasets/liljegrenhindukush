@@ -6,8 +6,8 @@ as spoken in Afghanistan this is an option, as seen in (1),while similar
 polar questions in Gojri as spoken in Pakistan, as in (2), use
 intonation to differentiate them from corresponding statements. The
 initial polar question particle in Gojri of Afghanistan is mostly likely
-a loan from Dari that has been incorporated relatively recently into the
-language.
+a loan from Iranian Dari that has been incorporated relatively recently
+into the language.
 
 (1) <span id="_Ref531867975" class="anchor"></span>Gojri, Afghanistan
     \[gju(a)\] (Indo-Aryan)

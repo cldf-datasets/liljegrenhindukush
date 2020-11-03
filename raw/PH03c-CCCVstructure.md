@@ -13,7 +13,7 @@ words from Tibeto-Burman Balti in (1).
 | b.  | /rdwaː/   | ‘stone’ (BFT-40listHS:032) |
 
 In the region, CCCV Syllable Structures are with relative certainty
-found in only six of the sample languages. Three of those are
+found in only a handful of the sample languages, among them the
 Tibeto-Burman.
 
 | Feature value | \# of varieties displaying it | %   |

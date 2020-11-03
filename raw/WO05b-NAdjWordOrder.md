@@ -7,13 +7,13 @@ exemplified by Tibeto-Burman Ladakhi in (1).
 (1) <span id="_Ref531867975" class="anchor"></span>Ladakhi
     \[lbj\] (Tibeto-Burman)
 
-| pomo                                   | t͡ʃun                                              |     |     |
+| pomo                                   | tɕun                                              |     |     |
 |----------------------------------------|---------------------------------------------------|-----|-----|
 | girl                                   | small                                             |     |     |
 | N                                      | <span style="font-variant:small-caps;">ADJ</span> |     |     |
 | ‘the little girl’ (LBJ-ValQuestIS:057) |
 
-This is a minority feature. Only seven sample languages apply a
+This is a minority feature. Only a few sample languages apply a
 noun—adjective word order (either as the only option, or in addition to
 the reverse order).
 

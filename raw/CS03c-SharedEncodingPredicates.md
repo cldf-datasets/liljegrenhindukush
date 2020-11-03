@@ -8,12 +8,14 @@ normally is encoded in the same way, i.e. with an inflected copula verb.
 (1) <span id="_Ref12281344" class="anchor"></span>Ashkun
     \[ask\] (Nuristani)
 
-| a.  | aːjaː                                            | jak   | kitaːb | tuwə                                                  | **səj**.                                                 |
-|-----|--------------------------------------------------|-------|--------|-------------------------------------------------------|----------------------------------------------------------|
-|     | <span style="font-variant:small-caps;">q</span>  | this  | book   | <span style="font-variant:small-caps;">2sg.gen</span> | be.<span style="font-variant:small-caps;">prs.3sg</span> |
-|     | ‘Is this book yours?’ (ASK-DemWS:004a)           |
-| b.  | paːj                                             | amə   | mələ   | məjstaːk                                              | **səj**.                                                 |
-|     | that                                             | house | very   | good                                                  | be.<span style="font-variant:small-caps;">prs.3sg</span> |
+| a.  | aːjaː                                           | jak  | kitaːb | tuwə                                                  | **səj**.                                                 |
+|-----|-------------------------------------------------|------|--------|-------------------------------------------------------|----------------------------------------------------------|
+|     | <span style="font-variant:small-caps;">q</span> | this | book   | <span style="font-variant:small-caps;">2sg.gen</span> | be.<span style="font-variant:small-caps;">prs.3sg</span> |
+|     | ‘Is this book yours?’ (ASK-DemWS:004a)          |
+
+| b.  | paːj                                             | amə   | mələ | məjstaːk | **səj**.                                                 |
+|-----|--------------------------------------------------|-------|------|----------|----------------------------------------------------------|
+|     | that                                             | house | very | good     | be.<span style="font-variant:small-caps;">prs.3sg</span> |
 |     | ‘That house is very beautiful.’ (ASK-DemWS:006a) |
 
 Tibeto-Burman Purik, on the other hand, is an example of the negative
@@ -25,16 +27,18 @@ used.
 (1) <span id="_Ref51160116" class="anchor"></span>Purik
     \[prx\] (Tibeto-Burman)
 
-| a.  | di                                               | mju                                                     | ɬiŋspa    | **in**.                                          |
-|-----|--------------------------------------------------|---------------------------------------------------------|-----------|--------------------------------------------------|
-|     | this                                             | man                                                     | hunter    | <span style="font-variant:small-caps;">eq</span> |
-|     | ‘This man is a hunter.’ (PRX-ValQuestMM:070)     |
+| a.  | di                                           | mju | ɬiŋspa | **in**.                                          |
+|-----|----------------------------------------------|-----|--------|--------------------------------------------------|
+|     | this                                         | man | hunter | <span style="font-variant:small-caps;">eq</span> |
+|     | ‘This man is a hunter.’ (PRX-ValQuestMM:070) |
+
 | b.  | a                                                | naŋ-po                                                  | rdemwik   | **duk**.                                         |
+|-----|--------------------------------------------------|---------------------------------------------------------|-----------|--------------------------------------------------|
 |     | that                                             | house-<span style="font-variant:small-caps;">def</span> | beautiful | <span style="font-variant:small-caps;">ex</span> |
 |     | ‘That house is very beautiful.’ (PRX-DemMH:006a) |
 
 This feature is present in the majority of the sample. It is absent in
-all three of the sample’s Tibeto-Burman languages.
+the sample’s Tibeto-Burman languages.
 
 | Feature value | \# of varieties displaying it | %   |
 |---------------|-------------------------------|-----|

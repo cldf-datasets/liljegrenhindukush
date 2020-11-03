@@ -13,23 +13,23 @@ inventories coming out with a negative value, in fact would be
 classified as large if taking more lexical data into account. An
 inventory, using the above-mentioned method, representative of the value
 large is that of Iranian Wakhi (Pakistan), as displayed in the table,
-with its 30 consonants. (The apparent gaps, e.g. missing voiceless
+with its 31 consonants. (The apparent gaps, e.g. missing voiceless
 counterparts of voiced consonants, suggest that a few additional
 consonants occur in the language, as also confirmed in earlier analysis,
 in which as many as 35-36 consonant phonemes have been posited.)
 
-|              | **Labial** | **Dental** | **Retroflex** | **Palatal** | **Velar** | **Post-velar** |
-|--------------|------------|------------|---------------|-------------|-----------|----------------|
-| Plosive      | p, b       | t, d       | ɖ             |             | k, ɡ      | q              |
-| Affricate    |            |            | ʈʂ            | tɕ, dʑ      |           |                |
-| Fricative    | f          | s, z, ð    | ʂ, ʐ          | ɕ           | x, ɣ      | χ, ʁ, h        |
-| Nasal        | m          | n          |               |             | ŋ         |                |
-| Lateral/flap |            | l, r       |               |             |           |                |
-| Approximant  | w          |            |               | j           |           |                |
+| **Wakhi, Pakistan \[wbl(p)\] (Iranian)** | **Labial** | **Dental** | **Retroflex** | **Palatal** | **Velar** | **Post-velar** |
+|------------------------------------------|------------|------------|---------------|-------------|-----------|----------------|
+| Plosive                                  | p, b       | t, d       | ɖ             |             | k, ɡ      | q              |
+| Affricate                                |            |            | ʈʂ            | tɕ, dʑ      |           |                |
+| Fricative                                | f          | s, z, ð    | ʂ, ʐ          | ɕ           | x, ɣ      | χ, ʁ, h        |
+| Nasal                                    | m          | n          |               |             | ŋ         |                |
+| Lateral/flap                             |            | l, r       |               |             |           |                |
+| Approximant                              | w          | ɬ          |               | j           |           |                |
 
-19 languages were recorded as using 26 or more consonants in the 40-item
-list. There is a tendency for those languages to belong in the eastern
-half of the region.
+Approximately a third of the sample languages were recorded as using 26
+or more consonants in the 40-item list. There is a tendency for those
+languages to be spoken in the eastern half of the region.
 
 | Feature value | \# of varieties displaying it | %   |
 |---------------|-------------------------------|-----|

@@ -9,7 +9,7 @@ Iranian Rushani in ‎(2).
 (1) <span id="_Ref531867975" class="anchor"></span>Kalasha
     \[kls\] (Indo-Aryan)
 
-| ʃ-iːa                                                          | mot͡ʃ | iʃkaːri. |     |     |
+| ɕ-iːa                                                          | motɕ | iɕkaːri. |     |     |
 |----------------------------------------------------------------|------|----------|-----|-----|
 | <span style="font-variant:small-caps;">emph-prox.nom.sg</span> | man  | hunter   |     |     |
 | ‘This man is a hunter.’ (KLS-ValQuestLR:070)                   |
@@ -17,7 +17,7 @@ Iranian Rushani in ‎(2).
 (1) <span id="_Ref12434196" class="anchor"></span>Rushani
     \[sgh(r)\] (Iranian)
 
-| jim                                                    | t͡ʃuruk | ɣiːwgar. |     |     |
+| jim                                                    | tʃuruk | ɣiːwgar. |     |     |
 |--------------------------------------------------------|--------|----------|-----|-----|
 | <span style="font-variant:small-caps;">def.prox</span> | man    | hunter   |     |     |
 | ‘This man is a hunter.’ (SGHr-ValQuestZB:070)          |

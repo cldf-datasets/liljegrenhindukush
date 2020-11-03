@@ -15,10 +15,9 @@ a retroflex voiced plosive (1d).
 | c.  | /awndaj/ | ‘grandfather’ (ASK-KinWS:013) |
 | d.  | /muɖuk / | ‘frog’ (ASK-ValQuestWS:034)   |
 
-The presence of retroflex plosives is a strongly areal feature, present
-in as many as 50 of the sample languages. They are absent in the
-inventories of the Turkic languages, some of the Iranian languages and
-in Tibeto-Burman Ladakhi.
+The presence of retroflex plosives is a strongly areal feature, absent
+only in the inventories of the Turkic languages, some of the Iranian
+languages and possibly in one of the Tibeto-Burman languages.
 
 | Feature value | \# of varieties displaying it | %   |
 |---------------|-------------------------------|-----|

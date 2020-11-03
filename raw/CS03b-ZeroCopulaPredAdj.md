@@ -9,16 +9,16 @@ Uzbek in ‎(2).
 (1) <span id="_Ref531867975" class="anchor"></span>Ishkashimi
     \[isk\] (Iranian)
 
-| aw                                               | χɑːn  | faj  | friː |     |
-|--------------------------------------------------|-------|------|------|-----|
-| that                                             | house | very | good |     |
+| aw                                               | χɑːn  | faj  | friː. |     |
+|--------------------------------------------------|-------|------|-------|-----|
+| that                                             | house | very | good  |     |
 | ‘That house is very beautiful.’ (ISK-DemSO:006a) |
 
 (1) <span id="_Ref12434196" class="anchor"></span>Uzbek \[uzs\] (Turkic)
 
-| uː                                               | uːj   | koːp | jaχsiː |     |
-|--------------------------------------------------|-------|------|--------|-----|
-| that                                             | house | very | good   |     |
+| uː                                               | uːj   | koːp | jaχsiː. |     |
+|--------------------------------------------------|-------|------|---------|-----|
+| that                                             | house | very | good    |     |
 | ‘That house is very beautiful.’ (UZS-DemWD:006a) |
 
 Although not a majority feature in the region in its entirety, this is

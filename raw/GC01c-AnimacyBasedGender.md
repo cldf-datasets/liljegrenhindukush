@@ -10,17 +10,18 @@ forms for inanimate and animate agreement.
 (1) <span id="_Ref531867975" class="anchor"></span>Pashai Chalas
     \[aee(ch)\] (Indo-Aryan)
 
-| a.  | **soːŋ **                                   | suːsiːk      | **ʃu.**                                                     |
-|-----|---------------------------------------------|--------------|-------------------------------------------------------------|
-|     | ground                                      | dry          | be.<span style="font-variant:small-caps;">3.inan.prs</span> |
+| a.  | **soːŋ **                                   | suːsiːk | **ɕu.**                                                     |
+|-----|---------------------------------------------|---------|-------------------------------------------------------------|
+|     | ground                                      | dry     | be.<span style="font-variant:small-caps;">3.inan.prs</span> |
 |     | ‘The ground is dry.’ (AEEch-ValQuestED:068) |
-| b.  | mono                                        | **saːwoːm ** | lam                                                         |
-|     | my                                          | sister       | small                                                       |
-|     | ‘My sister is small.’ (AEEch-GenED:002)     |
 
-Animacy-based differentiation of nouns is present in 11 of the sample
-languages, while the majority of the sample languages do not display
-this feature value.
+| b.  | mono                                    | **saːwoːm ** | lam   | **aːs**.                                                      |
+|-----|-----------------------------------------|--------------|-------|---------------------------------------------------------------|
+|     | my                                      | sister       | small | be.<span style="font-variant:small-caps;">3.an.fsg.prs</span> |
+|     | ‘My sister is small.’ (AEEch-GenED:002) |
+
+Animacy-based differentiation of nouns is present in a smaller number of
+the sample languages.
 
 | Feature value | \# of varieties displaying it | %   |
 |---------------|-------------------------------|-----|

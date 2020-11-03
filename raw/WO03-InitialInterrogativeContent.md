@@ -11,7 +11,7 @@ modifiers do.
 (1) <span id="_Ref531867975" class="anchor"></span>Alingar Pashai
     \[psi(ar)\] (Indo-Aryan)
 
-| alə                                            | **kutar ** | mət͡ʃ | aːs.                                                          |     |
+| alə                                            | **kutar ** | mətɕ | aːs.                                                          |     |
 |------------------------------------------------|------------|------|---------------------------------------------------------------|-----|
 | this                                           | what.kind  | fly  | be.<span style="font-variant:small-caps;">3.an.msg.prs</span> |     |
 | ‘What kind of bug is this?’ (PSIar-DemHA:003b) |
