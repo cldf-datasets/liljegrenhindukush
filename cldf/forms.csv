@@ -1027,47 +1027,47 @@ plk-32-1,,plk,32,woj,woj,,,hindukush,,,,,996059881fab86c8d8e631d5af31179d 5c5c62
 plk-36-1,,plk,36,be,be,,,hindukush,,,,,5df19be1d9074be556ba24ddf5a4bf5a b17923192f83345f8923fc0b552821cd
 plk-40-1,,plk,40,"tu, tsʰo",tu,,,hindukush,,,,,c5a7fb1f6de6e912391751991652b260 27a87fbb7b4ce5dee761e11332816134 6a370ffab01452ab77b697c55e7e7e3d 8c53165b2ed311a56f7f0977400017c9
 plk-40-2,,plk,40,"tu, tsʰo",tsʰo,,,hindukush,,,,,c5a7fb1f6de6e912391751991652b260 27a87fbb7b4ce5dee761e11332816134 6a370ffab01452ab77b697c55e7e7e3d 8c53165b2ed311a56f7f0977400017c9
-shd-1-1,,shd,1,raːt,raːt,,,hindukush,,,,,
-shd-5-1,,shd,5,heːɽ,heːɽ,,,hindukush,,,,,
-shd-9-1,,shd,9,siːna,siːna,,,hindukush,,,,,
-shd-13-1,,shd,13,je,je,,,hindukush,,,,,
-shd-17-1,,shd,17,mer,mer,,,hindukush,,,,,
-shd-21-1,,shd,21,kutɕur,kutɕur,,,hindukush,,,,,
-shd-25-1,,shd,25,piː,piː,,,hindukush,,,,,
-shd-29-1,,shd,29,kaːn,kaːn,,,hindukush,,,,,
-shd-33-1,,shd,33,aɕ,aɕ,,,hindukush,,,,,
-shd-37-1,,shd,37,aŋgaːr,aŋgaːr,,,hindukush,,,,,
-shd-2-1,,shd,2,meːtɕʰe,meːtɕʰe,,,hindukush,,,,,
-shd-6-1,,shd,6,puːrgəl,puːrgəl,,,hindukush,,,,,
-shd-10-1,,shd,10,haːtʰ,haːtʰ,,,hindukush,,,,,
-shd-14-1,,shd,14,ɕun,ɕun,,,hindukush,,,,,
-shd-18-1,,shd,18,ɕĩː,ɕĩː,,,hindukush,,,,,
-shd-22-1,,shd,22,mã,mã,,,hindukush,,,,,
-shd-26-1,,shd,26,kỹːɽ,kỹːɽ,,,hindukush,,,,,
-shd-30-1,,shd,30,pan,pan,,,hindukush,,,,,
-shd-34-1,,shd,34,kəlɛːdʑə,kəlɛːdʑə,,,hindukush,,,,,
-shd-38-1,,shd,38,dʑũː,dʑũː,,,hindukush,,,,,
-shd-3-1,,shd,3,bəʈoː,bəʈoː,,,hindukush,,,,,
-shd-7-1,,shd,7,nã,nã,,,hindukush,,,,,
-shd-11-1,,shd,11,nãõ,nãõ,,,hindukush,,,,,
-shd-15-1,,shd,15,ratãː,ratãː,,,hindukush,,,,,
-shd-19-1,,shd,19,natʰ,natʰ,,,hindukush,,,,,
-shd-23-1,,shd,23,jokʰ,jokʰ,,,hindukush,,,,,
-shd-27-1,,shd,27,gɔːr,gɔːr,,,hindukush,,,,,
-shd-31-1,,shd,31,mɛ̃ːtɕ,mɛ̃ːtɕ,,,hindukush,,,,,
-shd-35-1,,shd,35,raku,raku,,,hindukush,,,,,
-shd-39-1,,shd,39,"fataːu, dʑamɽoː",fataːu,,,hindukush,,,,,
-shd-39-2,,shd,39,"fataːu, dʑamɽoː",dʑamɽoː,,,hindukush,,,,,
-shd-4-1,,shd,4,taːr,taːr,,,hindukush,,,,,
-shd-8-1,,shd,8,bəʈoː,bəʈoː,,,hindukush,,,,,
-shd-12-1,,shd,12,siːr,siːr,,,hindukush,,,,,
-shd-16-1,,shd,16,dʑib,dʑib,,,hindukush,,,,,
-shd-20-1,,shd,20,daːnd,daːnd,,,hindukush,,,,,
-shd-24-1,,shd,24,muʈ,muʈ,,,hindukush,,,,,
-shd-28-1,,shd,28,duːi,duːi,,,hindukush,,,,,
-shd-32-1,,shd,32,pani,pani,,,hindukush,,,,,
-shd-36-1,,shd,36,asõː,asõː,,,hindukush,,,,,
-shd-40-1,,shd,40,to,to,,,hindukush,,,,,
+shd-1-1,,shd,1,raːt,raːt,,,hindukush,,,,,c33944be5c96f6d21c96cced20370ddf eaad0df8c0a0396c726fea4820de3680
+shd-5-1,,shd,5,heːɽ,heːɽ,,,hindukush,,,,,548803d6c98b10f4028489886a077cf4 806afce135878aabf61b4d6fb925ee71
+shd-9-1,,shd,9,siːna,siːna,,,hindukush,,,,,be29b9196f5936e09c53dc19cbb31730 9a28a964dd27cd4412b57a6ca34ec497
+shd-13-1,,shd,13,je,je,,,hindukush,,,,,a5332fa13a99a67fd4a5ae5dd7415932 240060433031f58095562c0490fd40bb
+shd-17-1,,shd,17,mer,mer,,,hindukush,,,,,ccba9685a1467c1593fe6767875c4573 c556cb0e92d2e741986f4e70893e0442
+shd-21-1,,shd,21,kutɕur,kutɕur,,,hindukush,,,,,14a14a1e3b81ad27955ca8d5cc515c6c c82f08def09755f057cc3fefc7d735f1
+shd-25-1,,shd,25,piː,piː,,,hindukush,,,,,11f0a7bcf84a453b537ade129c229dba fe95608564073f6d9cc2f9b018bbfb55
+shd-29-1,,shd,29,kaːn,kaːn,,,hindukush,,,,,4dcf14a72dd2a0512d3fc4aabff95d2f 0abfdf50e85f9ef456d753bcca0f8ea3
+shd-33-1,,shd,33,aɕ,aɕ,,,hindukush,,,,,68dea9749b939d73c20ae94926000c99 60d1f199082995e5b82e72607f70154c
+shd-37-1,,shd,37,aŋgaːr,aŋgaːr,,,hindukush,,,,,dcbcb704c777650c507c364bfc2d4bb8 c8623d3ba8cb06a8cd4bba7a6e09a241
+shd-2-1,,shd,2,meːtɕʰe,meːtɕʰe,,,hindukush,,,,,44c10bf66fca44450a77efe2666cd8f4 d8fe9c119a61eb5e880517ee93cbf29a
+shd-6-1,,shd,6,puːrgəl,puːrgəl,,,hindukush,,,,,b2a1ddf10474668703bd66e3c07ee1fa 6f63b5f10c476ce56d91c9d9d9a30a6a
+shd-10-1,,shd,10,haːtʰ,haːtʰ,,,hindukush,,,,,259894e2855e00e8a987e61e0f8def3f f73982a91cb46fe93305ba116d4ff6a8
+shd-14-1,,shd,14,ɕun,ɕun,,,hindukush,,,,,45e9067989af0187e14e0f8efeab9f47 28a3b0cedf19c26c00cb5d3a2771791d
+shd-18-1,,shd,18,ɕĩː,ɕĩː,,,hindukush,,,,,8cfa61e614d4d57265e25ef6398a584e 56ca090b12c7b5918be0f80541ff28ec
+shd-22-1,,shd,22,mã,mã,,,hindukush,,,,,2b67c2e821ac3434feaa585d051148d1 4cd09f4fd0042c7c2ce09a7fa9a27dcd
+shd-26-1,,shd,26,kỹːɽ,kỹːɽ,,,hindukush,,,,,b1e49100cc77d19ba04ebf7026178aae 2e169b37f556d6a58f59dbdc9ed573b9
+shd-30-1,,shd,30,pan,pan,,,hindukush,,,,,d655652b622ab184c8745cb37921f5ff ce08a3d5a05103691ebe0db2b996a8f2
+shd-34-1,,shd,34,kəlɛːdʑə,kəlɛːdʑə,,,hindukush,,,,,654483e0c7a77cb0a2d04f0a6d136a26 3ce65687f04b3d4830ae40a3bb60b568
+shd-38-1,,shd,38,dʑũː,dʑũː,,,hindukush,,,,,6fd830d4babbbfb83e122ebaf604746e 01277e34ec6fe141affe81fd0d4ea8f8
+shd-3-1,,shd,3,bəʈoː,bəʈoː,,,hindukush,,,,,d54f8210a3fc2409262f571cf973dcb3 9f8add068614b2595907145398a394c2
+shd-7-1,,shd,7,nã,nã,,,hindukush,,,,,4413630c1825061cee5319ad2b8276d3 6d50d0ec66cf7f602ba076dc673ee58b
+shd-11-1,,shd,11,nãõ,nãõ,,,hindukush,,,,,ce262f6a89045bdbe22e3cb0d12968de 62d00716f3b74723932cdfd4418689b5
+shd-15-1,,shd,15,ratãː,ratãː,,,hindukush,,,,,4296611bd61b86b8955ad6abc5d87363 2f2f469cb2e2091ee4369153fd94eb42
+shd-19-1,,shd,19,natʰ,natʰ,,,hindukush,,,,,04b7dc8786a738b2767e8656e9c80031 b313431f72ceccc2401b3e917e95800d
+shd-23-1,,shd,23,jokʰ,jokʰ,,,hindukush,,,,,504901e4ce1675bcfb527d591948fc8e 55cad6d21e31b641f07a5ed1b81dab64
+shd-27-1,,shd,27,gɔːr,gɔːr,,,hindukush,,,,,75df0335177b69470bb05ee0528a62d0 4d1a2d8ba51721e3a404f2e3047231eb
+shd-31-1,,shd,31,mɛ̃ːtɕ,mɛ̃ːtɕ,,,hindukush,,,,,ebecc132e9df0237e1c6acd504633a23 b6eec67c5d152e3aff49f863106ad162
+shd-35-1,,shd,35,raku,raku,,,hindukush,,,,,71ab69cd6ad67fb25b8dece953fa203e fa0b33c547f45e22326d6613455c275d
+shd-39-1,,shd,39,"fataːu, dʑamɽoː",fataːu,,,hindukush,,,,,760095e6e1f2ab719d0f7dc312729569 98f45dd2fc91b4db13462a325fc2b820 6ee8961e40d36a44f051b909b6758b0f 85a3964694a7d7bc37dd98fc8f412d2d
+shd-39-2,,shd,39,"fataːu, dʑamɽoː",dʑamɽoː,,,hindukush,,,,,760095e6e1f2ab719d0f7dc312729569 98f45dd2fc91b4db13462a325fc2b820 6ee8961e40d36a44f051b909b6758b0f 85a3964694a7d7bc37dd98fc8f412d2d
+shd-4-1,,shd,4,taːr,taːr,,,hindukush,,,,,b9f402c631627643df13a76578071155 e8c5ac8c6abe788bc46d3e50c6914bd1
+shd-8-1,,shd,8,bəʈoː,bəʈoː,,,hindukush,,,,,b445fc3e6b48d05901fb7c4aceff59da 4a206d7b5bb85b4dc950d401b6c86797
+shd-12-1,,shd,12,siːr,siːr,,,hindukush,,,,,dd4bde59c41128804237ce944de3f18f 03d96acda07e6d640d956731eaeee7b7
+shd-16-1,,shd,16,dʑib,dʑib,,,hindukush,,,,,a972aa2be3d146fe89c190b91f2c6250 07080a759d53208fd4ba9d61ad6730e2
+shd-20-1,,shd,20,daːnd,daːnd,,,hindukush,,,,,9b4029ce12cc27e504c9b935b60c5368 37b3ff6f8271b60708d5794321fa7cc8
+shd-24-1,,shd,24,muʈ,muʈ,,,hindukush,,,,,57a5a693f6d5762b93ee28860097534b fb953f7ef1889b17fe36f7c48ad17a3f
+shd-28-1,,shd,28,duːi,duːi,,,hindukush,,,,,f0a55ba3691d92f30f2d994f483c8a22 fc75c707c26859fa4ffe5edc86418caf
+shd-32-1,,shd,32,pani,pani,,,hindukush,,,,,19dec87e8c3d2ae6c945225bc3b60a6d 96db3cba7927d9c68984a873c03255c9
+shd-36-1,,shd,36,asõː,asõː,,,hindukush,,,,,da6f3dac8aa64365bfaba53b18aac8df 22d7c1bde3aab584bbc67d0cdcd8eb80
+shd-40-1,,shd,40,to,to,,,hindukush,,,,,00abc5d08cec887ccabc19d5d6a5586d 7d963c68fec4d27a850a9228b92d6083
 kir-1-1,,kir,1,qɑn,qɑn,,,hindukush,,,,,cfbe09ec946177a38f076a724321853f f450dde96f73f027256068f7e806aaff
 kir-5-1,,kir,5,søːk,søːk,,,hindukush,,,,,366f0358c48586d2520dc516fe5a3708 065671d09e2835f3cfb6a850d6d4d3e0
 kir-9-1,,kir,9,iːmtɕek,iːmtɕek,,,hindukush,,,,,bb62c0824ae95498004322dfd0b59fc7 791247393dd5997b3cc021b8158fcac4
@@ -1108,46 +1108,46 @@ kir-28-1,,kir,28,jekiː,jekiː,,,hindukush,,,,,8b7bd7d70a23b76fb4e533b3d1f070a0 
 kir-32-1,,kir,32,su,su,,,hindukush,,,,,59403b461591cdd4d13d5da45f956ddd 3ce89b0e5256e8536153cbf0704fea2d
 kir-36-1,,kir,36,ɑːj,ɑːj,,,hindukush,,,,,c7e8928b437bb2bdfc0741a999a94995 a5f3ef44c78adf33a29cfd37f75e7283
 kir-40-1,,kir,40,sen,sen,,,hindukush,,,,,6ea3fce02856d58e6d3503f71f239a6f 3ef707fc87d419a41fecd70fa604a178
-lbj-1-1,,lbj,1,ʈʰak,ʈʰak,,,hindukush,,,,,
-lbj-5-1,,lbj,5,ruspa,ruspa,,,hindukush,,,,,
-lbj-9-1,,lbj,9,ʈaŋ,ʈaŋ,,,hindukush,,,,,
-lbj-13-1,,lbj,13,joŋ,joŋ,,,hindukush,,,,,
-lbj-17-1,,lbj,17,ɕi,ɕi,,,hindukush,,,,,
-lbj-21-1,,lbj,21,kʰi,kʰi,,,hindukush,,,,,
-lbj-25-1,,lbj,25,tʰuŋ,tʰuŋ,,,hindukush,,,,,
-lbj-29-1,,lbj,29,namtɕok,namtɕok,,,hindukush,,,,,
-lbj-33-1,,lbj,33,mik,mik,,,hindukush,,,,,
-lbj-37-1,,lbj,37,me,me,,,hindukush,,,,,
-lbj-2-1,,lbj,2,ɲja,ɲja,,,hindukush,,,,,
-lbj-6-1,,lbj,6,gãte,gãte,,,hindukush,,,,,
-lbj-10-1,,lbj,10,lakpa,lakpa,,,hindukush,,,,,
-lbj-14-1,,lbj,14,ɲon,ɲon,,,hindukush,,,,,
-lbj-18-1,,lbj,18,rutɕo,rutɕo,,,hindukush,,,,,
-lbj-22-1,,lbj,22,ŋa,ŋa,,,hindukush,,,,,
-lbj-26-1,,lbj,26,pikmo,pikmo,,,hindukush,,,,,
-lbj-30-1,,lbj,30,lotma,lotma,,,hindukush,,,,,
-lbj-34-1,,lbj,34,tɕʰimpa,tɕʰimpa,,,hindukush,,,,,
-lbj-38-1,,lbj,38,ɕik,ɕik,,,hindukush,,,,,
-lbj-3-1,,lbj,3,ri,ri,,,hindukush,,,,,
-lbj-7-1,,lbj,7,miŋ,miŋ,,,hindukush,,,,,
-lbj-11-1,,lbj,11,soma,soma,,,hindukush,,,,,
-lbj-15-1,,lbj,15,tsʰan,tsʰan,,,hindukush,,,,,
-lbj-19-1,,lbj,19,nakuŋ,nakuŋ,,,hindukush,,,,,
-lbj-23-1,,lbj,23,tɕik,tɕik,,,hindukush,,,,,
-lbj-27-1,,lbj,27,lam,lam,,,hindukush,,,,,
-lbj-31-1,,lbj,31,mi,mi,,,hindukush,,,,,
-lbj-35-1,,lbj,35,ɬtos,ɬtos,,,hindukush,,,,,
-lbj-39-1,,lbj,39,pakspa,pakspa,,,hindukush,,,,,
-lbj-4-1,,lbj,4,skarma,skarma,,,hindukush,,,,,
-lbj-8-1,,lbj,8,rdoa,rdoa,,,hindukush,,,,,
-lbj-12-1,,lbj,12,ɲima,ɲima,,,hindukush,,,,,
-lbj-16-1,,lbj,16,ɬtɕʰe,ɬtɕʰe,,,hindukush,,,,,
-lbj-20-1,,lbj,20,so,so,,,hindukush,,,,,
-lbj-24-1,,lbj,24,ɬtɕʰaŋma,ɬtɕʰaŋma,,,hindukush,,,,,
-lbj-28-1,,lbj,28,ɲis,ɲis,,,hindukush,,,,,
-lbj-32-1,,lbj,32,tɕʰu,tɕʰu,,,hindukush,,,,,
-lbj-36-1,,lbj,36,ŋaʑa,ŋaʑa,,,hindukush,,,,,
-lbj-40-1,,lbj,40,kʰoraŋ,kʰoraŋ,,,hindukush,,,,,
+lbj-1-1,,lbj,1,ʈʰak,ʈʰak,,,hindukush,,,,,428c978d0e2597b3f50b5e6b6ccdcc41 7e88918f95e12fa35719b5e2d4ca3e2f
+lbj-5-1,,lbj,5,ruspa,ruspa,,,hindukush,,,,,fda292c2f6ac27da58b7e9e4422117a1 213d46c5ff0afe52c97108977dab6b09
+lbj-9-1,,lbj,9,ʈaŋ,ʈaŋ,,,hindukush,,,,,b7b776c0188a9730d70c24769fb653a2 2305b07fdf242f08e0dac9e713973588
+lbj-13-1,,lbj,13,joŋ,joŋ,,,hindukush,,,,,165469b4885994114043399ad239e150 b4160a56367ea5272334f3863912e422
+lbj-17-1,,lbj,17,ɕi,ɕi,,,hindukush,,,,,0f1f1c0492448d2d85ed4cfb760736c3 e9f919d22a5b309f93b6a09635621822
+lbj-21-1,,lbj,21,kʰi,kʰi,,,hindukush,,,,,d1262635c43a7264b9b2f4e07b3f7a36 ee5ce8e2c2da03a505286b390ffd98b1
+lbj-25-1,,lbj,25,tʰuŋ,tʰuŋ,,,hindukush,,,,,d4d32da31a8def92c582f1166bdb711f 4a27a3b2143abd4a55717950a327f3aa
+lbj-29-1,,lbj,29,namtɕok,namtɕok,,,hindukush,,,,,caead1dd1c4879d56f4143597b947682 a3e385a028b4f3a09c29c3364ab68b93
+lbj-33-1,,lbj,33,mik,mik,,,hindukush,,,,,00644b8ae180fb35a24bbfca9e019c20 d0790ebb2ee738d652a72b20174d012e
+lbj-37-1,,lbj,37,me,me,,,hindukush,,,,,083c0f4dace25b70cca762fb6eb3c7cf fdf5453aad87206de462f74a18c65294
+lbj-2-1,,lbj,2,ɲja,ɲja,,,hindukush,,,,,6422b8dd0117fee29630b57ff63fb26d 4b1eab9e5a8e21ab9243e00daed4d136
+lbj-6-1,,lbj,6,gãte,gãte,,,hindukush,,,,,1218b126f0cc8a1dd3da5d1f534226dc 5397c6efc5f91fc53e19281dc90cf24e
+lbj-10-1,,lbj,10,lakpa,lakpa,,,hindukush,,,,,a9c52a1a96ad83e4199d32d03a71db94 80ce0cb9ca70e21b757618b77ae3dc68
+lbj-14-1,,lbj,14,ɲon,ɲon,,,hindukush,,,,,b9d46352792baf5636677fda79c0dde9 44e637adfa62c74b6bc27355acbbe2ab
+lbj-18-1,,lbj,18,rutɕo,rutɕo,,,hindukush,,,,,4f17419cd2f1cb012af1c837c0777af1 5352a2ec314ff8355a9dc37a0a915966
+lbj-22-1,,lbj,22,ŋa,ŋa,,,hindukush,,,,,ba176a958f57c9941670f8e708beb822 8edf7d7050da0843a657771ca6f5cf52
+lbj-26-1,,lbj,26,pikmo,pikmo,,,hindukush,,,,,a3ba33d5c968cb7078f17d8ff1228d0a 97560c9428079c0ccfda4e65f9965cde
+lbj-30-1,,lbj,30,lotma,lotma,,,hindukush,,,,,46b7380d3805c75a13f3113ef85b80c8 bffe7abf0347b210974e48552eea9088
+lbj-34-1,,lbj,34,tɕʰimpa,tɕʰimpa,,,hindukush,,,,,e16e74eb5cc177dcbf517973de63127d f4d91386f4b2855b11152e3a9e6b1ed9
+lbj-38-1,,lbj,38,ɕik,ɕik,,,hindukush,,,,,929a9d2ca10eb0e9364bb1cee673ee84 4212ba2e27770c2da969681b5192c3ee
+lbj-3-1,,lbj,3,ri,ri,,,hindukush,,,,,5416a7e645b405ffcac6c615a342f032 c449ed1a6d47a52d14a14f5889204e59
+lbj-7-1,,lbj,7,miŋ,miŋ,,,hindukush,,,,,0cc9a1562601c535558601c64574d255 5998b93b7052eb6512c915a810e1ad54
+lbj-11-1,,lbj,11,soma,soma,,,hindukush,,,,,033fb2415a4104abcc204e8eb157e1e3 5053f59a5b911780e7b71bc7fe4086ef
+lbj-15-1,,lbj,15,tsʰan,tsʰan,,,hindukush,,,,,328f01a9e0d0c5389ab146e1e6a113bc bc7fe68c48da65a8b97fe2275442e3b9
+lbj-19-1,,lbj,19,nakuŋ,nakuŋ,,,hindukush,,,,,b7da7bab7c253ad3d748c5069f107e7a 9f0cec03b58c4c6afe50025a75d1f461
+lbj-23-1,,lbj,23,tɕik,tɕik,,,hindukush,,,,,6a19ebb57b676a5e00baa4fc68dea9ad 22c1d594346f277102097830ee25540e
+lbj-27-1,,lbj,27,lam,lam,,,hindukush,,,,,d0f3f97709de2427918c7f21bf7bd544 47ff5e5c204e3818f1599886797fed5b
+lbj-31-1,,lbj,31,mi,mi,,,hindukush,,,,,dcd03e141f381c83fc037a935802983e a31bcef022f1c4c0d90a8736e5b4d9e1
+lbj-35-1,,lbj,35,ɬtos,ɬtos,,,hindukush,,,,,cf4c323a58c253cdd343c16ffcd1b623 c06a65a8bf8e078ec6caae4868bfb1d3
+lbj-39-1,,lbj,39,pakspa,pakspa,,,hindukush,,,,,aff734abcc760f25e3dcc909865933b4 3671279b6b136b4f5feb4561337bc595
+lbj-4-1,,lbj,4,skarma,skarma,,,hindukush,,,,,91e6e00b556aff5b5973e386d940a494 a430219deb5723b6289ca3f241a77807
+lbj-8-1,,lbj,8,rdoa,rdoa,,,hindukush,,,,,201d986b609e743f9f30cd53b1c5fd2d e90d3271f4efdbfee9b02c818af055e6
+lbj-12-1,,lbj,12,ɲima,ɲima,,,hindukush,,,,,345ce634f5970e889467845c29e9db6a a73c7c9629dbbaf41cff7be4d3bf0ab7
+lbj-16-1,,lbj,16,ɬtɕʰe,ɬtɕʰe,,,hindukush,,,,,b06fea6bbf510f64cd9409fea074166c 7ccc9324f4895829da79c94e010bedd4
+lbj-20-1,,lbj,20,so,so,,,hindukush,,,,,4c5c24db127b97cf07dbe1a9ff53b9cf d5a4135623b0c2a7a2fb49b06e1c93eb
+lbj-24-1,,lbj,24,ɬtɕʰaŋma,ɬtɕʰaŋma,,,hindukush,,,,,f2595999976e12b0a0011fcea95166a0 702007309ee110725541c79c0a74b2fd
+lbj-28-1,,lbj,28,ɲis,ɲis,,,hindukush,,,,,757a7cdea1b5483fe20be51d6a7a79f5 e64022e2986404bda5f17a20e5b3dca8
+lbj-32-1,,lbj,32,tɕʰu,tɕʰu,,,hindukush,,,,,99e29d3795ff9f44a70dcc37baa432d6 a89e30ef770fb8deec81d96b38c2dac0
+lbj-36-1,,lbj,36,ŋaʑa,ŋaʑa,,,hindukush,,,,,3b1020c306925dd2d215afc22406300e a2d8e06f6cf2a237acb39f09561c3451
+lbj-40-1,,lbj,40,kʰoraŋ,kʰoraŋ,,,hindukush,,,,,3f1921b838467897ab8cf59fd7dbcff9 db9cc079a32d20de7cbdf78ad0b53357
 mnj-1-1,,mnj,1,iːn͏ɛ,iːn͏ɛ,,,hindukush,,,,,2cd35f49276d51f0d8e8aa3bc29bb7a2 18018ba2f962cdc54bf4cbafb27550e0
 mnj-5-1,,mnj,5,jastiː,jastiː,,,hindukush,,,,,7e23ec0f10043cb5fad8d579d69c99b6 43cc97c86c672cd6cd510cbaad76e1cf
 mnj-9-1,,mnj,9,"piːstɛːn, ʃciːn",piːstɛːn,,,hindukush,,,,,1b677f9d4b4c9a9d43eb29d2a714356a 4e4e80bdce17d5f142ff66e3979fe978 d5d1fb92eb47d8ad0b8a8a8728db6ffe 93f383bf2e1845b5c7a8e5c624b72259

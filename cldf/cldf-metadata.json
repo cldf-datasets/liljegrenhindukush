@@ -16,7 +16,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/liljegrenhindukush",
-            "dc:created": "e031765"
+            "dc:created": "9beb8d6"
         },
         {
             "rdf:type": "prov:Entity",
@@ -291,7 +291,7 @@
             "url": "parameters.csv"
         },
         {
-            "dc:extent": 4700,
+            "dc:extent": 4862,
             "tableSchema": {
                 "columns": [
                     {
