@@ -21,13 +21,13 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/liljegrenhindukush",
-            "dc:created": "9beb8d6"
+            "dc:created": "8605eb1"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.3-3-g5fd5ffb"
+            "dc:created": "v4.3-treedb-fixes-128-g927596c"
         },
         {
             "rdf:type": "prov:Entity",
@@ -39,7 +39,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts",
-            "dc:created": "v1.4-1-g7bb16a7"
+            "dc:created": "v1.4"
         }
     ],
     "prov:wasGeneratedBy": [

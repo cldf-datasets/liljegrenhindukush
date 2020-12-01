@@ -1,5 +1,5 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,SubGroup,Location,Elicitation,Consultant
-ask,Ashkun,ashu1242,Ashuruveri,ask,Eurasia,35.03056,70.50105,Indo-European,Nuristani,"Titin, Nurgram, Nuristan, Afghanistan","Kabul, Apr 2017",WS
+ask,Ashkun,ashu1242,Ashkunu,ask,Eurasia,35.03056,70.50105,Indo-European,Nuristani,"Titin, Nurgram, Nuristan, Afghanistan","Kabul, Apr 2017",WS
 bft,Balti,balt1258,Balti,bft,Eurasia,35.23616,76.18363,Sino-Tibetan,,"Khaplu, Ghanche, Baltistan, Gilgit-Baltistan, Pakistan","Islamabad, Aug 2016",HS
 btv,Bateri,bate1261,Bateri,btv,Eurasia,34.95820,72.92674,Indo-European,Indo-Aryan,"Palas, Lower Kohistan, Hazara, Khyber Pakhtunkhwa, Pakistan","Islamabad, Oct 2015",MB
 bkk,Brokskat,brok1247,Brokskat,bkk,Eurasia,34.63458,76.43277,Indo-European,Indo-Aryan,"Batalik, Kargil, Ladakh, Jammu & Kashmir, India","Kargil, May 2018","TL, DA"
@@ -15,13 +15,13 @@ gju_p,Gojri (Pak),east2311,Eastern Gujari,gju,Eurasia,34.73142,73.99123,Indo-Eur
 hno,Hindko,nort2662,Northern Hindko,hno,Eurasia,34.23857,73.19852,Indo-European,Indo-Aryan,"Mansehra, Hazara, Khyber Pakhtunkhwa, Pakistan","Islamabad, Aug 2016","RH, MN"
 mvy,Indus Kohistani,indu1242,Indus,mvy,Eurasia,35.29917,73.18961,Indo-European,Indo-Aryan,"Seo, Dassu, Upper Kohistan, Hazara, Khyber Pakhtunkhwa, Pakistan","Islamabad, Oct 2015",HU
 isk,Ishkashimi,ishk1244,Nuclear Ishkashimi,isk,Eurasia,36.73882,71.55875,Indo-European,Iranian,"Ishkashim, Badakhshan, Afghanistan","Faizabad, Apr 2017","SO, MA"
-kls,Kalasha,nort2663,Northern Kalasha,kls,Eurasia,35.70835,71.70143,Indo-European,Indo-Aryan,"Bumburet, Chitral, Malakand, Khyber Pakhtunkhwa, Pakistan","Islamabad, Aug 2016",LR
+kls,Kalasha,nort2663,Northern Chitral Kalasha,kls,Eurasia,35.70835,71.70143,Indo-European,Indo-Aryan,"Bumburet, Chitral, Malakand, Khyber Pakhtunkhwa, Pakistan","Islamabad, Aug 2016",LR
 xka,Kalkoti,kalk1245,Kalkoti,xka,Eurasia,35.40617,72.17480,Indo-European,Indo-Aryan,"Kalkot, Sheringal, Upper Dir, Malakand, Khyber Pakhtunkhwa, Pakistan","Islamabad, Oct 2015",JK
 xvi,Kamviri,nucl1277,Kamdeshi,xvi,Eurasia,35.40986,71.33679,Indo-European,Nuristani,"Kamdesh, Nuristan, Afghanistan","Kabul, Apr 2017",AB
 kas_i,Kashmiri (Ind),stan1304,Standard Kashmiri,kas,Eurasia,33.96100,74.87453,Indo-European,Indo-Aryan,"Srinagar, Kashmir, Jammu & Kashmir, India ","Srinagar, Apr/May 2018","AN, HK, ND, BL"
 kas_p,Kashmiri (Pak),kash1277,Kashmiri,kas,Eurasia,34.79469,74.17695,Indo-European,Indo-Aryan,"Sharda, Neelum, Azad Jammu & Kashmir, Pakistan","Islamabad, Oct 2015",KR
-bsh_e,Kati (Eastern),east2308,Eastern Kativiri,bsh,Eurasia,35.64028,71.33226,Indo-European,Nuristani,"Bargi Matal, Nuristan, Afghanistan","Kabul, Apr 2017",ZA
-bsh_w,Kati (Western),west2372,Western Kativiri,bsh,Eurasia,35.22691,70.34477,Indo-European,Nuristani,"Du Ab, Nuristan, Afghanistan","Kabul, Apr 2017",AU
+bsh_e,Kati (Eastern),east2308,Eastern Kataviri,bsh,Eurasia,35.64028,71.33226,Indo-European,Nuristani,"Bargi Matal, Nuristan, Afghanistan","Kabul, Apr 2017",ZA
+bsh_w,Kati (Western),west2372,Western Kataviri,bsh,Eurasia,35.22691,70.34477,Indo-European,Nuristani,"Du Ab, Nuristan, Afghanistan","Kabul, Apr 2017",AU
 khw,Khowar,nort2664,North Khowar,khw,Eurasia,36.27825,72.51906,Indo-European,Indo-Aryan,"Mastuj, Chitral, Malakand, Khyber Pakhtunkhwa, Pakistan","Islamabad, Oct 2015",AA
 plk,Kohistani Shina,pala1333,Palasi,plk,Eurasia,35.05837,73.18946,Indo-European,Indo-Aryan,"Palas, Lower Kohistan, Hazara, Khyber Pakhtunkhwa, Pakistan","Islamabad, Aug 2016",RK
 shd,Kundal Shahi,kund1257,Kundal Shahi,shd,Eurasia,34.55627,73.82363,Indo-European,Indo-Aryan,"Kundal Shahi, Athmuqam, Neelum, Azad Jammu & Kashmir, Pakistan","Islamabad, Aug 2016",GQ

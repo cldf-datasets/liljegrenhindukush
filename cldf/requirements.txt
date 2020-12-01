@@ -5,7 +5,9 @@ certifi==2020.6.20
 chardet==3.0.4
 cldfbench==1.2.3
 cldfcatalog==1.3.0
+-e git+https://github.com/cldf/cldfofflinebrowser.git@cac7ed2dbeba3d763122f1eb1761d8fc880e7d05#egg=cldfofflinebrowser
 clldutils==3.5.4
+colorama==0.4.4
 colorlog==4.4.0
 csvw==1.8.0
 decorator==4.4.2
@@ -15,9 +17,11 @@ idna==2.10
 iniconfig==1.1.1
 isodate==0.6.0
 jdcal==1.4.1
--e git+https://github.com/cldf-datasets/liljegrenhindukush.git@9beb8d6c7febf98b0093e64c9f12e75b2e6b0a4b#egg=lexibank_liljegrenhindukush
+Jinja2==2.11.2
+-e git+https://github.com/cldf-datasets/liljegrenhindukush.git@8605eb13e58db047f7898da7405ca2b930d351fa#egg=lexibank_liljegrenhindukush
 lingpy==2.6.6
 Markdown==3.3.1
+MarkupSafe==1.1.1
 networkx==2.2
 newick==1.0.0
 numpy==1.19.2

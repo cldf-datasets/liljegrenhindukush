@@ -29,7 +29,7 @@ def title_and_desc(p):
         assert p.stem == 'README'
         return None, None
     assert lines[1] == ''
-    return bs(lines[0], features="html5lib").text, '\n'.join(lines[2:])
+    return bs(lines[0]).text, '\n'.join(lines[2:])
 
 
 @attr.s
@@ -92,9 +92,6 @@ class Dataset(pylexibank.Dataset):
         return self.raw_dir / 'Hindukush data'
 
     def cmd_makecldf(self, args):
-        #
-        # FIXME: add proper media table!
-        #
         features = list(self.raw_dir.read_csv('MultipleFeaturesHK.MultipleFeatures.csv', dicts=True))
         gl_by_id = {l.id: l for l in args.glottolog.api.languoids()}
         lerrata = {r['Name']: r['Glottocode'] for r in self.etc_dir.read_csv('languages.csv', dicts=True)}
