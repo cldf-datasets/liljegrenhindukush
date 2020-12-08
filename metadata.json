@@ -1,9 +1,9 @@
 {
     "conceptlist": ["Holman-2008-40"],
-    "url": "https://hindukush.ling.su.se/",
+    "url": "https://hindukush.clld.org/",
     "id": "liljegrenhindukush",
-    "aboutUrl": null,
-    "license": null,
+    "aboutUrl": "https://hindukush.clld.org/about",
+    "license": "CC-BY-4.0",
     "citation": null,
     "version": "2.7.1",
     "description": null,
