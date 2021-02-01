@@ -12,18 +12,18 @@ be seen in (2).
 (1) <span id="_Ref12343426" class="anchor"></span>Aret Pashai
     \[aee(at)\] (Indo-Aryan)
 
-| a.  | oːj bəːw | ‘parents’ (AEEat-KinHH:003) |
-|-----|----------|-----------------------------|
-| b.  | oːj      | ‘mother’ (AEEat-KinHH:002)  |
-| c.  | bəːw     | ‘father’ (AEEat-KinHH:001)  |
+| a.  | oj bəw | ‘parents’ (AEEat-KinHH:003) |
+|-----|--------|-----------------------------|
+| b.  | oj     | ‘mother’ (AEEat-KinHH:002)  |
+| c.  | bəw    | ‘father’ (AEEat-KinHH:001)  |
 
 (1) <span id="_Ref50555867" class="anchor"></span>Prasun
     \[prn\] (Nuristani)
 
-| a.  | jenan | ‘parents’ (PRN-KinSM:003) |
-|-----|-------|---------------------------|
-| b.  | nan   | ‘mother’ (PRN-KinSM:002)  |
-| c.  | jej   | ‘father’ (PRN-KinSM:001)  |
+| a.  | jeːnan | ‘parents’ (PRN-KinSM:003) |
+|-----|--------|---------------------------|
+| b.  | nan    | ‘mother’ (PRN-KinSM:002)  |
+| c.  | jej    | ‘father’ (PRN-KinSM:001)  |
 
 The feature value M+F is a majority pattern in the region. However,
 while the M+F pattern is restricted to the three Indo-Iranian phyla, the

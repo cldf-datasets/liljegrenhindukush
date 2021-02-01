@@ -14,7 +14,7 @@ post-alveolar fricatives, as shown in (1).
 
 | a.  | /syr/  | ‘sun’ (BTV-40listMB:033)        |
 |-----|--------|---------------------------------|
-| b.  | /ʃoːr/ | ‘father-in-law’ (BTV-KinMB:050) |
+| b.  | /ɕoːr/ | ‘father-in-law’ (BTV-KinMB:050) |
 | c.  | /ʂu/   | ‘six’ (BTV-NumMB:006)           |
 
 The presence of retroflex fricatives is a majority feature in the area,

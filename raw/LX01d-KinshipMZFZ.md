@@ -20,12 +20,12 @@ aunts, alike, as can be seen in ‎(2).
 (1) <span id="_Ref12531505" class="anchor"></span>Korangali Pashai
     \[aee(kg)\] (Indo-Aryan)
 
-| a.  | aːi          | ‘mother’ (AEEkg-KinAM:002)                                         |
-|-----|--------------|--------------------------------------------------------------------|
-| b.  | kaniɕʈiː aːi | ‘mother’s younger sister’ \[lit. little mother\] (AEEkg-KinAM:032) |
-| c.  | kaniɕʈiː aːi | ‘father’s younger sister’ \[lit. little mother\] (AEEkg-KinAM:026) |
-| d.  | ɖəɕʈiː aːi   | ‘mother’s older sister’ \[lit. big mother\] (AEEkg-KinAM:031)      |
-| e.  | ɖəɕʈiː aːi   | ‘father’s older sister’ \[lit. big mother\] (AEEkg-KinAM:025)      |
+| a.  | aːj         | ‘mother’ (AEEkg-KinAM:002)                                         |
+|-----|-------------|--------------------------------------------------------------------|
+| b.  | kaniɕti aːj | ‘father’s sister’ \[lit. little mother\] (AEEkg-KinAM:024)         |
+| c.  | aːj         | ‘mother’s sister’ \[lit. mother\] (AEEkg-KinAM:030)                |
+| d.  | kaniɕti aːj | ‘mother’s younger sister’ \[lit. little mother\] (AEEkg-KinAM:032) |
+| e.  | ɖəɕti aːj   | ‘mother’s older sister’ \[lit. big mother\] (AEEkg-KinAM:031)      |
 
 The feature occurs in approximately a fourth of the sample. It has a
 distinctly subareal distribution, occurring in a geographical belt

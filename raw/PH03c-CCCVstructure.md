@@ -8,9 +8,9 @@ words from Tibeto-Burman Balti in (1).
 (1) <span id="_Ref12343426" class="anchor"></span>Balti
     \[bft\] (Tibeto-Burman)
 
-| a.  | /strĩːmo/ | ‘sister’ (BFT-KinHS:008)   |
-|-----|-----------|----------------------------|
-| b.  | /rdwaː/   | ‘stone’ (BFT-40listHS:032) |
+| a.  | /strĩːmoː/ | ‘sister’ (BFT-KinHS:008)   |
+|-----|------------|----------------------------|
+| b.  | /rdwaː/    | ‘stone’ (BFT-40listHS:032) |
 
 In the region, CCCV Syllable Structures are with relative certainty
 found in only a handful of the sample languages, among them the

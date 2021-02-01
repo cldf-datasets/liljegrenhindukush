@@ -11,7 +11,7 @@ as shown in (1).
 
 | a.  | /dzaq/   | ‘small’ (WBLp-KinEK:010)     |
 |-----|----------|------------------------------|
-| b.  | /dʑɨmat/ | ‘wife’ (WBLp-KinSA:038)      |
+| b.  | /dɕɨmat/ | ‘wife’ (WBLp-KinSA:038)      |
 | c.  | /zik/    | ‘tongue’ (WBLp-40listEK:034) |
 | d.  | /ðas/    | ‘ten’ (WBLp-NumEK:010)       |
 

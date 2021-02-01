@@ -10,9 +10,9 @@ in (3).
 (1) <span id="_Ref12343426" class="anchor"></span>Ashkun
     \[ask\] (Nuristani)
 
-| a.  | istriməliː | ‘woman’ (ASK-ValQuestWS:054) |
-|-----|------------|------------------------------|
-| b.  | istriməliː | ‘wife’ (ASK-KinWS:038)       |
+| a.  | strimili | ‘woman’ (ASK-ValQuestWS:054) |
+|-----|----------|------------------------------|
+| b.  | strimili | ‘wife’ (ASK-KinWS:038)       |
 
 (1) <span id="_Ref50625793" class="anchor"></span>Dameli
     \[dml\] (Indo-Aryan)

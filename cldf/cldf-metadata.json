@@ -1,34 +1,35 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
-    "aboutUrl": null,
+    "aboutUrl": "https://hindukush.clld.org/about",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
         "http://concepticon.clld.org/contributions/Holman-2008-40"
     ],
-    "dc:identifier": "https://hindukush.ling.su.se/",
+    "dc:identifier": "https://hindukush.clld.org/",
     "dc:isVersionOf": null,
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Language Contact and Relatedness in the Hindukush Region",
+    "dc:title": "Hindu Kush Areal Typology",
     "dcat:accessURL": "https://github.com/cldf-datasets/liljegrenhindukush",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/liljegrenhindukush",
-            "dc:created": "8605eb1"
+            "dc:created": "056af67"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.3-treedb-fixes-128-g927596c"
+            "dc:created": "v4.3"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0-1-gb4a1681"
+            "dc:created": "v2.4.0"
         },
         {
             "rdf:type": "prov:Entity",
@@ -55,7 +56,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 11579,
+            "dc:extent": 10222,
             "tableSchema": {
                 "columns": [
                     {
@@ -256,7 +257,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 194,
+            "dc:extent": 169,
             "tableSchema": {
                 "columns": [
                     {

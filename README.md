@@ -1,6 +1,8 @@
-# Language Contact and Relatedness in the Hindukush Region
+# Hindu Kush Areal Typology
 
-Available online at https://hindukush.ling.su.se/
+This dataset is licensed under a CC-BY-4.0 license
+
+Available online at https://hindukush.clld.org/
 
 
 Conceptlists in Concepticon:
@@ -8,27 +10,30 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/cldf-datasets/liljegrenhindukush.svg?branch=master)](https://travis-ci.org/cldf-datasets/liljegrenhindukush)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 53%](https://img.shields.io/badge/Concepticon-53%25-red.svg "Concepticon: 53%")
+![Concepticon: 58%](https://img.shields.io/badge/Concepticon-58%25-red.svg "Concepticon: 58%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 97%](https://img.shields.io/badge/BIPA-97%25-green.svg "BIPA: 97%")
-![CLTS SoundClass: 97%](https://img.shields.io/badge/CLTS%20SoundClass-97%25-green.svg "CLTS SoundClass: 97%")
+![BIPA: 94%](https://img.shields.io/badge/BIPA-94%25-green.svg "BIPA: 94%")
+![CLTS SoundClass: 94%](https://img.shields.io/badge/CLTS%20SoundClass-94%25-green.svg "CLTS SoundClass: 94%")
 
 - **Varieties:** 59
-- **Concepts:** 194
-- **Lexemes:** 11,579
+- **Concepts:** 169
+- **Lexemes:** 10,222
 - **Sources:** 1
 - **Synonymy:** 1.04
 - **Invalid lexemes:** 0
-- **Tokens:** 73,173
-- **Segments:** 205 (6 BIPA errors, 6 CTLS sound class errors, 199 CLTS modified)
-- **Inventory size (avg):** 53.20
+- **Tokens:** 61,853
+- **Segments:** 178 (11 BIPA errors, 11 CTLS sound class errors, 167 CLTS modified)
+- **Inventory size (avg):** 50.76
 
 # Contributors
 
 Name | GitHub user | Role
 --- | --- | ---
- | @ | maintainer
+Henrk Liljegren |  | author, maintainer
+Nina Knobloch | | author
+Noa Lange | | author
+Robert Forkel | @xrotwang | maintainer
+
 
 

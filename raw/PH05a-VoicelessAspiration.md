@@ -22,7 +22,7 @@ aspirated plosives and affricates are given in (1).
 
 | a.  | /pʰiːpi / | ‘paternal aunt’ (SCLp-KinSL:024)  |
 |-----|-----------|-----------------------------------|
-| b.  | /tɕʰumo/  | ‘fish’ (SCLp-40listSL:011)        |
+| b.  | /tɕʰumu/  | ‘fish’ (SCLp-40listSL:011)        |
 | c.  | /aʈʂʰiː/  | ‘eye’ (SCLp-40listSL:009)         |
 | d.  | /dʑaʈʰoː/ | ‘brother-in-law’ (SCLp-KinSL:054) |
 

@@ -20,15 +20,15 @@ a language using a vigesimal base.
 (1) <span id="_Ref12343426" class="anchor"></span>Shemal Pashai
     \[aee(sh)\] (Indo-Aryan)
 
-| ‘6’  | tɕə          | numeral n=6       | ‘46’  | dijɑː bi tɕə        | 2x(10)+6  |
-|------|--------------|-------------------|-------|---------------------|-----------|
-| ‘10’ | *daːj*       | numeral n=10      | ‘50’  | *dijɑː bi daːj*     | 2x(20)+10 |
-| ‘16’ | *səɽ*        | numeral n=16      | ‘60’  | *ɬejɑː*             | 3x(20)    |
-| ‘20’ | *wist*       | vigesimal base 20 | ‘70’  | *ɬejɑː bi daːj*     | 3x(20)+10 |
-| ‘26’ | *wistə tɕə*  | 20+6              | ‘80’  | *t͡soːrijɑː*         | 4x(20)    |
-| ‘30’ | *wistə daːj* | 20+10             | ‘90’  | *t͡soːrijɑː bi daːj* | 4x(20)+10 |
-| ‘36’ | *wistə səɽ*  | 20+16             | ‘100’ | *paːnijɑː*          | 5x(20)    |
-| ‘40’ | *dijɑː*      | 2x(20)            | ‘110’ | *paːnijɑː bi daːj*  | 5x(20)+10 |
+| ‘6’  | tɕʰə         | numeral n=6       | ‘46’  | dijɑ̃ːbi tɕʰə       | 2x(10)+6  |
+|------|--------------|-------------------|-------|--------------------|-----------|
+| ‘10’ | *daːj*       | numeral n=10      | ‘50’  | *dijɑ̃ːbi daːj*     | 2x(20)+10 |
+| ‘16’ | *səɽ*        | numeral n=16      | ‘60’  | *ɬejɑ̃ː*            | 3x(20)    |
+| ‘20’ | *wiːst*      | vigesimal base 20 | ‘70’  | *ɬejɑ̃ːbi daːj*     | 3x(20)+10 |
+| ‘26’ | *wistə tɕəː* | 20+6              | ‘80’  | *t͡soːrijɑ̃ː*        | 4x(20)    |
+| ‘30’ | *wistə daːj* | 20+10             | ‘90’  | *t͡soːrijɑ̃ːbi daːj* | 4x(20)+10 |
+| ‘36’ | *wistə səɽ*  | 20+16             | ‘100’ | *paːnjɑ̃ː*          | 5x(20)    |
+| ‘40’ | *dijɑ̃ː*      | 2x(20)            | ‘110’ | *paːnjɑ̃ːbi daːj*   | 5x(20)+10 |
 
 A vigesimal base is present in approximately two thirds of the sample,
 essentially constituting the overall dominant system in its central

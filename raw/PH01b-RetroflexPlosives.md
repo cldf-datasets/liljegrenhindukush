@@ -12,7 +12,7 @@ a retroflex voiced plosive (1d).
 | a.  | /zat /   | ‘night’ (ASK-40listWS:024)    |
 |-----|----------|-------------------------------|
 | b.  | /vaːʈ /  | ‘stone’ (ASK-40listWS:032)    |
-| c.  | /awndaj/ | ‘grandfather’ (ASK-KinWS:013) |
+| c.  | /awndej/ | ‘grandfather’ (ASK-KinWS:013) |
 | d.  | /muɖuk / | ‘frog’ (ASK-ValQuestWS:034)   |
 
 The presence of retroflex plosives is a strongly areal feature, absent

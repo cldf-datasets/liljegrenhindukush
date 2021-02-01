@@ -1,13 +1,13 @@
 Nasalized Vowels
 
 The presence of contrastive vowel nasalization was investigated,
-exemplified by Pakistani Gojri words with oral vs corresponding
-nasalized vowels in (1).
+exemplified by Pakistani Gojri words with oral vs nasalized vowels in
+(1).
 
 (1) <span id="_Ref12343426" class="anchor"></span>Gojri, Pakistan
     \[gju(p)\] (Indo-Aryan)
 
-| a.  | /nuː/   | ‘nine’ (GJUp-NumRN:009)            |
+| a.  | /noː/   | ‘nine’ (GJUp-NumRN:009)            |
 |-----|---------|------------------------------------|
 |     | /nũː/   | ‘daughter-in-law’ (GJUp-KinRN:044) |
 | b.  | /naː/   | ‘to, for’ (GJUp-ValQuestRN:035)    |

@@ -471,9 +471,9 @@ containing retroflex sounds are displayed in ‎(1).
 (1) <span id=""_Ref12343426"" class=""anchor""></span>Khowar
 \[khw\] (Indo-Aryan)
 
-| a.  | /ʈip/   | ‘full’ (KHW-40listAA:018)   |
+| a.  | /ʈip/   | ‘full’ (KHW-40listAA:012)   |
 |-----|---------|-----------------------------|
-| b.  | /ʈʂʰan/ | ‘leaf’ (KHW-40listAA:012)   |
+| b.  | /ʈʂʰan/ | ‘leaf’ (KHW-40listAA:018)   |
 | c.  | /uʂak/  | ‘cold’ (KHW-ValQuestAA:060) |
 
 Retroflexion is a strongly areal feature, present in nearly all of the
@@ -491,7 +491,7 @@ a retroflex voiced plosive (1d).
 | a.  | /zat /   | ‘night’ (ASK-40listWS:024)    |
 |-----|----------|-------------------------------|
 | b.  | /vaːʈ /  | ‘stone’ (ASK-40listWS:032)    |
-| c.  | /awndaj/ | ‘grandfather’ (ASK-KinWS:013) |
+| c.  | /awndej/ | ‘grandfather’ (ASK-KinWS:013) |
 | d.  | /muɖuk / | ‘frog’ (ASK-ValQuestWS:034)   |
 
 The presence of retroflex plosives is a strongly areal feature, absent
@@ -511,7 +511,7 @@ post-alveolar fricatives, as shown in (1).
 
 | a.  | /syr/  | ‘sun’ (BTV-40listMB:033)        |
 |-----|--------|---------------------------------|
-| b.  | /ʃoːr/ | ‘father-in-law’ (BTV-KinMB:050) |
+| b.  | /ɕoːr/ | ‘father-in-law’ (BTV-KinMB:050) |
 | c.  | /ʂu/   | ‘six’ (BTV-NumMB:006)           |
 
 The presence of retroflex fricatives is a majority feature in the area,
@@ -530,7 +530,7 @@ as shown in (1).
 
 | a.  | /dzaq/   | ‘small’ (WBLp-KinEK:010)     |
 |-----|----------|------------------------------|
-| b.  | /dʑɨmat/ | ‘wife’ (WBLp-KinSA:038)      |
+| b.  | /dɕɨmat/ | ‘wife’ (WBLp-KinSA:038)      |
 | c.  | /zik/    | ‘tongue’ (WBLp-40listEK:034) |
 | d.  | /ðas/    | ‘ten’ (WBLp-NumEK:010)       |
 
@@ -600,9 +600,9 @@ words from Tibeto-Burman Balti in (1).
 (1) <span id=""_Ref12343426"" class=""anchor""></span>Balti
 \[bft\] (Tibeto-Burman)
 
-| a.  | /strĩːmo/ | ‘sister’ (BFT-KinHS:008)   |
-|-----|-----------|----------------------------|
-| b.  | /rdwaː/   | ‘stone’ (BFT-40listHS:032) |
+| a.  | /strĩːmoː/ | ‘sister’ (BFT-KinHS:008)   |
+|-----|------------|----------------------------|
+| b.  | /rdwaː/    | ‘stone’ (BFT-40listHS:032) |
 
 In the region, CCCV Syllable Structures are with relative certainty
 found in only a handful of the sample languages, among them the
@@ -615,7 +615,7 @@ exemplified by the words from Iranian Ishkashimi displayed in (1).
 (1) <span id=""_Ref12343426"" class=""anchor""></span>Ishkashimi
 \[isk\] (Iranian)
 
-| a.  | /oːvd/  | ‘seven’ (ISK-NumMA:007)    |
+| a.  | /ovd/   | ‘seven’ (ISK-NumMA:007)    |
 |-----|---------|----------------------------|
 | b.  | /uduχt/ | ‘daughter’ (ISK-KinMA:005) |
 | c.  | /krust/ | ‘skin’ (ISK-40listSO:030)  |
@@ -661,7 +661,7 @@ aspirated plosives and affricates are given in (1).
 
 | a.  | /pʰiːpi / | ‘paternal aunt’ (SCLp-KinSL:024)  |
 |-----|-----------|-----------------------------------|
-| b.  | /tɕʰumo/  | ‘fish’ (SCLp-40listSL:011)        |
+| b.  | /tɕʰumu/  | ‘fish’ (SCLp-40listSL:011)        |
 | c.  | /aʈʂʰiː/  | ‘eye’ (SCLp-40listSL:009)         |
 | d.  | /dʑaʈʰoː/ | ‘brother-in-law’ (SCLp-KinSL:054) |
 
@@ -685,10 +685,10 @@ corresponding unaspirated voiced consonants are given in (1).
 | a.  | /bʰiːjũː/ | ‘sister’ (MVY-KinHU:008)     |
 |-----|-----------|------------------------------|
 |     | /biː/     | ‘seed’ (MVY-ValQuestHU:071)  |
-| b.  | /ɡʰĩː/    | ‘big (f)’ (MVY-KinHU:025)    |
+| b.  | /ɡʰaĩː/   | ‘big (f)’ (MVY-KinHU:025)    |
 |     | /ɡiːl/    | ‘song’ (MVY-ValQuestHU:053)  |
 | c.  | /nʰaːlũː/ | ‘to see’ (MVY-40listHU:029)  |
-|     | /nãw/     | ‘nine’ (MVY-NumHU:009)       |
+|     | /naũ/     | ‘nine’ (MVY-NumHU:009)       |
 | d.  | /ʐʰaː/    | ‘brother’ (MVY-KinHU:007)    |
 |     | /ʐamʈʂuː/ | ‘son-in-law’ (MVY-KinHU:045) |
 
@@ -727,13 +727,13 @@ languages. All six phylogenetic groups are represented. A slight
 north/south divide can be traced, with what seems like a preference for
 uvulars in the north as compared to the south.",Phonology
 PH07,Nasalized Vowels,"The presence of contrastive vowel nasalization was investigated,
-exemplified by Pakistani Gojri words with oral vs corresponding
-nasalized vowels in (1).
+exemplified by Pakistani Gojri words with oral vs nasalized vowels in
+(1).
 
 (1) <span id=""_Ref12343426"" class=""anchor""></span>Gojri, Pakistan
 \[gju(p)\] (Indo-Aryan)
 
-| a.  | /nuː/   | ‘nine’ (GJUp-NumRN:009)            |
+| a.  | /noː/   | ‘nine’ (GJUp-NumRN:009)            |
 |-----|---------|------------------------------------|
 |     | /nũː/   | ‘daughter-in-law’ (GJUp-KinRN:044) |
 | b.  | /naː/   | ‘to, for’ (GJUp-ValQuestRN:035)    |
@@ -1655,8 +1655,8 @@ occurs in Nuristani Waigali, as can be seen in ‎(1).
 
 | a.  | jej         | ‘mother’ (WBK-KinSR:002)                                         |
 |-----|-------------|------------------------------------------------------------------|
-| b.  | dyɕtyː jej  | ‘mother’s older sister’ \[lit. big mother\] (WBK-KinSR:031)      |
-| c.  | kynɕtyː jej | ‘mother’s younger sister’ \[lit. little mother\] (WBK-KinSR:032) |
+| b.  | dyʂʈøː jej  | ‘mother’s older sister’ \[lit. big mother\] (WBK-KinSR:031)      |
+| c.  | kønɕtøː jej | ‘mother’s younger sister’ \[lit. little mother\] (WBK-KinSR:032) |
 
 The feature occurs in a minority of the sample languages but it has a
 distinctly subareal distribution. It occurs, on the one hand in Eastern
@@ -1684,12 +1684,12 @@ aunts, alike, as can be seen in ‎(2).
 (1) <span id=""_Ref12531505"" class=""anchor""></span>Korangali Pashai
 \[aee(kg)\] (Indo-Aryan)
 
-| a.  | aːi          | ‘mother’ (AEEkg-KinAM:002)                                         |
-|-----|--------------|--------------------------------------------------------------------|
-| b.  | kaniɕʈiː aːi | ‘mother’s younger sister’ \[lit. little mother\] (AEEkg-KinAM:032) |
-| c.  | kaniɕʈiː aːi | ‘father’s younger sister’ \[lit. little mother\] (AEEkg-KinAM:026) |
-| d.  | ɖəɕʈiː aːi   | ‘mother’s older sister’ \[lit. big mother\] (AEEkg-KinAM:031)      |
-| e.  | ɖəɕʈiː aːi   | ‘father’s older sister’ \[lit. big mother\] (AEEkg-KinAM:025)      |
+| a.  | aːj         | ‘mother’ (AEEkg-KinAM:002)                                         |
+|-----|-------------|--------------------------------------------------------------------|
+| b.  | kaniɕti aːj | ‘father’s sister’ \[lit. little mother\] (AEEkg-KinAM:024)         |
+| c.  | aːj         | ‘mother’s sister’ \[lit. mother\] (AEEkg-KinAM:030)                |
+| d.  | kaniɕti aːj | ‘mother’s younger sister’ \[lit. little mother\] (AEEkg-KinAM:032) |
+| e.  | ɖəɕti aːj   | ‘mother’s older sister’ \[lit. big mother\] (AEEkg-KinAM:031)      |
 
 The feature occurs in approximately a fourth of the sample. It has a
 distinctly subareal distribution, occurring in a geographical belt
@@ -1705,15 +1705,15 @@ same-sex siblings.
 (1) <span id=""_Ref12531505"" class=""anchor""></span>Nagar Burushaski
 \[bsk(n)\] (isolate)
 
-| a.  | nana       | ‘mother’s brother’ (BSKn-KinSD:027)                                |
-|-----|------------|--------------------------------------------------------------------|
-| b.  | nana       | ‘father’s sister’ (BSKn-KinSD:024)                                 |
-| c.  | aɰa        | ‘father’ \[lit. little mother\] (BSKn-KinSD:001)                   |
-| d.  | ujum aɰa   | ‘father’s older brother’ \[lit. big father\] (BSKn-KinSD:022)      |
-| e.  | dʑoʈ aɰa   | ‘father’s younger brother’ \[lit. little father\] (BSKn-KinSD:023) |
-| f.  | mahma      | ‘mother’ \[lit. big mother\] (BSKn-KinSD:002)                      |
-| g.  | ujum mahma | ‘mother’s older sister’ \[lit. big mother\] (BSKn-KinSD:031)       |
-| h.  | dʑoʈ mahma | ‘mother’s younger sister’ \[lit. little mother\] (BSKn-KinSD:032)  |
+| a.  | nana      | ‘mother’s brother’ (BSKn-KinSD:027)                                |
+|-----|-----------|--------------------------------------------------------------------|
+| b.  | nana      | ‘father’s sister’ (BSKn-KinSD:024)                                 |
+| c.  | aɰa       | ‘father’ \[lit. little mother\] (BSKn-KinSD:001)                   |
+| d.  | ujum aɰa  | ‘father’s older brother’ \[lit. big father\] (BSKn-KinSD:022)      |
+| e.  | dʑuʈ aɰa  | ‘father’s younger brother’ \[lit. little father\] (BSKn-KinSD:023) |
+| f.  | mama      | ‘mother’ \[lit. big mother\] (BSKn-KinSD:002)                      |
+| g.  | ujum mama | ‘mother’s older sister’ \[lit. big mother\] (BSKn-KinSD:031)       |
+| h.  | dʑuʈ mama | ‘mother’s younger sister’ \[lit. little mother\] (BSKn-KinSD:032)  |
 
 In the Hindu Kush sample, it is a feature exclusive of two Burushaski
 varieties.",Lexicon
@@ -1738,15 +1738,15 @@ from some of its closest relatives that apply a vigesimal system.
 (1) <span id=""_Ref12343426"" class=""anchor""></span>Sanjan Pashai
 \[glh(sn)\] (Indo-Aryan)
 
-| ‘6’  | ʂe         | lower numeral n=6     | ‘46’  | tɕele ʂe     | 4x(10)+6               |
+| ‘6’  | ʂɛ         | lower numeral n=6     | ‘46’  | tɕele ʂɛ     | 4x(10)+6               |
 |------|------------|-----------------------|-------|--------------|------------------------|
 | ‘10’ | *dɑː*      | decimal base 10       | ‘50’  | *pendʑɑː*    | 5x(10)                 |
-| ‘16’ | *ʂuj*      | n+(10)                | ‘60’  | *ɕaːst*      | 6x(10)                 |
+| ‘16’ | *ʂuj*      | n+(10)                | ‘60’  | *ɕæːst*      | 6x(10)                 |
 | ‘20’ | *wəst*     | non-derived lexeme 20 | ‘70’  | *haːftɑːd*   | 7x(10)                 |
-| ‘26’ | *wəstə ʂe* | 20+6                  | ‘80’  | *haːʃtɑːd*   | 8x(10)                 |
+| ‘26’ | *wəstə ʂɛ* | 20+6                  | ‘80’  | *haːɕtɑːd*   | 8x(10)                 |
 | ‘30’ | *triju*    | 3x(10)                | ‘90’  | *nawad*      | 9x(10)                 |
-| ‘36’ | *triju ʂe* | 3x(10)+6              | ‘100’ | *sad*        | non-derived lexeme 100 |
-| ‘40’ | *tɕel*     | 4x(10)                | ‘110’ | *iː sadu da* | 1x100+10               |
+| ‘36’ | *triju ʂɛ* | 3x(10)+6              | ‘100’ | *sad*        | non-derived lexeme 100 |
+| ‘40’ | *tɕel*     | 4x(10)                | ‘110’ | *iː sadu dɛ* | 1x100+10               |
 
 A decimal base is present in approximately a third of the sample,
 essentially in its peripheral western and southern parts.",Lexicon
@@ -1770,15 +1770,15 @@ a language using a vigesimal base.
 (1) <span id=""_Ref12343426"" class=""anchor""></span>Shemal Pashai
 \[aee(sh)\] (Indo-Aryan)
 
-| ‘6’  | tɕə          | numeral n=6       | ‘46’  | dijɑː bi tɕə        | 2x(10)+6  |
-|------|--------------|-------------------|-------|---------------------|-----------|
-| ‘10’ | *daːj*       | numeral n=10      | ‘50’  | *dijɑː bi daːj*     | 2x(20)+10 |
-| ‘16’ | *səɽ*        | numeral n=16      | ‘60’  | *ɬejɑː*             | 3x(20)    |
-| ‘20’ | *wist*       | vigesimal base 20 | ‘70’  | *ɬejɑː bi daːj*     | 3x(20)+10 |
-| ‘26’ | *wistə tɕə*  | 20+6              | ‘80’  | *t͡soːrijɑː*         | 4x(20)    |
-| ‘30’ | *wistə daːj* | 20+10             | ‘90’  | *t͡soːrijɑː bi daːj* | 4x(20)+10 |
-| ‘36’ | *wistə səɽ*  | 20+16             | ‘100’ | *paːnijɑː*          | 5x(20)    |
-| ‘40’ | *dijɑː*      | 2x(20)            | ‘110’ | *paːnijɑː bi daːj*  | 5x(20)+10 |
+| ‘6’  | tɕʰə         | numeral n=6       | ‘46’  | dijɑ̃ːbi tɕʰə       | 2x(10)+6  |
+|------|--------------|-------------------|-------|--------------------|-----------|
+| ‘10’ | *daːj*       | numeral n=10      | ‘50’  | *dijɑ̃ːbi daːj*     | 2x(20)+10 |
+| ‘16’ | *səɽ*        | numeral n=16      | ‘60’  | *ɬejɑ̃ː*            | 3x(20)    |
+| ‘20’ | *wiːst*      | vigesimal base 20 | ‘70’  | *ɬejɑ̃ːbi daːj*     | 3x(20)+10 |
+| ‘26’ | *wistə tɕəː* | 20+6              | ‘80’  | *t͡soːrijɑ̃ː*        | 4x(20)    |
+| ‘30’ | *wistə daːj* | 20+10             | ‘90’  | *t͡soːrijɑ̃ːbi daːj* | 4x(20)+10 |
+| ‘36’ | *wistə səɽ*  | 20+16             | ‘100’ | *paːnjɑ̃ː*          | 5x(20)    |
+| ‘40’ | *dijɑ̃ː*      | 2x(20)            | ‘110’ | *paːnjɑ̃ːbi daːj*   | 5x(20)+10 |
 
 A vigesimal base is present in approximately two thirds of the sample,
 essentially constituting the overall dominant system in its central
@@ -1807,17 +1807,17 @@ all the numerals 1-20.
 (1) <span id=""_Ref12343426"" class=""anchor""></span>Wakhi, Afghanistan
 \[wbl(a)\] (Iranian)
 
-| ‘1’  | jiːw      |     | ‘11’ | ðas jiːw      | 10+1 |
+| ‘1’  | iːu       |     | ‘11’ | ðas jiːu      | 10+1 |
 |------|-----------|-----|------|---------------|------|
 | ‘2’  | *buːj*    |     | ‘12’ | *ðas buːj*    | 10+2 |
-| ‘3’  | *təruːj*  |     | ‘13’ | *ðas təruːj*  | 10+3 |
+| ‘3’  | *təruːj*  |     | ‘13’ | *ðas truːj*   | 10+3 |
 | ‘4’  | *tsəbɨːr* |     | ‘14’ | *ðas tsəbɨːr* | 10+4 |
 | ‘5’  | *paːnts*  |     | ‘15’ | *ðas paːnts*  | 10+5 |
-| ‘6’  | *ʃaːd*    |     | ‘16’ | *ðas ʃaːd*    | 10+6 |
-| ‘7’  | *uːb*     |     | ‘17’ | *ðas uːb*     | 10+7 |
+| ‘6’  | *ɕaːd*    |     | ‘16’ | *ðas ɕaːd*    | 10+6 |
+| ‘7’  | *ɨːb*     |     | ‘17’ | *ðas ɨːb*     | 10+7 |
 | ‘8’  | *aːt*     |     | ‘18’ | *ðas aːt*     | 10+8 |
-| ‘9’  | *naw*     |     | ‘19’ | *ðas naw*     | 10+9 |
-| ‘10’ | *ðas*     |     | ‘20’ | *bist*        |      |
+| ‘9’  | *naːu*    |     | ‘19’ | *ðas naːu*    | 10+9 |
+| ‘10’ | *ðaːs*    |     | ‘20’ | *biːst*       |      |
 
 The numeral composition order 10+n is present in a minority of the
 sample, in approximately a fourth of the languages, and primarily in the
@@ -1849,17 +1849,17 @@ a 20+n order.
 (1) <span id=""_Ref55292607"" class=""anchor""></span>Shughni
 \[sgh(a)\] (Iranian)
 
-| ‘1’  | jiːw      |     | ‘11’ | ji ðiːsat jiːw      | 1x10+1 | ‘21’ | ðə ðiːsat jiːw      | 2x10+1 |
-|------|-----------|-----|------|---------------------|--------|------|---------------------|--------|
-| ‘2’  | *ðəjyːn*  |     | ‘12’ | *ji ðiːsat ðəjyːn*  | 1x10+2 | ‘22’ | *ðə ðiːsat ðəjyːn*  | 2x10+2 |
-| ‘3’  | *haraːj*  |     | ‘13’ | *ji ðiːsat haraːj*  | 1x10+3 | ‘23’ | *ðə ðiːsat haraːj*  | 2x10+3 |
-| ‘4’  | *tsavoːr* |     | ‘14’ | *ji ðiːsat tsavoːr* | 1x10+4 | ‘24’ | *ðə ðiːsat tsavoːr* | 2x10+4 |
-| ‘5’  | *piːnts*  |     | ‘15’ | *ji ðiːsat piːnts*  | 1x10+5 | ‘25’ | *ðə ðiːsat piːnts*  | 2x10+5 |
-| ‘6’  | *χoːɣ*    |     | ‘16’ | *ji ðiːsat χoːɣ*    | 1x10+6 | ‘26’ | *ðə ðiːsat χoːɣ*    | 2x10+6 |
-| ‘7’  | *wuːvd*   |     | ‘17’ | *ji ðiːsat wuːvd*   | 1x10+7 | ‘27’ | *ðə ðiːsat wuːvd*   | 2x10+7 |
-| ‘8’  | *waxt*    |     | ‘18’ | *ji ðiːsat waxt*    | 1x10+8 | ‘28’ | *ðə ðiːsat waxt*    | 2x10+8 |
-| ‘9’  | *noːw*    |     | ‘19’ | *ji ðiːsat noːw*    | 1x10+9 | ‘29’ | *ðə ðiːsat noːw*    | 2x10+9 |
-| ‘10’ | *ðiːs*    |     | ‘20’ | *ðə ðiːs*           | 2x10   | ‘30’ | *haraj ðiːs*        | 3x10   |
+| ‘1’  | jiːw      |     | ‘11’ | jiðiːsat jiːw      | 1x10+1 | ‘21’ | ðəðiːsat jiːw      | 2x10+1 |
+|------|-----------|-----|------|--------------------|--------|------|--------------------|--------|
+| ‘2’  | *ðəjyːn*  |     | ‘12’ | *jiðiːsat ðəjyːn*  | 1x10+2 | ‘22’ | *ðəðiːsat ðəjyːn*  | 2x10+2 |
+| ‘3’  | *haraːj*  |     | ‘13’ | *jiðiːsat haraːj*  | 1x10+3 | ‘23’ | *ðəðiːsat haraːj*  | 2x10+3 |
+| ‘4’  | *tsavoːr* |     | ‘14’ | *jiðiːsat tsavoːr* | 1x10+4 | ‘24’ | *ðəðiːsat tsavoːr* | 2x10+4 |
+| ‘5’  | *piːnts*  |     | ‘15’ | *jiðiːsat piːnts*  | 1x10+5 | ‘25’ | *ðəðiːsat piːnts*  | 2x10+5 |
+| ‘6’  | *χoːɣ*    |     | ‘16’ | *jiðiːsat χoːɣ*    | 1x10+6 | ‘26’ | *ðəðiːsat χoːɣ*    | 2x10+6 |
+| ‘7’  | *wuːvd*   |     | ‘17’ | *jiðiːsat wuːvd*   | 1x10+7 | ‘27’ | *ðəðiːsat wuːvd*   | 2x10+7 |
+| ‘8’  | *waxt*    |     | ‘18’ | *jiðiːsat waxt*    | 1x10+8 | ‘28’ | *ðəðiːsat waxt*    | 2x10+8 |
+| ‘9’  | *noːw*    |     | ‘19’ | *jiðiːsat noːw*    | 1x10+9 | ‘29’ | *ðəðiːsat noːw*    | 2x10+9 |
+| ‘10’ | *ðiːs*    |     | ‘20’ | *ðəðiːs*           | 2x10   | ‘30’ | *harajðiːs*        | 3x10   |
 
 The numeral composition order 20+n is present in the majority of the
 sample. The languages applying the reverse order are exclusively found
@@ -1895,18 +1895,18 @@ be seen in (2).
 (1) <span id=""_Ref12343426"" class=""anchor""></span>Aret Pashai
 \[aee(at)\] (Indo-Aryan)
 
-| a.  | oːj bəːw | ‘parents’ (AEEat-KinHH:003) |
-|-----|----------|-----------------------------|
-| b.  | oːj      | ‘mother’ (AEEat-KinHH:002)  |
-| c.  | bəːw     | ‘father’ (AEEat-KinHH:001)  |
+| a.  | oj bəw | ‘parents’ (AEEat-KinHH:003) |
+|-----|--------|-----------------------------|
+| b.  | oj     | ‘mother’ (AEEat-KinHH:002)  |
+| c.  | bəw    | ‘father’ (AEEat-KinHH:001)  |
 
 (1) <span id=""_Ref50555867"" class=""anchor""></span>Prasun
 \[prn\] (Nuristani)
 
-| a.  | jenan | ‘parents’ (PRN-KinSM:003) |
-|-----|-------|---------------------------|
-| b.  | nan   | ‘mother’ (PRN-KinSM:002)  |
-| c.  | jej   | ‘father’ (PRN-KinSM:001)  |
+| a.  | jeːnan | ‘parents’ (PRN-KinSM:003) |
+|-----|--------|---------------------------|
+| b.  | nan    | ‘mother’ (PRN-KinSM:002)  |
+| c.  | jej    | ‘father’ (PRN-KinSM:001)  |
 
 The feature value M+F is a majority pattern in the region. However,
 while the M+F pattern is restricted to the three Indo-Iranian phyla, the
@@ -2018,9 +2018,9 @@ in (3).
 (1) <span id=""_Ref12343426"" class=""anchor""></span>Ashkun
 \[ask\] (Nuristani)
 
-| a.  | istriməliː | ‘woman’ (ASK-ValQuestWS:054) |
-|-----|------------|------------------------------|
-| b.  | istriməliː | ‘wife’ (ASK-KinWS:038)       |
+| a.  | strimili | ‘woman’ (ASK-ValQuestWS:054) |
+|-----|----------|------------------------------|
+| b.  | strimili | ‘wife’ (ASK-KinWS:038)       |
 
 (1) <span id=""_Ref50625793"" class=""anchor""></span>Dameli
 \[dml\] (Indo-Aryan)

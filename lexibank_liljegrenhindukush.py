@@ -156,10 +156,10 @@ class Dataset(pylexibank.Dataset):
                     audio[lid][akey].append(bs['checksum'])
 
             writer.add_sources(BIB)
-            cmap = writer.add_concepts(lookup_factory=lambda c: ('40list', c.english.split('(')[0].strip()))
+            cmap = writer.add_concepts(lookup_factory=lambda c: ('40list', c.english.split('(')[0].strip().lower()))
             for row in self.etc_dir.read_csv('concepts.csv', dicts=True):
                 cid = '{}-{}'.format(row['Category'], slug(row['Gloss']))
-                cmap[(row['Category'], row['Gloss'])] = cid
+                cmap[(row['Category'], row['Gloss'].lower())] = cid
                 writer.add_concept(
                     ID=cid,
                     Name=row['Gloss'],
@@ -174,7 +174,7 @@ class Dataset(pylexibank.Dataset):
                             audio_key = '40_{}'.format(str(j).rjust(2, '0'))
                             writer.add_lexemes(
                                 Language_ID=lid,
-                                Parameter_ID=cmap[(cat, col)],
+                                Parameter_ID=cmap[(cat, col.lower())],
                                 Value=row[col],
                                 Audio_Files=audio.get(lid, {}).get(audio_key, []),
                                 Source=['hindukush'],
@@ -183,7 +183,7 @@ class Dataset(pylexibank.Dataset):
                         for j, col in enumerate(list(row.keys())[5:], start=1):
                             writer.add_lexemes(
                                 Language_ID=lid,
-                                Parameter_ID=cmap[(cat, col)],
+                                Parameter_ID=cmap[(cat, col.lower())],
                                 Value=row[col],
                                 Source=['hindukush'],
                             )

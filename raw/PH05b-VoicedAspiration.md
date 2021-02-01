@@ -14,10 +14,10 @@ corresponding unaspirated voiced consonants are given in (1).
 | a.  | /bʰiːjũː/ | ‘sister’ (MVY-KinHU:008)     |
 |-----|-----------|------------------------------|
 |     | /biː/     | ‘seed’ (MVY-ValQuestHU:071)  |
-| b.  | /ɡʰĩː/    | ‘big (f)’ (MVY-KinHU:025)    |
+| b.  | /ɡʰaĩː/   | ‘big (f)’ (MVY-KinHU:025)    |
 |     | /ɡiːl/    | ‘song’ (MVY-ValQuestHU:053)  |
 | c.  | /nʰaːlũː/ | ‘to see’ (MVY-40listHU:029)  |
-|     | /nãw/     | ‘nine’ (MVY-NumHU:009)       |
+|     | /naũ/     | ‘nine’ (MVY-NumHU:009)       |
 | d.  | /ʐʰaː/    | ‘brother’ (MVY-KinHU:007)    |
 |     | /ʐamʈʂuː/ | ‘son-in-law’ (MVY-KinHU:045) |
 

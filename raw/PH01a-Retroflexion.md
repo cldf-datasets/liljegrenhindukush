@@ -26,9 +26,9 @@ containing retroflex sounds are displayed in ‎(1).
 (1) <span id="_Ref12343426" class="anchor"></span>Khowar
     \[khw\] (Indo-Aryan)
 
-| a.  | /ʈip/   | ‘full’ (KHW-40listAA:018)   |
+| a.  | /ʈip/   | ‘full’ (KHW-40listAA:012)   |
 |-----|---------|-----------------------------|
-| b.  | /ʈʂʰan/ | ‘leaf’ (KHW-40listAA:012)   |
+| b.  | /ʈʂʰan/ | ‘leaf’ (KHW-40listAA:018)   |
 | c.  | /uʂak/  | ‘cold’ (KHW-ValQuestAA:060) |
 
 Retroflexion is a strongly areal feature, present in nearly all of the
