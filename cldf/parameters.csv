@@ -39,12 +39,12 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,domain
 38,louse,1392,LOUSE,
 39,skin,763,SKIN,
 40,you,1215,THOU,
-Kinship-father,Father,1217,FATHER,Kinship
-Kinship-mother,Mother,,,Kinship
-Kinship-parent,Parent,,,Kinship
-Kinship-son,Son,,,Kinship
-Kinship-daughter,Daughter,,,Kinship
-Kinship-brother,Brother,,,Kinship
+Kinship-father,father,1217,FATHER,Kinship
+Kinship-mother,mother,,,Kinship
+Kinship-parent,parent,,,Kinship
+Kinship-son,son,,,Kinship
+Kinship-daughter,daughter,,,Kinship
+Kinship-brother,brother,,,Kinship
 Kinship-sister,sister,,,Kinship
 Kinship-olderbrother,older brother,,,Kinship
 Kinship-youngerbrother,younger brother,,,Kinship
