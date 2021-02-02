@@ -21,7 +21,7 @@
 | ə | 1758 | ✓ | ✓ |
 | w | 1749 | ✓ | ✓ |
 | e | 1498 | ✓ | ✓ |
-| ɕ | 1459 | ✓ | ✓ |
+| ɕ | 1480 | ✓ | ✓ |
 | l | 1309 | ✓ | ✓ |
 | p | 1306 | ✓ | ✓ |
 | k | 1286 | ✓ | ✓ |
@@ -31,7 +31,7 @@
 | eː | 885 | ✓ | ✓ |
 | ɑː | 797 | ✓ | ✓ |
 | uː | 771 | ✓ | ✓ |
-| tɕ | 747 | ✓ | ✓ |
+| tɕ | 759 | ✓ | ✓ |
 | z | 614 | ✓ | ✓ |
 | g | 577 | ✓ | ✓ |
 | ʂ | 574 | ✓ | ✓ |
@@ -42,7 +42,7 @@
 | h | 362 | ✓ | ✓ |
 | ŋ | 317 | ✓ | ✓ |
 | ɽ | 291 | ✓ | ✓ |
-| ʃ | 280 | ✓ | ✓ |
+| ʃ | 259 | ✓ | ✓ |
 | ʑ | 253 | ✓ | ✓ |
 | ʁ | 192 | ✓ | ✓ |
 | ɨ | 178 | ✓ | ✓ |
@@ -51,9 +51,9 @@
 | v | 164 | ✓ | ✓ |
 | ɛ | 163 | ✓ | ✓ |
 | ɳ | 162 | ✓ | ✓ |
-| tʃ | 159 | ✓ | ✓ |
 | ʈʂ | 154 | ✓ | ✓ |
 | q | 150 | ✓ | ✓ |
+| tʃ | 147 | ✓ | ✓ |
 | ɖ | 147 | ✓ | ✓ |
 | ð | 146 | ✓ | ✓ |
 | ãː | 144 | ✓ | ✓ |
@@ -297,10 +297,10 @@
 | xka-Kinship-fathersfather-1 | xka | Kinship-fathersfather | da̰ːd̥ | d a̰ː d <s> <<̥>> </s> |
 | xka-Kinship-fathersmother-1 | xka | Kinship-fathersmother | dḛːd̥ | d ḛː d <s> <<̥>> </s> |
 | xka-Kinship-forefather-1 | xka | Kinship-forefather | bɑb_da̰ːd̥ | b ɑ b + d a̰ː d <s> <<̥>> </s> |
-| ydg-Numerals-14-1 | ydg | Numerals-14 | les_tʃːiːr | l e s + tʃ <s> <<ː>> </s> iː r |
+| ydg-Numerals-14-1 | ydg | Numerals-14 | les_tɕːiːr | l e s + tɕ <s> <<ː>> </s> iː r |
 | ydg-Numerals-20-1 | ydg | Numerals-20 | ʏsto | <s> <<ʏ>> </s> s t o |
 | ydg-Numerals-21-1 | ydg | Numerals-21 | ʏsto_ju | <s> <<ʏ>> </s> s t o + j u |
-| ydg-Numerals-4-1 | ydg | Numerals-4 | tʃːiːr | tʃ <s> <<ː>> </s> iː r |
+| ydg-Numerals-4-1 | ydg | Numerals-4 | tɕːiːr | tɕ <s> <<ː>> </s> iː r |
 
 (100 rows)
 
