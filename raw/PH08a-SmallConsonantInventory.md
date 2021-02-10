@@ -11,8 +11,7 @@ relation to the sample in general (see Large Consonant Inventory), and
 not as an absolute statement about inventory size. Taking more lexical
 data into account may very well render a different result. An inventory,
 using the above-mentioned method, representative of the value small is
-that of Turkic Kyrgyz, as displayed in the table, with its 17
-consonants.
+that of Kyrgyz, as displayed in the table, with its 17 consonants.
 
 | **Kyrgyz \[kir\] (Turkic)** | **Labial** | **Dental/alveolar** | **Post-alveolar** | **Velar/uvular** |
 |-----------------------------|------------|---------------------|-------------------|------------------|

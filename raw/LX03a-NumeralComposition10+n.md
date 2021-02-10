@@ -17,9 +17,9 @@ expression of the numeral ‘10’. Instead, the formula stands for an
 underlying syntactic or morphological structure in which the form of the
 corresponding lower numeral *n*, and its relative sequential order as
 preposed or postposed in the complex expression, has been taken as
-diagnostic. Iranian Wakhi (Afghanistan) exemplifies the order 10+n in
-the formation of the numerals 11-19, as can be seen in ‎(1), displaying
-all the numerals 1-20.
+diagnostic. Wakhi of Afghanistan exemplifies the order 10+n in the
+formation of the numerals 11-19, as can be seen in ‎(1), displaying all
+the numerals 1-20.
 
 (1) <span id="_Ref12343426" class="anchor"></span>Wakhi, Afghanistan
     \[wbl(a)\] (Iranian)
@@ -38,8 +38,8 @@ all the numerals 1-20.
 
 The numeral composition order 10+n is present in a minority of the
 sample, in approximately a fourth of the languages, and primarily in the
-north, encompassing all Tibeto-Burman, Turkic, Burushaski, but only a
-few of the Indo-Aryan and Iranian languages.
+north, encompassing all Sino-Tibetan, Turkic and Burushaski varieties,
+but only a few of the Indo-Aryan and Iranian languages.
 
 | Feature value | \# of varieties displaying it | %   |
 |---------------|-------------------------------|-----|

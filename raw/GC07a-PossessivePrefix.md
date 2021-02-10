@@ -15,22 +15,22 @@ prefix attached to them (indexing for person, animacy and number).
 | a.  | a-mupuʂ                                                     |     |     |
 |-----|-------------------------------------------------------------|-----|-----|
 |     | <span style="font-variant:small-caps;">1sg.poss</span>-nose |     |     |
-|     | ‘my nose’ (BSKh-40listSK:025)                               |
+|     | ‘my nose’ (BSKh-40list-SK:025)                              |
 
 | b.  | a-pi                                                               |     |     |
 |-----|--------------------------------------------------------------------|-----|-----|
 |     | <span style="font-variant:small-caps;">1sg.poss</span>-grandmother |     |     |
-|     | ‘my grandmother’ (BSKh-KinSK:014)                                  |
+|     | ‘my grandmother’ (BSKh-Kin-SK:014)                                 |
 
 | c.  | mo-pi-mu-r                                                                                                                 |     |     |
 |-----|----------------------------------------------------------------------------------------------------------------------------|-----|-----|
 |     | <span style="font-variant:small-caps;">3hfsg.poss</span>-grandmother-<span style="font-variant:small-caps;">obl-dat</span> |     |     |
-|     | ‘to her grandmother’ (BSKh-ValQuestSK:037)                                                                                 |
+|     | ‘to her grandmother’ (BSKh-Val-SK:037)                                                                                     |
 
-| d.  | gu-ɕaːk-aʈ-e                                                                                                 |     |     |
-|-----|--------------------------------------------------------------------------------------------------------------|-----|-----|
-|     | <span style="font-variant:small-caps;">2sg</span>-arm-<span style="font-variant:small-caps;">inst-ess</span> |     |     |
-|     | ‘on your arm’ (BSKh-DemSK:003a)                                                                              |
+| d.  | gu-ɕaːk-aʈ-e                                                                                                |     |     |
+|-----|-------------------------------------------------------------------------------------------------------------|-----|-----|
+|     | <span style="font-variant:small-caps;">2sg</span>-arm-<span style="font-variant:small-caps;">ins-ess</span> |     |     |
+|     | ‘on your arm’ (BSKh-Dem-SK:003a)                                                                            |
 
 This is a feature found only in the two Burushaski varieties in this
 sample. However, see the feature Possessive Suffixes for similar

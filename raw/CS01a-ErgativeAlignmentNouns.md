@@ -12,17 +12,17 @@ argument remains zero marked for case.
 (1) <span id="_Ref531867975" class="anchor"></span>Western Kati
     \[bsh(w)\] (Nuristani)
 
-| a.  | dʑuk                                    | ʑen-e.                                                     |
-|-----|-----------------------------------------|------------------------------------------------------------|
-|     | girl                                    | cry.<span style="font-variant:small-caps;">pst-3fsg</span> |
-|     | **S**                                   |                                                            |
-|     | ‘The girl cried.’ (BSHw-ValQuestAA:083) |
+| a.  | dʑuk                                | ʑen-e                                                      |
+|-----|-------------------------------------|------------------------------------------------------------|
+|     | girl                                | cry.<span style="font-variant:small-caps;">pst-3fsg</span> |
+|     | **S**                               |                                                            |
+|     | ‘The girl cried.’ (BSHw-Val-AU:083) |
 
-| b.  | dʑuk-**a**                                                        | wa-is                                                              | kə  | gul     | sami-ə.                                                    |
-|-----|-------------------------------------------------------------------|--------------------------------------------------------------------|-----|---------|------------------------------------------------------------|
-|     | girl-<span style="font-variant:small-caps;">obl</span>            | grandmother-<span style="font-variant:small-caps;">3sg.poss</span> | for | flowers | send.<span style="font-variant:small-caps;">pst-3pl</span> |
-|     | **A**                                                             |                                                                    |     | P       |                                                            |
-|     | ‘The girl sent flowers to her grandmother.’ (BSHw-ValQuestAA:037) |
+| b.  | dʑuk-**a**                                                    | wa-is                                                              | kə  | gul     | sami-ə                                                     |
+|-----|---------------------------------------------------------------|--------------------------------------------------------------------|-----|---------|------------------------------------------------------------|
+|     | girl-<span style="font-variant:small-caps;">obl</span>        | grandmother-<span style="font-variant:small-caps;">3sg.poss</span> | for | flowers | send.<span style="font-variant:small-caps;">pst-3pl</span> |
+|     | **A**                                                         |                                                                    |     | P       |                                                            |
+|     | ‘The girl sent flowers to her grandmother.’ (BSHw-Val-AU:037) |
 
 A majority of our sample languages display evidence of ergative
 alignment for nouns. The distribution is clearly subareal, with ergative

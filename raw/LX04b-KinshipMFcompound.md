@@ -5,25 +5,24 @@ this is expressed through a compound involving the lexemes ‘mother’ and
 ‘father’ (see Kinship: Parent Compound). These compounds are
 sequentially structured, either as ‘mother’ followed by ‘father’ (the
 positive value here) or as ‘father’ followed by ‘mother’ (the negative
-value). Indo-Aryan Aret Pashai is an example of the former, as can be
-seen in ‎(1), and Nuristani Prasun is an example of the latter, as can
-be seen in (2).
+value). Aret Pashai is an example of the former, as can be seen in ‎(1),
+and Prasun is an example of the latter, as can be seen in (2).
 
 (1) <span id="_Ref12343426" class="anchor"></span>Aret Pashai
     \[aee(at)\] (Indo-Aryan)
 
-| a.  | oj bəw | ‘parents’ (AEEat-KinHH:003) |
-|-----|--------|-----------------------------|
-| b.  | oj     | ‘mother’ (AEEat-KinHH:002)  |
-| c.  | bəw    | ‘father’ (AEEat-KinHH:001)  |
+| a.  | oj bəw | ‘parents’ (AEEat-Kin-HH:003) |
+|-----|--------|------------------------------|
+| b.  | oj     | ‘mother’ (AEEat-Kin-HH:002)  |
+| c.  | bəw    | ‘father’ (AEEat-Kin-HH:001)  |
 
 (1) <span id="_Ref50555867" class="anchor"></span>Prasun
     \[prn\] (Nuristani)
 
-| a.  | jeːnan | ‘parents’ (PRN-KinSM:003) |
-|-----|--------|---------------------------|
-| b.  | nan    | ‘mother’ (PRN-KinSM:002)  |
-| c.  | jej    | ‘father’ (PRN-KinSM:001)  |
+| a.  | jeːnan | ‘parents’ (PRN-Kin-SM:003) |
+|-----|--------|----------------------------|
+| b.  | nan    | ‘mother’ (PRN-Kin-SM:002)  |
+| c.  | jej    | ‘father’ (PRN-Kin-SM:001)  |
 
 The feature value M+F is a majority pattern in the region. However,
 while the M+F pattern is restricted to the three Indo-Iranian phyla, the

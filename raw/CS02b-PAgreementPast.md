@@ -9,23 +9,23 @@ in gender and number, as seen in ‎(1).
 (1) <span id="_Ref531867975" class="anchor"></span>Palula
     \[phl\] (Indo-Aryan)
 
-| a.  | pʰoː-a                                                                          | lhaleːmi                                                  | paɳareː-l-**i**.                                                                                         |     |
-|-----|---------------------------------------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------------------------------------------------------|-----|
-|     | boy-<span style="font-variant:small-caps;">obl</span>                           | stick.(<span style="font-variant:small-caps;">fsg</span>) | peel-<span style="font-variant:small-caps;">pfv</span>-<span style="font-variant:small-caps;">fsg</span> |     |
-|     | A                                                                               | **P**                                                     |                                                                                                          |     |
-|     | ‘The boy peeled the bark \[lit. whitened\] off the stick.’ (PHL-ValQuestNH:033) |
+| a.  | pʰoː-a                                                                      | lhaleːmi                                               | paɳareː-l-**i**                                                                                          |     |
+|-----|-----------------------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------------------------------------------------------|-----|
+|     | boy-<span style="font-variant:small-caps;">obl</span>                       | stick(<span style="font-variant:small-caps;">f</span>) | peel-<span style="font-variant:small-caps;">pfv</span>-<span style="font-variant:small-caps;">fsg</span> |     |
+|     | A                                                                           | **P**                                                  |                                                                                                          |     |
+|     | ‘The boy peeled the bark \[lit. whitened\] off the stick.’ (PHL-Val-NH:033) |
 
-| b.  | pʰaj                                                                 | oːstoːz-a                                                 | tʰe | naqɕeː                                                                                                    | paɕawoː-l-**a**.                                           |
-|-----|----------------------------------------------------------------------|-----------------------------------------------------------|-----|-----------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
-|     | girl                                                                 | teacher-<span style="font-variant:small-caps;">obl</span> | to  | picture(<span style="font-variant:small-caps;">m</span>).<span style="font-variant:small-caps;">pl</span> | show-<span style="font-variant:small-caps;">pfv-mpl</span> |
-|     | A                                                                    |                                                           |     | **P**                                                                                                     |                                                            |
-|     | ‘The girls showed the pictures to the teacher.’ (PHL-ValQuestNA:035) |
+| b.  | pʰaj                                                             | oːstoːz-a                                                 | tʰe | naqɕeː                                                                                                    | paɕawoː-l-**a**                                            |
+|-----|------------------------------------------------------------------|-----------------------------------------------------------|-----|-----------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
+|     | girl                                                             | teacher-<span style="font-variant:small-caps;">obl</span> | to  | picture(<span style="font-variant:small-caps;">m</span>).<span style="font-variant:small-caps;">pl</span> | show-<span style="font-variant:small-caps;">pfv-mpl</span> |
+|     | A                                                                |                                                           |     | **P**                                                                                                     |                                                            |
+|     | ‘The girls showed the pictures to the teacher.’ (PHL-Val-NH:035) |
 
-| c.  | pʰaj                                                         | gileːsi                                                 | weː  | wiː                                                      | puːr-il-**o**.                                             |
-|-----|--------------------------------------------------------------|---------------------------------------------------------|------|----------------------------------------------------------|------------------------------------------------------------|
-|     | girl                                                         | glass-<span style="font-variant:small-caps;">obl</span> | into | water(<span style="font-variant:small-caps;">msg</span>) | fill-<span style="font-variant:small-caps;">pfv-msg</span> |
-|     | A                                                            |                                                         |      | **P**                                                    |                                                            |
-|     | ‘The girl filled the glass with water.’ (PHL-ValQuestNA:044) |
+| c.  | pʰaj                                                     | gileːsi                                                 | weː  | wiː                                                    | puːr-il-**o**                                              |
+|-----|----------------------------------------------------------|---------------------------------------------------------|------|--------------------------------------------------------|------------------------------------------------------------|
+|     | girl                                                     | glass-<span style="font-variant:small-caps;">obl</span> | into | water(<span style="font-variant:small-caps;">m</span>) | fill-<span style="font-variant:small-caps;">pfv-msg</span> |
+|     | A                                                        |                                                         |      | **P**                                                  |                                                            |
+|     | ‘The girl filled the glass with water.’ (PHL-Val-NH:044) |
 
 This feature, evidenced in nearly half of the sample, is particularly
 well-represented in the southern half of the region.

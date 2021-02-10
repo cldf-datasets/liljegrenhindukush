@@ -17,11 +17,11 @@ expression of the numeral ‘20’. Instead, the formula stands for an
 underlying syntactic or morphological structure in which the form of the
 corresponding lower numeral *n*, and its relative sequential order as
 preposed or postposed in the complex expression, has been taken as
-diagnostic. Iranian Shughni exemplifies the order 20+n in the formation
-of the numerals 21-29, as can be seen in ‎(1), displaying the numerals
-1-30. As can be seen, the numerals 11-19 follow the same order, which
-however is not necessarily the case in all of the sample languages with
-a 20+n order.
+diagnostic. Shughni exemplifies the order 20+n in the formation of the
+numerals 21-29, as can be seen in ‎(1), displaying the numerals 1-30. As
+can be seen, the numerals 11-19 follow the same order, which however is
+not necessarily the case in all of the sample languages with a 20+n
+order.
 
 (1) <span id="_Ref55292607" class="anchor"></span>Shughni
     \[sgh(a)\] (Iranian)
