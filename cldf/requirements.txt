@@ -18,7 +18,7 @@ iniconfig==1.1.1
 isodate==0.6.0
 jdcal==1.4.1
 Jinja2==2.11.2
--e git+https://github.com/cldf-datasets/liljegrenhindukush.git@f01c4f5e6df6775f28cd79fc22c4fe51abe0c0dc#egg=lexibank_liljegrenhindukush
+-e git+https://github.com/cldf-datasets/liljegrenhindukush.git@654298c1b3032c4171891023862a45f547a3785d#egg=lexibank_liljegrenhindukush
 lingpy==2.6.6
 Markdown==3.3.1
 MarkupSafe==1.1.1

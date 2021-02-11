@@ -2,6 +2,7 @@
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": "https://hindukush.clld.org/about",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:description": "The wordlist is mainly generated from the processed wordlists that were\npart of the elicitation package (see Project design and data\ncollection). That is reflected in the category labels: ASJPlist, Kinship\nand Numerals.\n\nSelecting an item gives you a) a map of the region with the languages\nplotted and a label displaying a transcription for each language, b) a\nlist displaying the languages alphabetically with the transcribed item\nfor each. For a subset of the items, audio recordings are linked.\n\nWe have aimed at providing a broad phonetic transcription of each item,\nusing the International Phonetic Alphabet. While it is our intention to\ngive each item an accurate written representation, the primary objective\nwas not to represent phonemes or to consistently reflect\nlanguage-internal phonological contrasts.\n\nElicitation of kinship terms turned out to be particularly challenging.\nAlthough conscious efforts were made to carefully explain and guide the\nconsultants prior to the recording sessions, we are aware that some of\nthe terms listed, in a few of the languages, most likely are explanatory\nterms rather than reference terms actually used in the local community.\n",
     "dc:format": [
         "http://concepticon.clld.org/contributions/Holman-2008-40"
     ],
@@ -17,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/liljegrenhindukush",
-            "dc:created": "f01c4f5"
+            "dc:created": "654298c"
         },
         {
             "rdf:type": "prov:Entity",
