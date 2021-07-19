@@ -2,15 +2,15 @@ Grapheme	IPA	CLTS	Examples
 *	NULL	?	natriːn*
 +	NULL	?	z+C:AUumgeː
 ?	NULL	?	awər_?, kyjøŋ?, ɑːli_mambat͡sa?_maːʃiː
-A	?	?	z+C:AUumgeː
+A	NULL	?	z+C:AUumgeː
 C:	tʃ	voiceless post-alveolar sibilant affricate consonant	z+C:AUumgeː
 Grapheme	IPA	CLTS	Examples
-Is	?	?	Is
-U	?	?	z+C:AUumgeː
+Is	ɪ s	?	Is
+U	NULL	?	z+C:AUumgeː
 [	NULL	?	[djuː_sat], kijuːɻ_toːt_[kʲyːɻ], maːmas_paːnt͡ʃe_[päːnje]
 ]	NULL	?	[djuː_sat], kijuːɻ_toːt_[kʲyːɻ], maːmas_paːnt͡ʃe_[päːnje]
 _	+	?	[djuː_sat], abaw_aʒdaːd, abeːni_braː
-ʰl	ʰl	?	pit͡ʃ_ʰlag_pẽːɽ, pit͡ʃ_ʰlag_praː
+t͡ʃ_ʰ	tʃʰ l	?	pit͡ʃ_ʰlag_pẽːɽ, pit͡ʃ_ʰlag_praː
 a	a	unrounded open front vowel	[djuː_sat], a, aba
 ae	a e	from unrounded open front to unrounded close-mid front diphthong	awar_laem, awar_saem, aːiː_tarapeː_d͡ʒudulaem
 aeː	a eː	unrounded open front vowel	awar_laeː, aʈʰaeːʃ, aʈʰaeːʃu_biːʃ
@@ -229,7 +229,7 @@ t͡ʃː	tʃː	long voiceless post-alveolar sibilant affricate consonant	les_t͡�
 u	u	rounded close back vowel	abeːni_put, abeːni_ʒu, abu
 ua	u a	from rounded close back to unrounded open front diphthong	tuamisiː
 ue	u e	from rounded close back to unrounded close-mid front diphthong	agaːlaʃue_biːʃ, aːʈʰue_biːʃ, aːʈʰue_dubiʃ
-ui	u i	from rounded close back to unrounded close front diphthong	bubui_kata, duiʃi, duiʃo_aʂʈ
+ui	ui	from rounded close back to unrounded close front diphthong	bubui_kata, duiʃi, duiʃo_aʂʈ
 uiː	u iː	rounded close back vowel	duiː, nuiː, truiː
 uîː	u îː/iː	rounded close back vowel	buîː_namâː, buîː_zgijukmôː, buîː_zgijukpʰôː
 uĩ	u ĩ	rounded close back vowel	nuĩ
@@ -358,3 +358,4 @@ z̥	z̥	devoiced voiced alveolar sibilant fricative consonant	biz̥, jʉldəz̥
 χw	χ w	voiceless uvular fricative consonant	aχweː, də_lur_χwaːχeː, də_χwəleː_wroːr
 χʂ	χ ʂ	voiceless uvular fricative consonant	les_uχʂo, lewisto_uχʂo, usto_les_uχʂo
 χʃ	χ ʃ	voiceless uvular fricative consonant	juː_o_ɑːχʃɛ, lə_o_ɑːχʃɛ, t͡ʃəfiːr_o_ɑːχʃɛ
+dd͡ʒ	dʒː
