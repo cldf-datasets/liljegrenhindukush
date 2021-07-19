@@ -2,15 +2,14 @@ Grapheme	IPA	CLTS	Examples
 *	NULL	?	natriːn*
 +	NULL	?	z+C:AUumgeː
 ?	NULL	?	awər_?, kyjøŋ?, ɑːli_mambat͡sa?_maːʃiː
-A	?	?	z+C:AUumgeː
+A	NULL	?	z+C:AUumgeː
 C:	tʃ	voiceless post-alveolar sibilant affricate consonant	z+C:AUumgeː
-Grapheme	IPA	CLTS	Examples
-Is	?	?	Is
-U	?	?	z+C:AUumgeː
+Is	ɪ s	?	Is
+U	NULL	?	z+C:AUumgeː
 [	NULL	?	[djuː_sat], kijuːɻ_toːt_[kʲyːɻ], maːmas_paːnt͡ʃe_[päːnje]
 ]	NULL	?	[djuː_sat], kijuːɻ_toːt_[kʲyːɻ], maːmas_paːnt͡ʃe_[päːnje]
+^p͏ɛ	p ɛ
 _	+	?	[djuː_sat], abaw_aʒdaːd, abeːni_braː
-ʰl	ʰl	?	pit͡ʃ_ʰlag_pẽːɽ, pit͡ʃ_ʰlag_praː
 a	a	unrounded open front vowel	[djuː_sat], a, aba
 ae	a e	from unrounded open front to unrounded close-mid front diphthong	awar_laem, awar_saem, aːiː_tarapeː_d͡ʒudulaem
 aeː	a eː	unrounded open front vowel	awar_laeː, aʈʰaeːʃ, aʈʰaeːʃu_biːʃ
@@ -50,17 +49,21 @@ bw	bʷ	labialized voiced bilabial stop consonant	bwɑː, bwɑː_tarafeː_oːjɑ�
 bʑ	b ʑ	voiced bilabial stop consonant	bʑiː, hr̥t͡sa_bʑiː, t͡ɕubʑiː
 bʒ	b ʒ	from voiced bilabial stop to voiced post-alveolar sibilant fricative cluster	st͡sabʒi
 bʰ	bʰ	aspirated voiced bilabial stop consonant	abʰeːɳibabó, abʰeːɳijejí, abʰeːɳikuɳêːk
+bː	bː
 b̥	b̥	devoiced voiced bilabial stop consonant	aːb̥, iɕtʲub̥, kɑːb̥
 c	c	voiceless palatal stop consonant	candər_jiχə, candər_vrɑːj, juː_o_ɑːʃcɛ
 d	d	voiced alveolar stop consonant	[djuː_sat], abaw_aʒdaːd, abawaʒdaːt
 dd	dː	voiced alveolar stop consonant	hoːvddɑːs
+dd͡ʒ	dʒː
 dw	d w	labialized voiced alveolar stop consonant	dwa, dwa_sawa, dwadeːrʃ
 dʑ	dʑ	voiced alveolo-palatal sibilant affricate consonant	budʑ, budʑil, budʑuːg
 dʑʰ	dʑʰ	aspirated voiced alveolo-palatal sibilant affricate consonant	dʑʰaŋgaːr, dʑʰĩː, dʑʰũː
+dʑː	dʑː
 dʒ	dʒ	voiced post-alveolar sibilant affricate consonant	dʒidʒi, dʒigar, dʒigaːr
 dʰ	dʰ	aspirated voiced alveolar stop consonant	baːpki_dʰiː, bʰeɳdʰǐː, bʰradʰǐː
 dʲ	dʲ	palatalized voiced alveolar stop consonant	ləkɨɽ_dɨːdʲ
 dː	dː	long voiced alveolar stop consonant	didːeː
+d̥	d̥
 d͡z	dz	voiced alveolar sibilant affricate consonant	d͡zalik_jaχ, d͡zaq_bet͡ʃ, d͡zaq_nan
 d͡ʑ	dʑ	voiced alveolo-palatal sibilant affricate consonant	biːɕiː_ʑe_daɕ_ʑe_poːnd͡ʑa, biːɕiː_ʑe_poːnd͡ʑ, daɕ_ʑe_poːnd͡ʑa
 d͡ʒ	dʒ	voiced post-alveolar sibilant affricate consonant	ad͡ʒda, ad͡ʒdaːd, ad͡ʒdod
@@ -223,13 +226,14 @@ t͡sʰ	tsʰ	aspirated voiceless alveolar sibilant affricate consonant	alto_altʰ
 t͡ɕ	tɕ	voiceless alveolo-palatal sibilant affricate consonant	alto_altʰer_hun_t͡ɕo, altu_altʰar_hun_t͡ɕo, altʰar_hun_t͡ɕo
 t͡ɕʰ	tɕʰ	aspirated voiceless alveolo-palatal sibilant affricate consonant	áta_t͡ɕʰoʁó, áŋo_t͡ɕʰoʁó, môːmo_t͡ɕʰoʁó
 t͡ʃ	tʃ	voiceless post-alveolar sibilant affricate consonant	almant͡ʃɑː_aməɻwaj, ama_mit͡ʃikʰani_at͡ʃʰeː, ama_mit͡ʃikʰani_kaːkaː
+t͡ʃ_ʰ	tʃʰ l	?	pit͡ʃ_ʰlag_pẽːɽ, pit͡ʃ_ʰlag_praː
 t͡ʃw	tʃ w	voiceless alveolar stop consonant	punt͡ʃwiʃi, punt͡ʃwiʃije_doːʃi, punt͡ʃwiʃije_wiʃi
 t͡ʃʰ	tʃʰ	aspirated voiceless post-alveolar sibilant affricate consonant	abat͡ʃʰenmo, ama_mit͡ʃikʰani_at͡ʃʰeː, amaːt͡ʃʰoː
 t͡ʃː	tʃː	long voiceless post-alveolar sibilant affricate consonant	les_t͡ʃːiːr, lewisto_t͡ʃːiːr, t͡ʃːiːr
 u	u	rounded close back vowel	abeːni_put, abeːni_ʒu, abu
 ua	u a	from rounded close back to unrounded open front diphthong	tuamisiː
 ue	u e	from rounded close back to unrounded close-mid front diphthong	agaːlaʃue_biːʃ, aːʈʰue_biːʃ, aːʈʰue_dubiʃ
-ui	u i	from rounded close back to unrounded close front diphthong	bubui_kata, duiʃi, duiʃo_aʂʈ
+ui	ui	from rounded close back to unrounded close front diphthong	bubui_kata, duiʃi, duiʃo_aʂʈ
 uiː	u iː	rounded close back vowel	duiː, nuiː, truiː
 uîː	u îː/iː	rounded close back vowel	buîː_namâː, buîː_zgijukmôː, buîː_zgijukpʰôː
 uĩ	u ĩ	rounded close back vowel	nuĩ
@@ -265,21 +269,27 @@ zw	z w	labialized voiced alveolar sibilant fricative consonant	maːmaː_zweː, m
 zʰ	zʰ	aspirated voiced alveolar sibilant fricative consonant	mʰal_zʰaː_bʰijũː, sazʰiːɽʰ, sazʰuːɽʰ
 zʲ	zʲ	palatalized voiced alveolar sibilant fricative consonant	zʲeo, zʲew, zʲuʈʰ
 z̥	z̥	devoiced voiced alveolar sibilant fricative consonant	biz̥, jʉldəz̥
-ã	ã	nasalized unrounded open front vowel	ãʈi
 äː	äː	long centralized unrounded open front vowel	maːmas_paːnt͡ʃe_[päːnje]
 æ	æ	unrounded near-open front vowel	biʒi_buːdæʃ, biʒi_pændæʃ, biʒi_quːdæʃ
 æː	æː	long unrounded near-open front vowel	hæːd, kərijæːla, kərijæːli
+æ̃ː	æ̃ː
+ɔ̃ː	ɔ̃ː
+ŋː	ŋː
+ɪː	ɪː
+tɕː	tsː
+zː	zː
+ɕː	ɕː
+gː	gː
 ç	ç	voiceless palatal sibilant fricative consonant	juː_o_çiraj, juː_o_çiraj_siferiː, lə_o_çiraj
-í	í/i	?	moːlí, pitrí
 ð	ð	voiced dental fricative consonant	buː_bistet_ðas, buː_wiste_ðas, buː_wiste_ɕaːð
 ø	ø	rounded close-mid front vowel	amaː_ba_duʃʈøg, beløm, biʒi_trøbæʃ
 øː	øː	long rounded close-mid front vowel	barøː, bjøː, køːrgøn
-ú	ú/u	?	bʰeɳipútr, bʰrapútr
 ħ	ħ	voiceless pharyngeal fricative consonant	les_loħ, lewisto_loħ, loħ
 ŋ	ŋ	voiced velar nasal consonant	apaŋ, apí_áŋo, ariːŋ
 ŋs	ŋ s	voiced velar nasal consonant	gjanaŋst͡ʃu
 ŋw	ŋ w	voiced velar nasal consonant	áŋweː_apí, boŋwêː_zgijukmôː, boŋwêː_zgijukpʰôː
 ŋŋ	ŋː	voiced velar nasal consonant	ʒaŋŋa
+œ	œ
 ɑ	ɑ	unrounded open back vowel	anbɑʁ, apɑχt, bɑd͡ʒa
 ɑː	ɑː	long unrounded open back vowel	ad͡ʒdɑːd, aftɑːd, almant͡ʃɑː_aməɻwaj
 ɑːe	ɑː e	unrounded open back vowel	mɑːmɑːestam_zajbiː, pɑːegɑː_bandɑː
@@ -294,8 +304,10 @@ z̥	z̥	devoiced voiced alveolar sibilant fricative consonant	biz̥, jʉldəz̥
 ɔ̃	ɔ̃	nasalized rounded open-mid back vowel	kɔ̃nʲ
 ɔ̃˞	ɔ̃˞	rounded open-mid back vowel	kɔ̃˞, kɔ̃˞_karik, pɔ̃˞
 ɕ	ɕ	voiceless alveolo-palatal sibilant fricative consonant	alto_altʰer_miɕindo, altu_altʰar_miɕindo, altʰar_miɕindo
+ɕʲ	ɕʲ
 ɖ	ɖ	voiced retroflex stop consonant	awar_oːjɑː_oːjɖək, awar_oːjɖək_ɑːw_awar_oːjɑː, awliː_buɖiː
 ɖʐ	ɖʐ	voiced retroflex sibilant affricate consonant	ɖʐu, ɖʐũ
+ɖʐʰ	ɖʐʰ
 ɖʰ	ɖʰ	aspirated voiced retroflex stop consonant	ɖʰaːkuː, ɖʰeŋk_kuɕuruk
 ɖ͡ʐ	ɖʐ	voiced retroflex sibilant affricate consonant	aːwara_ɖ͡ʐaː, baɽuː_ɖ͡ʐaː, maŋgeːtu_ɖ͡ʐaː
 ɖ͡ʐʰ	ɖʐʰ	aspirated voiced retroflex sibilant affricate consonant	gʰa͡ẽr_ɖ͡ʐʰũː, mireː_so_ɖ͡ʐʰũː, mʰal_zoː_ɖ͡ʐʰũː
@@ -303,8 +315,10 @@ z̥	z̥	devoiced voiced alveolar sibilant fricative consonant	biz̥, jʉldəz̥
 əi	ə i	from unrounded mid central to unrounded close front diphthong	wəiʃ
 əː	əː	long unrounded mid central vowel	aktəːd͡ʒi, artəːd͡ʒih, biːstə_dəː
 ə̃	ə̃	nasalized unrounded mid central vowel	hʲə̃ŋg, ɑːmətsə̃, ʃə̃ŋ
+ə̥	ə̥/ə
 ə̰	ə̰	creaky unrounded mid central vowel	piːstə̰
 ɛ	ɛ	unrounded open-mid front vowel	awstɛ, aːdɛm, aːtɕɛ
+ɛ:	ɛː
 ɛː	ɛː	long unrounded open-mid front vowel	aɖukɛː, bɛːrg, daːte_trɛː_biː
 ɛ̃ː	ɛ̃ː	long nasalized unrounded open-mid front vowel	mɛ̃ːtɕ
 ɛ̤	ɛ̤	breathy unrounded open-mid front vowel	lɛ̤j
@@ -312,6 +326,7 @@ z̥	z̥	devoiced voiced alveolar sibilant fricative consonant	biz̥, jʉldəz̥
 ɡ	g	voiced velar stop consonant	hẽŋɡ, lôːɡi̥_dǐː, lôːɡi̥_mã̌ː
 ɣ	ɣ	voiced velar fricative consonant	amak_ɣin, anəɣ, atəɣ
 ɣw	ɣ w	voiced velar fricative consonant	ɣwag
+ɦ	ɦ
 ɨ	ɨ	unrounded close central vowel	aktrɨh, aktɨd͡ʒih, akʰtaːbɨ
 ɨː	ɨː	long unrounded close central vowel	asɨː, buː_bistet_t͡səbɨːr, buː_bistet_ɨːb
 ɪ	ɪ	unrounded near-close near-front vowel	arɪk, aːdɪmi, baːʁɪr
@@ -329,6 +344,7 @@ z̥	z̥	devoiced voiced alveolar sibilant fricative consonant	biz̥, jʉldəz̥
 ɻw	ɻ w	voiced retroflex approximant consonant	almant͡ʃɑː_aməɻwaj
 ɽ	ɽ	voiced retroflex tap consonant	amaj_maːɽ, andəriː_bɽuːjə, andəriː_bɽuːjə_mɑːdəriː
 ɽʰ	ɽʰ	aspirated voiced retroflex tap consonant	apijãː_kuɽʰ, deːheːɽʰ, faːfiːɽʰ_saz
+ɽ̥	ɽ̥
 ʁ	ʁ	voiced uvular fricative consonant	amaj_wədəʁd, amak_wədəʁd, amani_wuʁli
 ʁw	ʁ w	voiced uvular fricative consonant	ʁwag, ʁwər_nikə, ʁwəra_nijaː
 ʂ	ʂ	voiceless retroflex sibilant fricative consonant	amupuʂ, amuːpuʂ, aʂ
@@ -345,13 +361,16 @@ z̥	z̥	devoiced voiced alveolar sibilant fricative consonant	biz̥, jʉldəz̥
 ʉ	ʉ	rounded close central vowel	jʉldəz̥, kutsʉrə, kʉl
 ʉː	ʉː	long rounded close central vowel	jʉː, pʉːst, sʉːri
 ʊ	ʊ	rounded near-close near-back vowel	kʊta, kʊtɕur, kʊʈʰ
+ʏ	ʏ
 ʐ	ʐ	voiced retroflex sibilant fricative consonant	baɽu_ʐaː, báɽu̥_ʐâː, d͡ʑaʐáh
 ʐʰ	ʐʰ	voiced retroflex sibilant fricative consonant	diniː_ʐʰaː, gʰarijãː_ʐʰaː, gʰarĩː_ʐʰaːzaj
 ʑ	ʑ	voiced alveolo-palatal sibilant fricative consonant	biːɕiː_ʑe_ãʂʈ, biːɕiː_ʑe_daɕ, biːɕiː_ʑe_daɕ_ʑe_ãːʂʈa
 ʑw	ʑ w	voiced alveolo-palatal sibilant fricative consonant	ʑwaː
+ʑː	ʑː
 ʒ	ʒ	voiced post-alveolar sibilant fricative consonant	abaw_aʒdaːd, abawaʒdaːt, abeːni_ʒu
 ʔ	ʔ	voiceless glottal stop consonant	bãːʔn̥, raʔis
 ʕ	ʕ	voiced pharyngeal fricative consonant	bat͡ʃaj_ʕama, duχtari_ʕama, nan_uːʕah
+ʝ	ʝ
 θ	θ	voiceless dental fricative consonant	isθa, nosθə, təɽusθə
 χ	χ	voiceless uvular fricative consonant	adaːk_aχpəl_wom, ama_zuːs_uduχt, amaχ
 χs	χ s	voiceless uvular fricative consonant	awχstəm_muːʃijɑː, baχspa, baχspah
