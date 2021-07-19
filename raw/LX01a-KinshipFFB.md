@@ -5,15 +5,15 @@ kinship term used for referring to an anchor’s father (F) is also used
 for referring to a father’s brother (FB). Usually, that is done by
 adding a modifying ‘big’ for a paternal uncle that is older than the
 anchor’s father, and ‘little’ for a paternal uncle that is younger. This
-pattern occurs in Tibeto-Burman Balti, as can be seen in ‎(1).
+pattern occurs in Balti, as can be seen in ‎(1).
 
 (1) <span id="_Ref12343426" class="anchor"></span>Balti
-    \[bft\] (Tibeto-Burman)
+    \[bft\] (Sino-Tibetan)
 
-| a.  | ata           | ‘father’ (BFT-KinHS:001)                                           |
-|-----|---------------|--------------------------------------------------------------------|
-| b.  | ata tɕʰoʁo    | ‘father’s older brother’ \[lit. big father\] (BFT- KinHS:022)      |
-| c.  | ata tsʰuntseː | ‘father’s younger brother’ \[lit. little father\] (BFT- KinHS:023) |
+| a.  | ata           | ‘father’ (BFT-Kin-HS:001)                                           |
+|-----|---------------|---------------------------------------------------------------------|
+| b.  | ata tɕʰoʁo    | ‘father’s older brother’ \[lit. big father\] (BFT- Kin-HS:022)      |
+| c.  | ata tsʰuntseː | ‘father’s younger brother’ \[lit. little father\] (BFT- Kin-HS:023) |
 
 The feature occurs in approximately a third of the sample, essentially
 in a central belt stretching through the geographical core of the region

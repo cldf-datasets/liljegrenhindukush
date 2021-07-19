@@ -1,46 +1,48 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
-    "aboutUrl": null,
+    "aboutUrl": "https://hindukush.clld.org/about",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:description": "The wordlist is mainly generated from the processed wordlists that were\npart of the elicitation package (see Project design and data\ncollection). That is reflected in the category labels: ASJPlist, Kinship\nand Numerals.\n\nSelecting an item gives you a) a map of the region with the languages\nplotted and a label displaying a transcription for each language, b) a\nlist displaying the languages alphabetically with the transcribed item\nfor each. For a subset of the items, audio recordings are linked.\n\nWe have aimed at providing a broad phonetic transcription of each item,\nusing the International Phonetic Alphabet. While it is our intention to\ngive each item an accurate written representation, the primary objective\nwas not to represent phonemes or to consistently reflect\nlanguage-internal phonological contrasts.\n\nElicitation of kinship terms turned out to be particularly challenging.\nAlthough conscious efforts were made to carefully explain and guide the\nconsultants prior to the recording sessions, we are aware that some of\nthe terms listed, in a few of the languages, most likely are explanatory\nterms rather than reference terms actually used in the local community.\n",
     "dc:format": [
         "http://concepticon.clld.org/contributions/Holman-2008-40"
     ],
-    "dc:identifier": "https://hindukush.ling.su.se/",
+    "dc:identifier": "https://hindukush.clld.org/",
     "dc:isVersionOf": null,
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Language Contact and Relatedness in the Hindukush Region",
+    "dc:title": "Hindu Kush Areal Typology",
     "dcat:accessURL": "https://github.com/cldf-datasets/liljegrenhindukush",
     "prov:wasDerivedFrom": [
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/liljegrenhindukush",
-            "dc:created": "a698c17"
+            "rdf:type": "prov:Entity",
+            "dc:created": "79560bf",
+            "dc:title": "Repository"
         },
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.2.1-7-g35d84acf81"
+            "rdf:type": "prov:Entity",
+            "dc:created": "v4.4",
+            "dc:title": "Glottolog"
         },
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0"
+            "rdf:type": "prov:Entity",
+            "dc:created": "v2.5.0",
+            "dc:title": "Concepticon"
         },
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts/",
-            "dc:created": "v1.4-3-g99e4218"
+            "rdf:type": "prov:Entity",
+            "dc:created": "v2.0.0",
+            "dc:title": "CLTS"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.5"
+            "dc:description": "3.9.6"
         },
         {
             "dc:title": "python-packages",
@@ -55,7 +57,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 11583,
+            "dc:extent": 10222,
             "tableSchema": {
                 "columns": [
                     {
@@ -210,8 +212,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": -90,
-                            "maximum": 90
+                            "minimum": "-90",
+                            "maximum": "90"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
                         "required": false,
@@ -220,8 +222,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": -180,
-                            "maximum": 180
+                            "minimum": "-180",
+                            "maximum": "180"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
                         "required": false,
@@ -256,7 +258,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 194,
+            "dc:extent": 169,
             "tableSchema": {
                 "columns": [
                     {

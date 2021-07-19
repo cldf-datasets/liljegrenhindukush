@@ -12,11 +12,11 @@ affricates, as shown in (1).
 (1) <span id="_Ref12343426" class="anchor"></span>Hunza Burushaski
     \[bsk(h)\] (isolate)
 
-| a.  | /ʈʂop/   | ‘jumping’ (BSKh-ValQuestSK:052) |
-|-----|----------|---------------------------------|
-| b.  | /ʂimi/   | ‘ate’ (BSKh-ValQuestSK:001)     |
-| c.  | /tsaːp/  | ‘touch’ (BSKh-ValQuestSK:029)   |
-| d.  | /huntɕo/ | ‘nine’ (BSKh-NumSK:009)         |
+| a.  | /ʈʂop/   | ‘jumping’ (BSKh-Val-SK:052) |
+|-----|----------|-----------------------------|
+| b.  | /ʂimi/   | ‘ate’ (BSKh-Val-SK:001)     |
+| c.  | /tsaːp/  | ‘touch’ (BSKh-Val-SK:029)   |
+| d.  | /huntɕo/ | ‘nine’ (BSKh-Num-SK:009)    |
 
 While the presence of retroflex affricates is not a majority feature in
 the region in general, it is a strongly subareal feature. All of the

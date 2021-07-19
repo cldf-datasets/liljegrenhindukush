@@ -39,13 +39,12 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,domain
 38,louse,1392,LOUSE,
 39,skin,763,SKIN,
 40,you,1215,THOU,
-Kinship-father,Father,1217,FATHER,Kinship
-Kinship-mother,Mother,,,Kinship
-Kinship-parent,Parent,,,Kinship
-Kinship-son,Son,,,Kinship
-Kinship-daughter,Daughter,,,Kinship
-Kinship-ownchild,(own) child,,,Kinship
-Kinship-brother,Brother,,,Kinship
+Kinship-father,father,1217,FATHER,Kinship
+Kinship-mother,mother,,,Kinship
+Kinship-parent,parent,,,Kinship
+Kinship-son,son,,,Kinship
+Kinship-daughter,daughter,,,Kinship
+Kinship-brother,brother,,,Kinship
 Kinship-sister,sister,,,Kinship
 Kinship-olderbrother,older brother,,,Kinship
 Kinship-youngerbrother,younger brother,,,Kinship
@@ -96,23 +95,7 @@ Kinship-husbandsbrother,husband’s brother,,,Kinship
 Kinship-husbandssister,husband’s sister,,,Kinship
 Kinship-wifesbrother,wife’s brother,,,Kinship
 Kinship-wifessister,wife’s sister,,,Kinship
-Kinship-husbandsbrotherswife,husband’s brother’s wife,,,Kinship
-Kinship-husbandssistershusband,husband’s sister’s husband,,,Kinship
-Kinship-wifesbrotherswife,wife’s brother’s wife,,,Kinship
-Kinship-wifessistershusband,wife’s sister’s husband,,,Kinship
 Kinship-cowife,co-wife,,,Kinship
-Kinship-sonswifesfather,son’s wife’s father,,,Kinship
-Kinship-sonswifesmother,son’s wife’s mother,,,Kinship
-Kinship-daughtershusbandsfather,daughter’s husband’s father,,,Kinship
-Kinship-daughtershusbandsmother,daughter’s husband’s mother,,,Kinship
-Kinship-stepsisternosharedparent,stepsister (no shared parent),,,Kinship
-Kinship-stepbrothernosharedparent,stepbrother (no shared parent),,,Kinship
-Kinship-stepmother,stepmother,236,STEPMOTHER,Kinship
-Kinship-stepfather,stepfather,237,STEPFATHER,Kinship
-Kinship-stepson,stepson,1059,STEPSON,Kinship
-Kinship-stepdaughter,stepdaughter,1058,STEPDAUGHTER,Kinship
-Kinship-fathersfathersfather,father’s father’s father,,,Kinship
-Kinship-mothersmothersmother,mother’s mother’s mother,,,Kinship
 Kinship-forefather,forefather,,,Kinship
 Kinship-foremother,foremother,,,Kinship
 Kinship-fathersbrothersson,father’s brother’s son,,,Kinship
@@ -124,16 +107,8 @@ Kinship-mothersbrothersdaughter,mother’s brother’s daughter,,,Kinship
 Kinship-motherssistersson,mother’s sister’s son,,,Kinship
 Kinship-motherssistersdaughter,mother’s sister’s daughter,,,Kinship
 Kinship-relative,relative,,,Kinship
-Kinship-affinalrelative,affinal relative,,,Kinship
-Kinship-bloodrelative,blood relative,,,Kinship
 Kinship-wifesrelatives,wife’s relative(s),,,Kinship
 Kinship-headofhousehold,head of household,,,Kinship
-Kinship-headofclan,head of clan,,,Kinship
-Kinship-headoftribe,head of tribe,,,Kinship
-Kinship-halfsistersamefatherdifferentmother,"halfsister (same father, different mother)",,,Kinship
-Kinship-halfbrothersamefatherdifferentmother,"halfbrother (same father, different mother)",,,Kinship
-Kinship-halfsistersamemotherdifferentfather,"halfsister (same mother, different father)",,,Kinship
-Kinship-halfbrothersamemotherdifferentfather,"halfbrother (same mother, different father)",,,Kinship
 Numerals-1,1,1493,ONE,Numerals
 Numerals-2,2,1498,TWO,Numerals
 Numerals-3,3,492,THREE,Numerals

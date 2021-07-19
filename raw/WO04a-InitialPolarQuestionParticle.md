@@ -12,18 +12,18 @@ into the language.
 (1) <span id="_Ref531867975" class="anchor"></span>Gojri, Afghanistan
     \[gju(a)\] (Indo-Aryan)
 
-| **aːjaː **                                      | jeː  | tiːr-iː                                                   | kitaːb                                                | heː.                                                     |
+| **aːjaː **                                      | jeː  | tiːr-iː                                                   | kitaːb                                                | heː                                                      |
 |-------------------------------------------------|------|-----------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------|
 | <span style="font-variant:small-caps;">q</span> | this | <span style="font-variant:small-caps;">2sg.gen-fsg</span> | book(<span style="font-variant:small-caps;">f</span>) | be.<span style="font-variant:small-caps;">prs.3sg</span> |
-| ‘Is this your book?’ (GJUa-DemAQ:004a)          |
+| ‘Is this your book?’ (GJUa-Dem-AQ:004a)         |
 
 (1) <span id="_Ref50635735" class="anchor"></span>Gojri, Pakistan
     \[gju(p)\] (Indo-Aryan)
 
-| ju                                     | te:r-u                                                    | ba:l                                                  | he.                                                      |     |
-|----------------------------------------|-----------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------|-----|
-| that                                   | <span style="font-variant:small-caps;">2sg.gen-msg</span> | ball(<span style="font-variant:small-caps;">m</span>) | be.<span style="font-variant:small-caps;">prs.3sg</span> |     |
-| ‘Is that your ball?’ (GJUp-DemRN:005a) |
+| ju                                      | te:r-u                                                    | ba:l                                                  | he                                                       |     |
+|-----------------------------------------|-----------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------|-----|
+| that                                    | <span style="font-variant:small-caps;">2sg.gen-msg</span> | ball(<span style="font-variant:small-caps;">m</span>) | be.<span style="font-variant:small-caps;">prs.3sg</span> |     |
+| ‘Is that your ball?’ (GJUp-Dem-RN:005a) |
 
 Approximately a third of the languages in the sample use initial polar
 question markers. These represent Indo-Aryan, Nuristani, Iranian, and

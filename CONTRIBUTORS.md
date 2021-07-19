@@ -2,4 +2,8 @@
 
 Name | GitHub user | Role
 --- | --- | ---
- | @ | maintainer
+Henrk Liljegren |  | author
+Robert Forkel | @xrotwang | maintainer
+Nina Knobloch | | author
+Noa Lange | | author
+

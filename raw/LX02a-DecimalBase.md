@@ -21,15 +21,15 @@ from some of its closest relatives that apply a vigesimal system.
 (1) <span id="_Ref12343426" class="anchor"></span>Sanjan Pashai
     \[glh(sn)\] (Indo-Aryan)
 
-| ‘6’  | ʂe         | lower numeral n=6     | ‘46’  | tɕele ʂe     | 4x(10)+6               |
+| ‘6’  | ʂɛ         | lower numeral n=6     | ‘46’  | tɕele ʂɛ     | 4x(10)+6               |
 |------|------------|-----------------------|-------|--------------|------------------------|
 | ‘10’ | *dɑː*      | decimal base 10       | ‘50’  | *pendʑɑː*    | 5x(10)                 |
-| ‘16’ | *ʂuj*      | n+(10)                | ‘60’  | *ɕaːst*      | 6x(10)                 |
+| ‘16’ | *ʂuj*      | n+(10)                | ‘60’  | *ɕæːst*      | 6x(10)                 |
 | ‘20’ | *wəst*     | non-derived lexeme 20 | ‘70’  | *haːftɑːd*   | 7x(10)                 |
-| ‘26’ | *wəstə ʂe* | 20+6                  | ‘80’  | *haːʃtɑːd*   | 8x(10)                 |
+| ‘26’ | *wəstə ʂɛ* | 20+6                  | ‘80’  | *haːɕtɑːd*   | 8x(10)                 |
 | ‘30’ | *triju*    | 3x(10)                | ‘90’  | *nawad*      | 9x(10)                 |
-| ‘36’ | *triju ʂe* | 3x(10)+6              | ‘100’ | *sad*        | non-derived lexeme 100 |
-| ‘40’ | *tɕel*     | 4x(10)                | ‘110’ | *iː sadu da* | 1x100+10               |
+| ‘36’ | *triju ʂɛ* | 3x(10)+6              | ‘100’ | *sad*        | non-derived lexeme 100 |
+| ‘40’ | *tɕel*     | 4x(10)                | ‘110’ | *iː sadu dɛ* | 1x100+10               |
 
 A decimal base is present in approximately a third of the sample,
 essentially in its peripheral western and southern parts.

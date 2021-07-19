@@ -5,47 +5,49 @@
             "@language": "en"
         }
     ],
-    "aboutUrl": null,
+    "aboutUrl": "https://hindukush.clld.org/about",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
+    "dc:description": "A feature, as the term is used here, is a structural property of a\nlanguage. A conscious choice was made to define features binary. That\nmeans that a given language is classified as either displaying a\nparticular feature (having the value=1) or that the feature is absent\n(having the value=0) as far as the present data set is concerned. In\nsome cases, for instance when conclusive data is missing, it is marked\nas indeterminate.\n\nOur features are not meant to reflect all possible language properties.\nInstead they have been chosen, a) to represent areally relevant\nfeatures, and b) to cover different parts of the language system (hence\ndistributed across five macro-categories: Clause structure, Grammatical\ncategories, Lexicon, Phonology and Word order). The choice of features\nto include is also constrained by our present, and relatively limited,\ndata set.\n\nEach feature presentation contains: 1. A table showing the number of\nsample languages displaying the feature, the number of languages in\nwhich it is absent, and the number of languages for which the feature\nvalue is indeterminate. 2. A map showing the geographical distribution\nof feature values across the region. 3. A short prose description of the\nfeature as it occurs in the region, accompanied by one or more\nillustrative examples drawn from the data set.\n\nData references are given in the following way: Sample language-Data\ncomponent-Language consultant:Item number. The reference HNO-Val-RH:061\nshould for instance be read as Hindko language data, provided by a\nconsultant given the identifier RH, related to item number 061 in the\nValency Questionnaire. Most of the data used in the feature descriptions\nbelong to one of the seven components listed (along with their\nabbreviations) in Project design and data collection.\n\nThe abbreviations in the interlinear glossing are to a large extent\nstandard abbreviations according to the Leipzig Glossing Rules.\nAdditional abbreviations are listed below.\n\n| AN   | animate                  |\n|------|--------------------------|\n| CONJ | conjunction              |\n| EMPH | emphatic                 |\n| EQ   | equative copula          |\n| ESS  | essive                   |\n| EX   | existential copula       |\n| HF   | human feminine (gender)  |\n| HM   | human masculine (gender) |\n| INAN | inanimate                |\n| MED  | medial (distance)        |\n| R    | recipient (argument)     |\n| T    | theme (argument)         |\n| V    | verb                     |\n| X    | x (non-human gender)     |\n| Y    | y (non-human gender)     |\n\n\n",
     "dc:format": [
         "http://concepticon.clld.org/contributions/Holman-2008-40"
     ],
-    "dc:identifier": "https://hindukush.ling.su.se/",
+    "dc:identifier": "https://hindukush.clld.org/",
     "dc:isVersionOf": null,
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Language Contact and Relatedness in the Hindukush Region",
+    "dc:title": "Hindu Kush Areal Typology",
     "dcat:accessURL": "https://github.com/cldf-datasets/liljegrenhindukush",
     "prov:wasDerivedFrom": [
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/liljegrenhindukush",
-            "dc:created": "a698c17"
+            "rdf:type": "prov:Entity",
+            "dc:created": "79560bf",
+            "dc:title": "Repository"
         },
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.2.1-7-g35d84acf81"
+            "rdf:type": "prov:Entity",
+            "dc:created": "v4.4",
+            "dc:title": "Glottolog"
         },
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0"
+            "rdf:type": "prov:Entity",
+            "dc:created": "v2.5.0",
+            "dc:title": "Concepticon"
         },
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts/",
-            "dc:created": "v1.4-3-g99e4218"
+            "rdf:type": "prov:Entity",
+            "dc:created": "v2.0.0",
+            "dc:title": "CLTS"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.5"
+            "dc:description": "3.9.6"
         },
         {
             "dc:title": "python-packages",
@@ -60,6 +62,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
+            "dc:extent": 4720,
             "tableSchema": {
                 "columns": [
                     {
@@ -72,18 +75,21 @@
                         "name": "ID"
                     },
                     {
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
                         "required": true,
                         "name": "Language_ID"
                     },
                     {
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#parameterReference",
                         "required": true,
                         "name": "Parameter_ID"
                     },
                     {
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
                         "null": [
                             "?",
@@ -94,6 +100,7 @@
                         "name": "Value"
                     },
                     {
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#codeReference",
                         "required": false,
@@ -124,6 +131,28 @@
                                 "ID"
                             ]
                         }
+                    },
+                    {
+                        "columnReference": [
+                            "Language_ID"
+                        ],
+                        "reference": {
+                            "resource": "languages.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Code_ID"
+                        ],
+                        "reference": {
+                            "resource": "codes.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
                     }
                 ],
                 "primaryKey": [
@@ -134,6 +163,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
+            "dc:extent": 80,
             "tableSchema": {
                 "columns": [
                     {
@@ -156,6 +186,10 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
                         "required": false,
                         "name": "Description"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Category"
                     }
                 ],
                 "primaryKey": [
@@ -163,6 +197,142 @@
                 ]
             },
             "url": "features.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
+            "dc:extent": 59,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
+                        "valueUrl": "http://glottolog.org/resource/languoid/id/{glottolog_id}",
+                        "name": "Glottocode"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Glottolog_Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
+                        "name": "ISO639P3code"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#macroarea",
+                        "name": "Macroarea"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": "-90",
+                            "maximum": "90"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
+                        "required": false,
+                        "name": "Latitude"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": "-180",
+                            "maximum": "180"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
+                        "required": false,
+                        "name": "Longitude"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Family"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "SubGroup"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Location"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Elicitation"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Consultant"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "languages.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CodeTable",
+            "dc:extent": 240,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "dc:description": "The parameter or variable the code belongs to.",
+                        "dc:extent": "singlevalued",
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#parameterReference",
+                        "required": true,
+                        "name": "Parameter_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "required": false,
+                        "name": "Description"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Parameter_ID"
+                        ],
+                        "reference": {
+                            "resource": "features.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "codes.csv"
         }
     ]
 }

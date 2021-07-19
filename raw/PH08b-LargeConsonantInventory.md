@@ -12,11 +12,11 @@ results with earlier phonological analyses, suggests that many of the
 inventories coming out with a negative value, in fact would be
 classified as large if taking more lexical data into account. An
 inventory, using the above-mentioned method, representative of the value
-large is that of Iranian Wakhi (Pakistan), as displayed in the table,
-with its 31 consonants. (The apparent gaps, e.g. missing voiceless
-counterparts of voiced consonants, suggest that a few additional
-consonants occur in the language, as also confirmed in earlier analysis,
-in which as many as 35-36 consonant phonemes have been posited.)
+large is that of Pakistani Wakhi, as displayed in the table, with its 31
+consonants. (The apparent gaps, e.g. missing voiceless counterparts of
+voiced consonants, suggest that a few additional consonants occur in the
+language, as also confirmed in earlier analysis, in which as many as
+35-36 consonant phonemes have been posited.)
 
 | **Wakhi, Pakistan \[wbl(p)\] (Iranian)** | **Labial** | **Dental** | **Retroflex** | **Palatal** | **Velar** | **Post-velar** |
 |------------------------------------------|------------|------------|---------------|-------------|-----------|----------------|

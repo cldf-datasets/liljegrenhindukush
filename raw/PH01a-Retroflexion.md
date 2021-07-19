@@ -9,11 +9,11 @@ presence of a very specific tongue shape. For some of the languages, and
 for some of the subsets, the contrast is probably better described as
 apical (or subapical) vs laminal pronunciation.
 
-The inventory of Indo-Aryan Khowar has eight retroflex (or apical
-post-alveolar) consonants (plosive, affricate and fricative),
-contrasting on the one had with dental/alveolar and on the other with
-laminal post-alveolar consonants. Some examples of words in Khowar
-containing retroflex sounds are displayed in ‎(1).
+The inventory of Khowar has eight retroflex (or apical post-alveolar)
+consonants (plosive, affricate and fricative), contrasting on the one
+had with dental/alveolar and on the other with laminal post-alveolar
+consonants. Some examples of words in Khowar containing retroflex sounds
+are displayed in ‎(1).
 
 | **Khowar \[khw\]** | **Dental/alveolar** | **Retroflex (apical)** | **Post-alveolar (laminal)** |
 |--------------------|---------------------|------------------------|-----------------------------|
@@ -26,10 +26,10 @@ containing retroflex sounds are displayed in ‎(1).
 (1) <span id="_Ref12343426" class="anchor"></span>Khowar
     \[khw\] (Indo-Aryan)
 
-| a.  | /ʈip/   | ‘full’ (KHW-40listAA:018)   |
-|-----|---------|-----------------------------|
-| b.  | /ʈʂʰan/ | ‘leaf’ (KHW-40listAA:012)   |
-| c.  | /uʂak/  | ‘cold’ (KHW-ValQuestAA:060) |
+| a.  | /ʈip/   | ‘full’ (KHW-40list-AA:012) |
+|-----|---------|----------------------------|
+| b.  | /ʈʂʰan/ | ‘leaf’ (KHW-40list-AA:018) |
+| c.  | /uʂak/  | ‘cold’ (KHW-Val-AA:060)    |
 
 Retroflexion is a strongly areal feature, present in nearly all of the
 sample languages. Turkic is the only phylogenetic grouping in which this

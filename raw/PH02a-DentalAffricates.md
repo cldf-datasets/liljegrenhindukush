@@ -2,18 +2,18 @@ Dental Affricates
 
 The use of dental affricates contrasting with affricates with other
 places of articulation as well as with other dental sounds was
-investigated. The inventory of Iranian Wakhi of Pakistan contains a
-voiced dental affricate, as well as a palatal (or alveolo-palatal)
-affricate, a voiced dental fricative and a voiced interdental fricative,
-as shown in (1).
+investigated. The inventory of Wakhi of Pakistan contains a voiced
+dental affricate, as well as a palatal (or alveolo-palatal) affricate, a
+voiced dental fricative and a voiced interdental fricative, as shown in
+(1).
 
 \(1) Wakhi, Pakistan \[wbl(p)\] (Iranian)
 
-| a.  | /dzaq/   | ‘small’ (WBLp-KinEK:010)     |
-|-----|----------|------------------------------|
-| b.  | /dʑɨmat/ | ‘wife’ (WBLp-KinSA:038)      |
-| c.  | /zik/    | ‘tongue’ (WBLp-40listEK:034) |
-| d.  | /ðas/    | ‘ten’ (WBLp-NumEK:010)       |
+| a.  | /dzaq/   | ‘small’ (WBLp-Kin-AK:010)     |
+|-----|----------|-------------------------------|
+| b.  | /dɕɨmat/ | ‘wife’ (WBLp-Kin-SU:038)      |
+| c.  | /zik/    | ‘tongue’ (WBLp-40list-AK:034) |
+| d.  | /ðas/    | ‘ten’ (WBLp-Num-AK:010)       |
 
 The presence of dental affricates is a strongly areal features, absent
 only in about a fifth of the sample languages. The feature is present in
