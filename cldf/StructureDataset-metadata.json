@@ -23,31 +23,31 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/liljegrenhindukush",
-            "dc:created": "654298c"
+            "dc:created": "v1.0-1-g5aae47b"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.3"
+            "dc:created": "v4.5"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0"
+            "dc:created": "v2.6.0"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts",
-            "dc:created": "v1.4"
+            "dc:created": "v2.1.0-33-g2c6e122"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.6.12"
+            "dc:description": "3.8.10"
         },
         {
             "dc:title": "python-packages",
@@ -75,18 +75,21 @@
                         "name": "ID"
                     },
                     {
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
                         "required": true,
                         "name": "Language_ID"
                     },
                     {
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#parameterReference",
                         "required": true,
                         "name": "Parameter_ID"
                     },
                     {
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
                         "null": [
                             "?",
@@ -97,6 +100,7 @@
                         "name": "Value"
                     },
                     {
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#codeReference",
                         "required": false,
@@ -291,6 +295,8 @@
                         "name": "ID"
                     },
                     {
+                        "dc:description": "The parameter or variable the code belongs to.",
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#parameterReference",
                         "required": true,

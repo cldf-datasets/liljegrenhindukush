@@ -7,6 +7,7 @@ import cldfbench
 import pylexibank
 from clldutils.misc import slug
 from bs4 import BeautifulSoup as bs
+from csvw.metadata import URITemplate
 
 import attr
 
@@ -29,7 +30,7 @@ def title_and_desc(p):
         assert p.stem == 'README'
         return None, None
     assert lines[1] == ''
-    return bs(lines[0]).text, '\n'.join(lines[2:])
+    return bs(lines[0], 'html5lib').text, '\n'.join(lines[2:])
 
 
 @attr.s
@@ -105,18 +106,14 @@ class Dataset(pylexibank.Dataset):
         lerrata = {r['Name']: r['Glottocode'] for r in self.etc_dir.read_csv('languages.csv', dicts=True)}
         coords = {r['ISO']: (r['Coord1'], r['Coord2']) for r in features}
         with self.cldf_writer(args) as writer:
-            writer.cldf.add_table(
-                'media.csv',
-                {
-                    'name': 'ID',
-                    'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#id',
-                    'valueUrl': 'https://cdstar.shh.mpg.de/bitstreams/{objid}/{fname}',
-                },
+            writer.cldf.add_component(
+                'MediaTable',
                 'objid',
                 'fname',
-                'mimetype',
                 {'name': 'size', 'datatype': 'integer'},
             )
+            writer.cldf.remove_columns('MediaTable', 'Download_URL')
+            writer.cldf['MediaTable', 'ID'].valueUrl = URITemplate("https://cdstar.shh.mpg.de/bitstreams/{objid}/{fname}")
             for lang in self.raw_dir.read_csv(self._data_dir / 'DataSampleHK.csv', dicts=True):
                 gc = lerrata.get(lang['Language'], lang['Glottocode'].split('>')[1].split('<')[0])
                 glang = gl_by_id[gc]
@@ -151,11 +148,12 @@ class Dataset(pylexibank.Dataset):
                 lid = lid.replace('-', '_')
                 assert lid in lids, spec['metadata']['path'].split('/')
                 for bs in spec['bitstreams']:
-                    writer.objects['media.csv'].append(dict(
+                    writer.objects['MediaTable'].append(dict(
                         ID=bs['checksum'],
+                        Name='{}_{}'.format(objid, bs['bitstreamid']),
                         objid=objid,
                         fname=bs['bitstreamid'],
-                        mimetype=bs['content-type'],
+                        Media_Type=bs['content-type'],
                         size=bs['filesize'],
                     ))
                     akey = fname.split('.')[0]

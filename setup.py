@@ -23,6 +23,8 @@ setup(
         ],
     },
     install_requires=[
+        'html5lib',
+        'pycldf>=1.25',
         'cdstarcat>=1.3',
         'cldfbench>=1.2.3',
         'pylexibank>=2.7.1',
