@@ -18,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/liljegrenhindukush",
-            "dc:created": "v1.0-1-g5aae47b"
+            "dc:created": "v1.0-2-g2884166"
         },
         {
             "rdf:type": "prov:Entity",
@@ -36,10 +36,14 @@
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts",
-            "dc:created": "v2.1.0-33-g2c6e122"
+            "dc:created": "v2.1.0"
         }
     ],
     "prov:wasGeneratedBy": [
+        {
+            "dc:title": "lingpy-rcParams",
+            "dc:relation": "lingpy-rcParams.json"
+        },
         {
             "dc:title": "python",
             "dc:description": "3.8.10"
@@ -129,6 +133,7 @@
                     },
                     {
                         "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#mediaReference",
                         "separator": " ",
                         "name": "Audio_Files"
                     }
@@ -151,6 +156,17 @@
                         ],
                         "reference": {
                             "resource": "parameters.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Audio_Files"
+                        ],
+                        "reference": {
+                            "resource": "media.csv",
                             "columnReference": [
                                 "ID"
                             ]

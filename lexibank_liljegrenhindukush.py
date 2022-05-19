@@ -40,7 +40,11 @@ class Concept(pylexibank.Concept):
 
 @attr.s
 class Lexeme(pylexibank.Lexeme):
-    Audio_Files = attr.ib(default=None)
+    Audio_Files = attr.ib(
+        default=None,
+        metadata=dict(
+            propertyUrl="http://cldf.clld.org/v1.0/terms.rdf#mediaReference"),
+    )
 
 
 @attr.s

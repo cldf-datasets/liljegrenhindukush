@@ -16,7 +16,7 @@ html5lib==1.0.1
 idna==2.8
 iniconfig==1.1.1
 isodate==0.6.0
--e git+https://github.com/cldf-datasets/liljegrenhindukush@5aae47b529a481729644908cbfd49c492196da1f#egg=lexibank_liljegrenhindukush
+-e git+https://github.com/cldf-datasets/liljegrenhindukush@28841664a89d9a695a04559556bc30a869e1b76d#egg=lexibank_liljegrenhindukush
 lingpy==2.6.9
 Markdown==3.3.3
 networkx==2.5
@@ -34,7 +34,7 @@ pyclts==3.0.2
 pyconcepticon==2.7.0
 pycountry==20.7.3
 pyglottolog==3.3.0
-pylexibank==3.0.0
+pylexibank==3.3.0
 pytest==6.2.2
 python-dateutil==2.8.1
 regex==2021.3.17

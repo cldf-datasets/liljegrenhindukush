@@ -23,7 +23,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/liljegrenhindukush",
-            "dc:created": "v1.0-1-g5aae47b"
+            "dc:created": "v1.0-2-g2884166"
         },
         {
             "rdf:type": "prov:Entity",
@@ -41,7 +41,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts",
-            "dc:created": "v2.1.0-33-g2c6e122"
+            "dc:created": "v2.1.0"
         }
     ],
     "prov:wasGeneratedBy": [
