@@ -5,150 +5,154 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| a | 5250 | ✓ | ✓ |
-| + | 3692 | ✓ | ✓ |
-| i | 3272 | ✓ | ✓ |
-| r | 2445 | ✓ | ✓ |
-| u | 2396 | ✓ | ✓ |
-| aː | 2384 | ✓ | ✓ |
-| n | 2382 | ✓ | ✓ |
-| s | 2334 | ✓ | ✓ |
-| t | 2307 | ✓ | ✓ |
-| m | 2244 | ✓ | ✓ |
-| b | 1953 | ✓ | ✓ |
-| d | 1906 | ✓ | ✓ |
-| j | 1862 | ✓ | ✓ |
-| ə | 1758 | ✓ | ✓ |
-| w | 1749 | ✓ | ✓ |
-| e | 1498 | ✓ | ✓ |
-| ɕ | 1480 | ✓ | ✓ |
-| l | 1309 | ✓ | ✓ |
-| p | 1306 | ✓ | ✓ |
-| k | 1286 | ✓ | ✓ |
-| iː | 1252 | ✓ | ✓ |
-| o | 1181 | ✓ | ✓ |
-| oː | 972 | ✓ | ✓ |
-| eː | 885 | ✓ | ✓ |
-| ɑː | 797 | ✓ | ✓ |
-| uː | 771 | ✓ | ✓ |
-| tɕ | 759 | ✓ | ✓ |
-| z | 614 | ✓ | ✓ |
-| g | 577 | ✓ | ✓ |
-| ʂ | 574 | ✓ | ✓ |
-| ts | 547 | ✓ | ✓ |
-| dʑ | 478 | ✓ | ✓ |
-| χ | 465 | ✓ | ✓ |
-| ʈ | 389 | ✓ | ✓ |
-| h | 362 | ✓ | ✓ |
-| ŋ | 317 | ✓ | ✓ |
-| ɽ | 291 | ✓ | ✓ |
-| ʃ | 259 | ✓ | ✓ |
-| ʑ | 253 | ✓ | ✓ |
-| ʁ | 192 | ✓ | ✓ |
-| ɨ | 178 | ✓ | ✓ |
-| ɔ | 171 | ✓ | ✓ |
-| ɛː | 167 | ✓ | ✓ |
-| v | 164 | ✓ | ✓ |
-| ɛ | 163 | ✓ | ✓ |
-| ɳ | 162 | ✓ | ✓ |
-| ʈʂ | 154 | ✓ | ✓ |
-| q | 150 | ✓ | ✓ |
-| tʃ | 147 | ✓ | ✓ |
-| ɖ | 147 | ✓ | ✓ |
-| ð | 146 | ✓ | ✓ |
-| ãː | 144 | ✓ | ✓ |
-| tʰ | 140 | ✓ | ✓ |
-| f | 138 | ✓ | ✓ |
-| ɑ | 135 | ✓ | ✓ |
-| ɔː | 134 | ✓ | ✓ |
-| pʰ | 128 | ✓ | ✓ |
-| ɬ | 107 | ✓ | ✓ |
-| y | 94 | ✓ | ✓ |
-| tɕʰ | 84 | ✓ | ✓ |
-| x | 80 | ✓ | ✓ |
-| ɻ | 78 | ✓ | ✓ |
-| yː | 77 | ✓ | ✓ |
-| bʰ | 72 | ✓ | ✓ |
-| <<ː>> | 69 | ? | ? |
-| æ | 69 | ✓ | ✓ |
-| ʐ | 69 | ✓ | ✓ |
-| kʰ | 68 | ✓ | ✓ |
-| əː | 67 | ✓ | ✓ |
-| ɲ | 60 | ✓ | ✓ |
-| ĩː | 58 | ✓ | ✓ |
-| ʈʰ | 56 | ✓ | ✓ |
+| a | 6479 | ✓ | ✓ |
+| + | 4615 | ✓ | ✓ |
+| i | 3808 | ✓ | ✓ |
+| r | 3130 | ✓ | ✓ |
+| n | 2834 | ✓ | ✓ |
+| aː | 2826 | ✓ | ✓ |
+| u | 2754 | ✓ | ✓ |
+| s | 2698 | ✓ | ✓ |
+| m | 2674 | ✓ | ✓ |
+| t | 2614 | ✓ | ✓ |
+| b | 2291 | ✓ | ✓ |
+| j | 2248 | ✓ | ✓ |
+| d | 2217 | ✓ | ✓ |
+| ə | 2148 | ✓ | ✓ |
+| w | 2046 | ✓ | ✓ |
+| e | 1722 | ✓ | ✓ |
+| p | 1586 | ✓ | ✓ |
+| ɕ | 1573 | ✓ | ✓ |
+| l | 1553 | ✓ | ✓ |
+| k | 1550 | ✓ | ✓ |
+| iː | 1435 | ✓ | ✓ |
+| o | 1323 | ✓ | ✓ |
+| oː | 1164 | ✓ | ✓ |
+| eː | 1110 | ✓ | ✓ |
+| ɑː | 995 | ✓ | ✓ |
+| uː | 869 | ✓ | ✓ |
+| tɕ | 822 | ✓ | ✓ |
+| z | 702 | ✓ | ✓ |
+| g | 658 | ✓ | ✓ |
+| ʂ | 628 | ✓ | ✓ |
+| χ | 599 | ✓ | ✓ |
+| ts | 587 | ✓ | ✓ |
+| dʑ | 583 | ✓ | ✓ |
+| ʈ | 453 | ✓ | ✓ |
+| h | 387 | ✓ | ✓ |
+| ɽ | 357 | ✓ | ✓ |
+| ŋ | 347 | ✓ | ✓ |
+| ʃ | 291 | ✓ | ✓ |
+| ʑ | 273 | ✓ | ✓ |
+| q | 259 | ✓ | ✓ |
+| ʁ | 224 | ✓ | ✓ |
+| ɳ | 219 | ✓ | ✓ |
+| ɖ | 207 | ✓ | ✓ |
+| ɨ | 206 | ✓ | ✓ |
+| ɔ | 205 | ✓ | ✓ |
+| ɛː | 201 | ✓ | ✓ |
+| v | 186 | ✓ | ✓ |
+| ʈʂ | 182 | ✓ | ✓ |
+| ɛ | 178 | ✓ | ✓ |
+| tʃ | 177 | ✓ | ✓ |
+| ɑ | 163 | ✓ | ✓ |
+| ãː | 159 | ✓ | ✓ |
+| f | 150 | ✓ | ✓ |
+| ð | 148 | ✓ | ✓ |
+| ɔː | 148 | ✓ | ✓ |
+| pʰ | 141 | ✓ | ✓ |
+| tʰ | 141 | ✓ | ✓ |
+| ɬ | 124 | ✓ | ✓ |
+| y | 113 | ✓ | ✓ |
+| ɻ | 105 | ✓ | ✓ |
+| tɕʰ | 96 | ✓ | ✓ |
+| x | 96 | ✓ | ✓ |
+| ʐ | 94 | ✓ | ✓ |
+| bʰ | 87 | ✓ | ✓ |
+| æ | 82 | ✓ | ✓ |
+| əː | 82 | ✓ | ✓ |
+| yː | 81 | ✓ | ✓ |
+| kʰ | 77 | ✓ | ✓ |
+| ɲ | 73 | ✓ | ✓ |
+| <<ː>> | 71 | ? | ? |
+| ĩː | 71 | ✓ | ✓ |
+| dʒ | 70 | ✓ | ✓ |
+| ʈʰ | 67 | ✓ | ✓ |
+| ũː | 61 | ✓ | ✓ |
 | tsʰ | 54 | ✓ | ✓ |
+| u̥ | 53 | ✓ | ✓ |
+| æː | 52 | ✓ | ✓ |
 | ɪ | 52 | ✓ | ✓ |
-| dʒ | 49 | ✓ | ✓ |
-| ũː | 49 | ✓ | ✓ |
-| ã | 44 | ✓ | ✓ |
-| æː | 44 | ✓ | ✓ |
-| r̥ | 41 | ✓ | ✓ |
-| u̥ | 40 | ✓ | ✓ |
-| tː | 37 | ✓ | ✓ |
-| ɣ | 37 | ✓ | ✓ |
-| ø | 36 | ✓ | ✓ |
-| ɯ | 36 | ✓ | ✓ |
-| aːi | 35 | ✓ | ✓ |
-| ɑ̃ː | 35 | ✓ | ✓ |
-| ʉ | 34 | ✓ | ✓ |
-| i̥ | 33 | ✓ | ✓ |
+| r̥ | 47 | ✓ | ✓ |
+| ã | 47 | ✓ | ✓ |
+| aːi | 43 | ✓ | ✓ |
+| ɑ̃ː | 43 | ✓ | ✓ |
+| ø | 42 | ✓ | ✓ |
+| ɯ | 42 | ✓ | ✓ |
+| i̥ | 41 | ✓ | ✓ |
+| tː | 41 | ✓ | ✓ |
+| ɣ | 40 | ✓ | ✓ |
+| ʉ | 37 | ✓ | ✓ |
+| ẽː | 37 | ✓ | ✓ |
+| gʰ | 35 | ✓ | ✓ |
+| ʒ | 32 | ✓ | ✓ |
+| øː | 31 | ✓ | ✓ |
+| dʰ | 30 | ✓ | ✓ |
 | õ | 30 | ✓ | ✓ |
-| ũ | 29 | ✓ | ✓ |
-| ɨː | 28 | ✓ | ✓ |
+| ũ | 30 | ✓ | ✓ |
+| ɨː | 29 | ✓ | ✓ |
 | ʊ | 28 | ✓ | ✓ |
-| ẽː | 28 | ✓ | ✓ |
-| gʰ | 26 | ✓ | ✓ |
-| øː | 26 | ✓ | ✓ |
+| ẽ | 28 | ✓ | ✓ |
 | <<ʏ>> | 25 | ? | ? |
-| ʒ | 23 | ✓ | ✓ |
-| ẽ | 22 | ✓ | ✓ |
-| dʰ | 21 | ✓ | ✓ |
+| õː | 23 | ✓ | ✓ |
+| ḛː | 23 | ✓ | ✓ |
+| ai | 22 | ✓ | ✓ |
 | ç | 21 | ✓ | ✓ |
-| õː | 21 | ✓ | ✓ |
-| ḛː | 21 | ✓ | ✓ |
-| ai | 18 | ✓ | ✓ |
+| mʰ | 20 | ✓ | ✓ |
+| ɖʐ | 19 | ✓ | ✓ |
 | kː | 18 | ✓ | ✓ |
+| c | 17 | ✓ | ✓ |
+| ʐʰ | 17 | ✓ | ✓ |
 | aːu | 15 | ✓ | ✓ |
-| c | 15 | ✓ | ✓ |
+| ĩ | 15 | ✓ | ✓ |
+| ɰ | 15 | ✓ | ✓ |
+| ʉː | 15 | ✓ | ✓ |
 | mː | 14 | ✓ | ✓ |
-| ĩ | 14 | ✓ | ✓ |
-| ɖʐ | 14 | ✓ | ✓ |
-| ʉː | 14 | ✓ | ✓ |
 | ɔ̃ | 13 | ✓ | ✓ |
 | ʈʂʰ | 13 | ✓ | ✓ |
-| ʐʰ | 12 | ✓ | ✓ |
 | a̰ː | 11 | ✓ | ✓ |
 | lː | 11 | ✓ | ✓ |
-| ɰ | 11 | ✓ | ✓ |
+| ɛ̃ː | 10 | ✓ | ✓ |
+| <<ʰ>> | 9 | ? | ? |
 | <<̥>> | 9 | ? | ? |
 | nʲ | 9 | ✓ | ✓ |
 | ɑ̰ː | 9 | ✓ | ✓ |
+| ḭː | 9 | ✓ | ✓ |
+| <<ɦ>> | 8 | ? | ? |
+| au | 8 | ✓ | ✓ |
 | b̥ | 8 | ✓ | ✓ |
+| dʑʰ | 8 | ✓ | ✓ |
+| ei | 8 | ✓ | ✓ |
 | o̰ː | 8 | ✓ | ✓ |
-| <<ɦ>> | 7 | ? | ? |
-| dʑʰ | 7 | ✓ | ✓ |
-| mʰ | 7 | ✓ | ✓ |
+| ɽʰ | 8 | ✓ | ✓ |
+| <<ʝ>> | 7 | ? | ? |
+| n̥ | 7 | ✓ | ✓ |
 | oi | 7 | ✓ | ✓ |
-| ɛ̃ː | 7 | ✓ | ✓ |
 | ɳː | 7 | ✓ | ✓ |
-| ɽʰ | 7 | ✓ | ✓ |
-| <<ʝ>> | 6 | ? | ? |
-| <<ʰ>> | 6 | ? | ? |
-| ei | 6 | ✓ | ✓ |
+| <<̃>> | 6 | ? | ? |
 | pː | 6 | ✓ | ✓ |
 | qː | 6 | ✓ | ✓ |
 | ɑ̃ | 6 | ✓ | ✓ |
-| au | 5 | ✓ | ✓ |
 | dː | 5 | ✓ | ✓ |
+| lʲ | 5 | ✓ | ✓ |
+| lˠ | 5 | ✓ | ✓ |
 | mʷ | 5 | ✓ | ✓ |
 | nʷ | 5 | ✓ | ✓ |
-| <<̃>> | 4 | ? | ? |
 | dʲ | 4 | ✓ | ✓ |
-| lˠ | 4 | ✓ | ✓ |
-| n̥ | 4 | ✓ | ✓ |
-| ḭː | 4 | ✓ | ✓ |
+| zʲ | 4 | ✓ | ✓ |
+| bʷ | 3 | ✓ | ✓ |
 | lʰ | 3 | ✓ | ✓ |
+| l̥ | 3 | ✓ | ✓ |
 | m̥ | 3 | ✓ | ✓ |
 | nː | 3 | ✓ | ✓ |
 | ɔ̃˞ | 3 | ✓ | ✓ |
@@ -158,12 +162,9 @@
 | <<œ>> | 2 | ? | ? |
 | <<ʲ>> | 2 | ? | ? |
 | hʲ | 2 | ✓ | ✓ |
-| lʲ | 2 | ✓ | ✓ |
-| l̥ | 2 | ✓ | ✓ |
 | o˞ | 2 | ✓ | ✓ |
 | sʲ | 2 | ✓ | ✓ |
 | sː | 2 | ✓ | ✓ |
-| zʲ | 2 | ✓ | ✓ |
 | z̥ | 2 | ✓ | ✓ |
 | ɖʰ | 2 | ✓ | ✓ |
 | ʂː | 2 | ✓ | ✓ |
@@ -171,20 +172,24 @@
 | ṵː | 2 | ✓ | ✓ |
 | <<:>> | 1 | ? | ? |
 | <<͏>> | 1 | ? | ? |
-| bʷ | 1 | ✓ | ✓ |
 | jʰ | 1 | ✓ | ✓ |
 | nʰ | 1 | ✓ | ✓ |
 | rʲ | 1 | ✓ | ✓ |
 | tɕʰː | 1 | ✓ | ✓ |
 | tʲ | 1 | ✓ | ✓ |
 | wː | 1 | ✓ | ✓ |
+| í/i | 1 | ✓ | ✓ |
+| ó/o | 1 | ✓ | ✓ |
 | õ˞ | 1 | ✓ | ✓ |
+| ú/u | 1 | ✓ | ✓ |
 | ə̰ | 1 | ✓ | ✓ |
 | ɛ̤ | 1 | ✓ | ✓ |
+| ɟ | 1 | ✓ | ✓ |
+| ʔ | 1 | ✓ | ✓ |
 | ʕ | 1 | ✓ | ✓ |
 | ỹː | 1 | ✓ | ✓ |
 
-(178 rows)
+(183 rows)
 
 
 
@@ -200,7 +205,7 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:-------------------------------------------|:-----------|:-----------------------------------|:---------------------|:---------------------------------------------------|
+|:---------------------------------------------------|:-----------|:---------------------------------------------|:---------------------|:---------------------------------------------------|
 | ask-Kinship-motherssistershusband-1 | ask | Kinship-motherssistershusband | p͏ɛjaɽaː_matsəs | p <s> <<͏>> </s> ɛ j a ɽ aː + m a ts ə s |
 | bsh_w-Numerals-3-1 | bsh_w | Numerals-3 | trɛ: | t r ɛ <s> <<:>> </s> |
 | btv-Kinship-brother-1 | btv | Kinship-brother | ɖʐʰũː | ɖʐ <s> <<ʰ>> </s> ũː |
@@ -208,9 +213,13 @@
 | btv-Kinship-brotherswifefemaleego-1 | btv | Kinship-brotherswifefemaleego | ɖʐʰaːzɛː | ɖʐ <s> <<ʰ>> </s> aː z ɛː |
 | btv-Kinship-brotherswifemaleego-1 | btv | Kinship-brotherswifemaleego | ɖʐʰaːzɛː | ɖʐ <s> <<ʰ>> </s> aː z ɛː |
 | btv-Kinship-cowife-1 | btv | Kinship-cowife | habijæ̃ː | h a b i j æ <s> <<̃>> </s> <s> <<ː>> </s> |
+| btv-Kinship-halfbrothersamefatherdifferentmother-1 | btv | Kinship-halfbrothersamefatherdifferentmother | mʰalzoː_ɖʐʰũː | mʰ a l z oː + ɖʐ <s> <<ʰ>> </s> ũː |
+| btv-Kinship-halfbrothersamemotherdifferentfather-1 | btv | Kinship-halfbrothersamemotherdifferentfather | mʰijælzoː_ɖʐʰũː | mʰ i j æ l z oː + ɖʐ <s> <<ʰ>> </s> ũː |
+| btv-Kinship-husbandsbrotherswife-1 | btv | Kinship-husbandsbrotherswife | dʰeːræ̃ː | dʰ eː r æ <s> <<̃>> </s> <s> <<ː>> </s> |
 | btv-Kinship-mothersbrotherswife-1 | btv | Kinship-mothersbrotherswife | malæ̃ː | m a l æ <s> <<̃>> </s> <s> <<ː>> </s> |
 | btv-Kinship-motherssistersdaughter-1 | btv | Kinship-motherssistersdaughter | maːsjæ̃ː | m aː s j æ <s> <<̃>> </s> <s> <<ː>> </s> |
 | btv-Kinship-olderbrother-1 | btv | Kinship-olderbrother | gʰãeːr_ɖʐʰũː | gʰ ã eː r + ɖʐ <s> <<ʰ>> </s> ũː |
+| btv-Kinship-stepson-1 | btv | Kinship-stepson | mireːso_ɖʐʰũː | m i r eː s o + ɖʐ <s> <<ʰ>> </s> ũː |
 | btv-Kinship-wifessister-1 | btv | Kinship-wifessister | saːræ̃ː | s aː r æ <s> <<̃>> </s> <s> <<ː>> </s> |
 | btv-Kinship-youngerbrother-1 | btv | Kinship-youngerbrother | pʰiʈu_ɖʐʰũː | pʰ i ʈ u + ɖʐ <s> <<ʰ>> </s> ũː |
 | gju_a-Numerals-28-1 | gju_a | Numerals-28 | aːʈʰə̥ta_biː | aː ʈʰ ə <s> <<̥>> </s> t a + b iː |
@@ -257,6 +266,7 @@
 | phl-Kinship-brotherswifemaleego-1 | phl | Kinship-brotherswifemaleego | brɦaːdʑej | b r <s> <<ɦ>> </s> aː dʑ e j |
 | phl-Kinship-daughtersdaughter-1 | phl | Kinship-daughtersdaughter | djɦuːɽi | d j <s> <<ɦ>> </s> uː ɽ i |
 | phl-Kinship-daughtersson-1 | phl | Kinship-daughtersson | djɦuːɽo | d j <s> <<ɦ>> </s> uː ɽ o |
+| phl-Kinship-husbandsbrotherswife-1 | phl | Kinship-husbandsbrotherswife | brɦaːdʑej | b r <s> <<ɦ>> </s> aː dʑ e j |
 | prn-Numerals-1-1 | prn | Numerals-1 | ʏpːɪːn | <s> <<ʏ>> </s> pː ɪ <s> <<ː>> </s> n |
 | prn-Numerals-10-1 | prn | Numerals-10 | ləːzːə | l əː z <s> <<ː>> </s> ə |
 | prn-Numerals-100-1 | prn | Numerals-100 | wutɕːɛgzu | w u tɕ <s> <<ː>> </s> ɛ g z u |
@@ -286,21 +296,16 @@
 | sgh_a-Kinship-fathersyoungerbrotherswife-1 | sgh_a | Kinship-fathersyoungerbrotherswife | dzolik_amak_ʝin | d z o l i k + a m a k + <s> <<ʝ>> </s> i n |
 | sgh_a-Kinship-mothersbrotherswife-1 | sgh_a | Kinship-mothersbrotherswife | χoːlak_ʝin | χ oː l a k + <s> <<ʝ>> </s> i n |
 | sgh_a-Kinship-wife-1 | sgh_a | Kinship-wife | ʝin | <s> <<ʝ>> </s> i n |
+| sgy-Kinship-fathersfathersfather-1 | sgy | Kinship-fathersfathersfather | aʝdaːd | a <s> <<ʝ>> </s> d aː d |
 | sgy-Kinship-forefather-1 | sgy | Kinship-forefather | aʝdaːd | a <s> <<ʝ>> </s> d aː d |
 | sgy-Kinship-foremother-1 | sgy | Kinship-foremother | aʝdaːd | a <s> <<ʝ>> </s> d aː d |
+| shd-Kinship-mothersmothersmother-1 | shd | Kinship-mothersmothersmother | paɽnæ̃ːɳẽ | p a ɽ n æ <s> <<̃>> </s> <s> <<ː>> </s> ɳ ẽ |
 | ush-Numerals-21-1 | ush | Numerals-21 | egːa_biː | e g <s> <<ː>> </s> a + b iː |
-| ush-Numerals-26-1 | ush | Numerals-26 | ʂagːa_biː | ʂ a g <s> <<ː>> </s> a + b iː |
-| ush-Numerals-41-1 | ush | Numerals-41 | egːa_dubi | e g <s> <<ː>> </s> a + d u b i |
-| ush-Numerals-46-1 | ush | Numerals-46 | ʂagːa_dubi | ʂ a g <s> <<ː>> </s> a + d u b i |
 | uzs-Kinship-headofhousehold-1 | uzs | Kinship-headofhousehold | wœjni_katːasi | w <s> <<œ>> </s> j n i + k a tː a s i |
 | uzs-Kinship-son-1 | uzs | Kinship-son | woʁœl | w o ʁ <s> <<œ>> </s> l |
 | xka-Kinship-fathersfather-1 | xka | Kinship-fathersfather | da̰ːd̥ | d a̰ː d <s> <<̥>> </s> |
 | xka-Kinship-fathersmother-1 | xka | Kinship-fathersmother | dḛːd̥ | d ḛː d <s> <<̥>> </s> |
 | xka-Kinship-forefather-1 | xka | Kinship-forefather | bɑb_da̰ːd̥ | b ɑ b + d a̰ː d <s> <<̥>> </s> |
-| ydg-Numerals-14-1 | ydg | Numerals-14 | les_tɕːiːr | l e s + tɕ <s> <<ː>> </s> iː r |
-| ydg-Numerals-20-1 | ydg | Numerals-20 | ʏsto | <s> <<ʏ>> </s> s t o |
-| ydg-Numerals-21-1 | ydg | Numerals-21 | ʏsto_ju | <s> <<ʏ>> </s> s t o + j u |
-| ydg-Numerals-4-1 | ydg | Numerals-4 | tɕːiːr | tɕ <s> <<ː>> </s> iː r |
 
 (100 rows)
 

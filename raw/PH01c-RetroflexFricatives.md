@@ -9,13 +9,12 @@ they often stand in an allophonic relationship. In Bateri, dental
 fricatives contrast with retroflex fricatives and with laminal
 post-alveolar fricatives, as shown in (1).
 
-(1) <span id="_Ref12343426" class="anchor"></span>Bateri
-    \[btv\] (Indo-Aryan)
+(1) Bateri \[btv\] (Indo-Aryan)
 
-| a.  | /syr/  | ‘sun’ (BTV-40list-MB:033)        |
+| a\. | /syr/  | 'sun' (BTV-40list-MB:033)        |
 |-----|--------|----------------------------------|
-| b.  | /ɕoːr/ | ‘father-in-law’ (BTV-Kin-MB:050) |
-| c.  | /ʂu/   | ‘six’ (BTV-Num-MB:006)           |
+| b\. | /ɕoːr/ | 'father-in-law' (BTV-Kin-MB:050) |
+| c\. | /ʂu/   | 'six' (BTV-Num-MB:006)           |
 
 The presence of retroflex fricatives is a majority feature in the area,
 found in a little over half of the sample languages. The presence of
@@ -23,10 +22,8 @@ this feature is particularly prominent at the geographical core of the
 Hindu Kush, shared by Indo-Aryan, Nuristani, Iranian and Burushaski
 alike.
 
-| Feature value | \# of varieties displaying it | %   |
+| Feature value | \# of varieties displaying it | \%  |
 |---------------|-------------------------------|-----|
 | Present       | 34                            | 58  |
 | Absent        | 25                            | 42  |
 | Indeterminate | 0                             | 0   |
-
-

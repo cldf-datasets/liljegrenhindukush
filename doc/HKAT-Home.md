@@ -12,8 +12,8 @@ Host institution: Department of Linguistics, Stockholm University
 
 Welcome to Hindu Kush Areal Typology
 
-One of the goals of the research project “Language contact and
-relatedness in the Hindukush region” was to produce a typological
+One of the goals of the research project "Language contact and
+relatedness in the Hindukush region" was to produce a typological
 profile of the languages spoken in the Hindu Kush region, a mountainous
 area in north-eastern Afghanistan, northern Pakistan and the northern
 parts of the Indian-administered territories of Jammu & Kashmir and
@@ -31,8 +31,8 @@ clearer understanding of the effects of long-lasting language contact,
 both in the Hindu Kush and in general.\
 \
 This project was inspired by and guided by a number of previous studies
-and suggestions put forward (Toporov 1970; Èdel’man 1980; 1983; Bashir
-1988: 385–421; 1996a; 1996b; Bashir 2003; Tikkanen 1999; 2008). At an
+and suggestions put forward (Toporov 1970; Èdel'man 1980; 1983; Bashir
+1988: 385--421; 1996a; 1996b; Bashir 2003; Tikkanen 1999; 2008). At an
 early stage, we identified a few linguistic properties and domains as
 particularly interesting from an areal-typological perspective, such as
 the presence of retroflex sets of sounds, case and agreement alignment,

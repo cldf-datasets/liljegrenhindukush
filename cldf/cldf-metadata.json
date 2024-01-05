@@ -15,28 +15,28 @@
     "dcat:accessURL": "https://github.com/cldf-datasets/liljegrenhindukush",
     "prov:wasDerivedFrom": [
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/liljegrenhindukush",
-            "dc:created": "v1.0-2-g2884166"
+            "rdf:type": "prov:Entity",
+            "dc:created": "v1.1",
+            "dc:title": "Repository"
         },
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.5"
+            "rdf:type": "prov:Entity",
+            "dc:created": "v4.8",
+            "dc:title": "Glottolog"
         },
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.6.0"
+            "rdf:type": "prov:Entity",
+            "dc:created": "v3.1.0",
+            "dc:title": "Concepticon"
         },
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts",
-            "dc:created": "v2.1.0"
+            "rdf:type": "prov:Entity",
+            "dc:created": "v2.2.0",
+            "dc:title": "CLTS"
         }
     ],
     "prov:wasGeneratedBy": [
@@ -46,7 +46,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.8.10"
+            "dc:description": "3.10.12"
         },
         {
             "dc:title": "python-packages",
@@ -55,13 +55,10 @@
     ],
     "rdf:ID": "liljegrenhindukush",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
-    "dialect": {
-        "commentPrefix": null
-    },
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 10222,
+            "dc:extent": 11600,
             "tableSchema": {
                 "columns": [
                     {
@@ -208,7 +205,7 @@
                     {
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
-                        "valueUrl": "http://glottolog.org/resource/languoid/id/{glottolog_id}",
+                        "valueUrl": "http://glottolog.org/resource/languoid/id/{Glottocode}",
                         "name": "Glottocode"
                     },
                     {
@@ -228,8 +225,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": -90,
-                            "maximum": 90
+                            "minimum": "-90",
+                            "maximum": "90"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
                         "required": false,
@@ -238,8 +235,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": -180,
-                            "maximum": 180
+                            "minimum": "-180",
+                            "maximum": "180"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
                         "required": false,
@@ -274,7 +271,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 169,
+            "dc:extent": 194,
             "tableSchema": {
                 "columns": [
                     {
@@ -290,7 +287,7 @@
                     {
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#concepticonReference",
-                        "valueUrl": "http://concepticon.clld.org/parameters/{concepticon_id}",
+                        "valueUrl": "http://concepticon.clld.org/parameters/{Concepticon_ID}",
                         "name": "Concepticon_ID"
                     },
                     {
@@ -336,10 +333,19 @@
                         "name": "Description"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "[^/]+/.+"
+                        },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#mediaType",
                         "required": true,
                         "name": "Media_Type"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#pathInZip",
+                        "required": false,
+                        "name": "Path_In_Zip"
                     },
                     {
                         "datatype": "string",

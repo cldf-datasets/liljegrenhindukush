@@ -5,44 +5,40 @@ nominal and adjectival predicates. Ashkun, as in (1), is an example of a
 language in which nominal and adjectival predicates normally are encoded
 in the same way, i.e. with an inflected copula verb.
 
-(1) <span id="_Ref12281344" class="anchor"></span>Ashkun
-    \[ask\] (Nuristani)
+(1) Ashkun \[ask\] (Nuristani)
 
-| a.  | aːjaː                                           | jak  | kitaːb | tuwə                                                  | **səj**                                                  |
-|-----|-------------------------------------------------|------|--------|-------------------------------------------------------|----------------------------------------------------------|
-|     | <span style="font-variant:small-caps;">q</span> | this | book   | <span style="font-variant:small-caps;">2sg.gen</span> | be.<span style="font-variant:small-caps;">prs.3sg</span> |
-|     | ‘Is this book yours?’ (ASK-Dem-WS:004a)         |
+| a\. | aːjaː                                   | jak  | kitaːb | tuwə                                   | **səj**                                   |
+|-----|-----------------------------------------|------|--------|----------------------------------------|-------------------------------------------|
+|     | <span class="smallcaps">q</span>        | this | book   | <span class="smallcaps">2sg.gen</span> | be.<span class="smallcaps">prs.3sg</span> |
+|     | 'Is this book yours?' (ASK-Dem-WS:004a) |      |        |                                        |                                           |
 
-| b.  | paːj                                              | amə   | mələ | məjstaːk | **səj**                                                  |
-|-----|---------------------------------------------------|-------|------|----------|----------------------------------------------------------|
-|     | that                                              | house | very | good     | be.<span style="font-variant:small-caps;">prs.3sg</span> |
-|     | ‘That house is very beautiful.’ (ASK-Dem-WS:006a) |
+| b\. | paːj                                              | amə   | mələ | məjstaːk | **səj**                                   |
+|-----|---------------------------------------------------|-------|------|----------|-------------------------------------------|
+|     | that                                              | house | very | good     | be.<span class="smallcaps">prs.3sg</span> |
+|     | 'That house is very beautiful.' (ASK-Dem-WS:006a) |       |      |          |                                           |
 
 Purik, on the other hand, is an example of the negative value of this
 feature. As can be seen in (2), two different copulas are used. For the
 nominal predication, an equative copula *in* is used, whereas for the
 adjectival predication an existential copula *duk* is used.
 
-(1) <span id="_Ref51160116" class="anchor"></span>Purik
-    \[prx\] (Sino-Tibetan)
+(2) Purik \[prx\] (Sino-Tibetan)
 
-| a.  | di                                       | mju | ɬiŋspa | **in**                                           |
-|-----|------------------------------------------|-----|--------|--------------------------------------------------|
-|     | this                                     | man | hunter | <span style="font-variant:small-caps;">eq</span> |
-|     | ‘This man is a hunter.’ (PRX-Val-MM:070) |
+| a\. | di                                       | mju | ɬiŋspa | **in**                            |
+|-----|------------------------------------------|-----|--------|-----------------------------------|
+|     | this                                     | man | hunter | <span class="smallcaps">eq</span> |
+|     | 'This man is a hunter.' (PRX-Val-MM:070) |     |        |                                   |
 
-| b.  | a                                                 | naŋ-po                                                  | rdemwik   | **duk**                                          |
-|-----|---------------------------------------------------|---------------------------------------------------------|-----------|--------------------------------------------------|
-|     | that                                              | house-<span style="font-variant:small-caps;">def</span> | beautiful | <span style="font-variant:small-caps;">ex</span> |
-|     | ‘That house is very beautiful.’ (PRX-Dem-MH:006a) |
+| b\. | a                                                 | naŋ-po                                   | rdemwik   | **duk**                           |
+|-----|---------------------------------------------------|------------------------------------------|-----------|-----------------------------------|
+|     | that                                              | house-<span class="smallcaps">def</span> | beautiful | <span class="smallcaps">ex</span> |
+|     | 'That house is very beautiful.' (PRX-Dem-MH:006a) |                                          |           |                                   |
 
 This feature is present in the majority of the sample. It is absent in
-the sample’s Sino-Tibetan languages.
+the sample's Sino-Tibetan languages.
 
-| Feature value | \# of varieties displaying it | %   |
+| Feature value | \# of varieties displaying it | \%  |
 |---------------|-------------------------------|-----|
 | Present       | 49                            | 83  |
 | Absent        | 6                             | 10  |
 | Indeterminate | 4                             | 7   |
-
-

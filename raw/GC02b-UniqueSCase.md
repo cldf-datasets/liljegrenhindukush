@@ -11,32 +11,29 @@ marked, whereas the subject of a transitive subject is marked with an
 ergative case clitic *=suɳ* and the (definite) object is marked with a
 dative case clitic *=koː*.
 
-(1) <span id="_Ref12343426" class="anchor"></span>Hindko
-    \[hno\] (Indo-Aryan)
+(1) Hindko \[hno\] (Indo-Aryan)
 
-| a.  | sap                                | mər                                                   | ɡijaː                                                    |
-|-----|------------------------------------|-------------------------------------------------------|----------------------------------------------------------|
-|     | snake                              | die.<span style="font-variant:small-caps;">cvb</span> | go.<span style="font-variant:small-caps;">pfv.msg</span> |
-|     | ‘The snake died.’ (HNO-Val-RH:061) |
+| a\. | sap                                | mər                                    | ɡijaː                                     |
+|-----|------------------------------------|----------------------------------------|-------------------------------------------|
+|     | snake                              | die.<span class="smallcaps">cvb</span> | go.<span class="smallcaps">pfv.msg</span> |
+|     | 'The snake died.' (HNO-Val-RH:061) |                                        |                                           |
 
-| b.  | dʑandak                                           | ɖuːɡiː=bətɕ                                             | saːməɳĩː  | aː-jaː                                                     |
-|-----|---------------------------------------------------|---------------------------------------------------------|-----------|------------------------------------------------------------|
-|     | boy                                               | field=<span style="font-variant:small-caps;">loc</span> | appearing | come.<span style="font-variant:small-caps;">pfv-msg</span> |
-|     | ‘The boy appeared on the field.’ (HNO-Val-RH:081) |
+| b\. | dʑandak                                           | ɖuːɡiː=bətɕ                              | saːməɳĩː  | aː-jaː                                      |
+|-----|---------------------------------------------------|------------------------------------------|-----------|---------------------------------------------|
+|     | boy                                               | field=<span class="smallcaps">loc</span> | appearing | come.<span class="smallcaps">pfv-msg</span> |
+|     | 'The boy appeared on the field.' (HNO-Val-RH:081) |                                          |           |                                             |
 
-| c.  | dʑandk-aː=suɳ                                                                                           | suːʈiː=naːl                                             | sap=koː                                                 | ʈoː-jaː                                                    |     |
-|-----|---------------------------------------------------------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|------------------------------------------------------------|-----|
-|     | boy-<span style="font-variant:small-caps;">obl</span>=<span style="font-variant:small-caps;">erg</span> | stick=<span style="font-variant:small-caps;">ins</span> | snake=<span style="font-variant:small-caps;">dat</span> | beat.<span style="font-variant:small-caps;">pfv-msg</span> |     |
-|     | ‘The boy beat the snake with a stick.’ (HNO-Val-RH:027)                                                 |
+| c\. | dʑandk-aː=suɳ                                                             | suːʈiː=naːl                              | sap=koː                                  | ʈoː-jaː                                     |     |
+|-----|---------------------------------------------------------------------------|------------------------------------------|------------------------------------------|---------------------------------------------|-----|
+|     | boy-<span class="smallcaps">obl</span>=<span class="smallcaps">erg</span> | stick=<span class="smallcaps">ins</span> | snake=<span class="smallcaps">dat</span> | beat.<span class="smallcaps">pfv-msg</span> |     |
+|     | 'The boy beat the snake with a stick.' (HNO-Val-RH:027)                   |                                          |                                          |                                             |     |
 
 Unique case-marking of the S argument is present in less than a quarter
 of the sample languages. In the other languages its case marking is the
 same as that for one or more of the other arguments, A, P or R.
 
-| Feature value | \# of varieties displaying it | %   |
+| Feature value | \# of varieties displaying it | \%  |
 |---------------|-------------------------------|-----|
 | Present       | 13                            | 22  |
 | Absent        | 46                            | 78  |
 | Indeterminate | 0                             | 0   |
-
-

@@ -17,14 +17,13 @@ plosives and affricates are given in (1).
 | Aspirated voiceless affricates   |              | tsʰ        | ʈʂʰ           | tɕʰ               |           |
 | Voiced affricates                |              |            |               | dʑ                |           |
 
-(1) <span id="_Ref12343426" class="anchor"></span>Gilgiti Shina
-    \[scl(p)\] (Indo-Aryan)
+(1) Gilgiti Shina \[scl(p)\] (Indo-Aryan)
 
-| a.  | /pʰiːpi / | ‘paternal aunt’ (SCLp-Kin-SL:024)  |
+| a\. | /pʰiːpi / | 'paternal aunt' (SCLp-Kin-SL:024)  |
 |-----|-----------|------------------------------------|
-| b.  | /tɕʰumu/  | ‘fish’ (SCLp-40list-SL:011)        |
-| c.  | /aʈʂʰiː/  | ‘eye’ (SCLp-40list-SL:009)         |
-| d.  | /dʑaʈʰoː/ | ‘brother-in-law’ (SCLp-Kin-SL:054) |
+| b\. | /tɕʰumu/  | 'fish' (SCLp-40list-SL:011)        |
+| c\. | /aʈʂʰiː/  | 'eye' (SCLp-40list-SL:009)         |
+| d\. | /dʑaʈʰoː/ | 'brother-in-law' (SCLp-Kin-SL:054) |
 
 Voiceless aspiration contrast is present in approximately half of the
 regional sample. It is a partly sub-areal feature, primarily associated
@@ -33,10 +32,8 @@ present primarily (but not uniformly so) in Indo-Aryan, Sino-Tibetan and
 Burushaski, largely absent in Iranian, and completely absent in
 Nuristani and Turkic.
 
-| Feature value | \# of varieties displaying it | %   |
+| Feature value | \# of varieties displaying it | \%  |
 |---------------|-------------------------------|-----|
 | Present       | 30                            | 51  |
 | Absent        | 29                            | 49  |
 | Indeterminate | 0                             | 0   |
-
-

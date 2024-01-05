@@ -34,7 +34,7 @@ these sessions.
 
 Forum for Language Initiatives (FLI), Pakistan. FLI is a
 non-governmental organization based in Islamabad. It was established in
-2003 to promote the many indigenous languages in Pakistan’s mountainous
+2003 to promote the many indigenous languages in Pakistan's mountainous
 northern region. It functions as a resource centre for the local
 communities, offering training and support in the area of mother-tongue
 education, language advocacy, literature development and language
@@ -126,10 +126,10 @@ lingua francas: Urdu, Dari and Pashto.
 | Valency \[Val\]        | Sentence questionnaire representing 87 verb meanings, designed by the by the Leipzig Valency Classes Project (<http://valpal.info/about/project>)                                          | Written+audio                                                                                                                       |
 | North Wind \[NW\]      | Translation of the traditional fable *The North Wind and the Sun*, widely used for illustrating the phonetics of numerous languages (International Phonetic Association 1999)              | Written+audio (for a subset: written+audio+video)                                                                                   |
 | Demonstratives \[Dem\] | Expressions used in reference to objects situated at various distances from the speaker. An elicitation kit for this was designed by the PI, largely inspired and guided by Wilkins (1999) | Audio+video (for a subset, the consultants transcribed their own utterances based on the audio recordings)                          |
-| Pear Story \[PS\]      | Natural or semi-natural speech used in retelling the contents of the six-minute “Pear film”; see Chafe (1980) and <http://pearstories.org/>                                                | Audio+video (for most of the varieties, the consultants transcribed their own speech and provided a translation to a lingua franca) |
+| Pear Story \[PS\]      | Natural or semi-natural speech used in retelling the contents of the six-minute "Pear film"; see Chafe (1980) and <http://pearstories.org/>                                                | Audio+video (for most of the varieties, the consultants transcribed their own speech and provided a translation to a lingua franca) |
 
 For the large majority of language varieties (53 of 59), data collection
-was carried out in the context of a 4-5 days’ workshop, each involving
+was carried out in the context of a 4-5 days' workshop, each involving
 consultants from five or more languages, in which the following
 procedure was followed: the participants were given a basic introduction
 to one of the components, e.g. kinship terms, (if applicable) they were
@@ -184,15 +184,12 @@ collection trip to Ladakh.
 
 Chafe, Wallace L. 1980. *The pear stories: Cognitive, cultural and
 linguistic aspects of narrative production* (Advances in Discourse
-Processes, 0896-470X ; 3). Norwood, N.J.: Ablex.
-
-International Phonetic Association. 1999. *Handbook of the International
-Phonetic Association : A guide to the use of the International Phonetic
-Alphabet*. Cambridge: Cambridge University Press.
-
-Wichmann, Søren, Eric W Holman & Cecil H Brown. 2016. The ASJP Database
-(version 17). http://asjp.clld.org/ (19 December, 2017).
-
-Wilkins, David. 1999. The 1999 demonstrative questionnaire: “this” and
-“that” in comparative perspective. In *Manual for the 1999 Field
-Season*, 1–24. Nijmegen: Max Planck Institute for Psycholinguistics.
+Processes, 0896-470X ; 3). Norwood, N.J.: Ablex.International Phonetic
+Association. 1999. *Handbook of the International Phonetic Association :
+A guide to the use of the International Phonetic Alphabet*. Cambridge:
+Cambridge University Press.Wichmann, Søren, Eric W Holman & Cecil H
+Brown. 2016. The ASJP Database (version 17). http://asjp.clld.org/ (19
+December, 2017).Wilkins, David. 1999. The 1999 demonstrative
+questionnaire: "this" and "that" in comparative perspective. In *Manual
+for the 1999 Field Season*, 1--24. Nijmegen: Max Planck Institute for
+Psycholinguistics.

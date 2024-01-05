@@ -9,37 +9,34 @@ constructions with virtually any noun as a possessee. Some of these
 nouns would not normally occur as a bare stem, i.e. without a possessive
 prefix attached to them (indexing for person, animacy and number).
 
-(1) <span id="_Ref12281344" class="anchor"></span>Hunza Burushaski
-    \[bsk(h)\] (isolate)
+(1) Hunza Burushaski \[bsk(h)\] (isolate)
 
-| a.  | a-mupuʂ                                                     |     |     |
-|-----|-------------------------------------------------------------|-----|-----|
-|     | <span style="font-variant:small-caps;">1sg.poss</span>-nose |     |     |
-|     | ‘my nose’ (BSKh-40list-SK:025)                              |
+| a\. | a-mupuʂ                                      |     |     |
+|-----|----------------------------------------------|-----|-----|
+|     | <span class="smallcaps">1sg.poss</span>-nose |     |     |
+|     | 'my nose' (BSKh-40list-SK:025)               |     |     |
 
-| b.  | a-pi                                                               |     |     |
-|-----|--------------------------------------------------------------------|-----|-----|
-|     | <span style="font-variant:small-caps;">1sg.poss</span>-grandmother |     |     |
-|     | ‘my grandmother’ (BSKh-Kin-SK:014)                                 |
+| b\. | a-pi                                                |     |     |
+|-----|-----------------------------------------------------|-----|-----|
+|     | <span class="smallcaps">1sg.poss</span>-grandmother |     |     |
+|     | 'my grandmother' (BSKh-Kin-SK:014)                  |     |     |
 
-| c.  | mo-pi-mu-r                                                                                                                 |     |     |
-|-----|----------------------------------------------------------------------------------------------------------------------------|-----|-----|
-|     | <span style="font-variant:small-caps;">3hfsg.poss</span>-grandmother-<span style="font-variant:small-caps;">obl-dat</span> |     |     |
-|     | ‘to her grandmother’ (BSKh-Val-SK:037)                                                                                     |
+| c\. | mo-pi-mu-r                                                                                   |     |     |
+|-----|----------------------------------------------------------------------------------------------|-----|-----|
+|     | <span class="smallcaps">3hfsg.poss</span>-grandmother-<span class="smallcaps">obl-dat</span> |     |     |
+|     | 'to her grandmother' (BSKh-Val-SK:037)                                                       |     |     |
 
-| d.  | gu-ɕaːk-aʈ-e                                                                                                |     |     |
-|-----|-------------------------------------------------------------------------------------------------------------|-----|-----|
-|     | <span style="font-variant:small-caps;">2sg</span>-arm-<span style="font-variant:small-caps;">ins-ess</span> |     |     |
-|     | ‘on your arm’ (BSKh-Dem-SK:003a)                                                                            |
+| d\. | gu-ɕaːk-aʈ-e                                                                  |     |     |
+|-----|-------------------------------------------------------------------------------|-----|-----|
+|     | <span class="smallcaps">2sg</span>-arm-<span class="smallcaps">ins-ess</span> |     |     |
+|     | 'on your arm' (BSKh-Dem-SK:003a)                                              |     |     |
 
 This is a feature found only in the two Burushaski varieties in this
 sample. However, see the feature Possessive Suffixes for similar
 functions expressed with suffixes instead of prefixes.
 
-| Feature value | \# of varieties displaying it | %   |
+| Feature value | \# of varieties displaying it | \%  |
 |---------------|-------------------------------|-----|
 | Present       | 2                             | 3   |
 | Absent        | 57                            | 97  |
 | Indeterminate | 0                             | 0   |
-
-

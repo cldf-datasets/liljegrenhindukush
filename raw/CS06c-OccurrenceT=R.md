@@ -9,10 +9,8 @@ taken into account. See Occurrence of Recipient=Patient and Occurrence
 of Theme=Patient for construction types observed in ditransitive
 clauses. This feature would deserve a more thorough investigation.
 
-| Feature value | \# of varieties displaying it | %   |
+| Feature value | \# of varieties displaying it | \%  |
 |---------------|-------------------------------|-----|
 | Present       | 0                             | 0   |
 | Absent        | 48                            | 81  |
 | Indeterminate | 11                            | 19  |
-
-

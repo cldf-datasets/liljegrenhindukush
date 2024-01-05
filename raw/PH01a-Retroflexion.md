@@ -23,22 +23,19 @@ are displayed in ‎(1).
 |                    | tsʰ                 | ʈʂʰ                    | tɕʰ                         |
 | Fricative          |                     | ʂ ʐ                    | ɕ ʑ                         |
 
-(1) <span id="_Ref12343426" class="anchor"></span>Khowar
-    \[khw\] (Indo-Aryan)
+(1) Khowar \[khw\] (Indo-Aryan)
 
-| a.  | /ʈip/   | ‘full’ (KHW-40list-AA:012) |
+| a\. | /ʈip/   | 'full' (KHW-40list-AA:012) |
 |-----|---------|----------------------------|
-| b.  | /ʈʂʰan/ | ‘leaf’ (KHW-40list-AA:018) |
-| c.  | /uʂak/  | ‘cold’ (KHW-Val-AA:060)    |
+| b\. | /ʈʂʰan/ | 'leaf' (KHW-40list-AA:018) |
+| c\. | /uʂak/  | 'cold' (KHW-Val-AA:060)    |
 
 Retroflexion is a strongly areal feature, present in nearly all of the
 sample languages. Turkic is the only phylogenetic grouping in which this
 feature is entirely absent.
 
-| Feature value | \# of varieties displaying it | %   |
+| Feature value | \# of varieties displaying it | \%  |
 |---------------|-------------------------------|-----|
 | Present       | 54                            | 92  |
 | Absent        | 5                             | 8   |
 | Indeterminate | 0                             | 0   |
-
-

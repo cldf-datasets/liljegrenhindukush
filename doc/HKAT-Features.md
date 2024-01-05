@@ -50,5 +50,3 @@ Additional abbreviations are listed below.
 | V    | verb                     |
 | X    | x (non-human gender)     |
 | Y    | y (non-human gender)     |
-
-

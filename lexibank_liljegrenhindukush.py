@@ -1,11 +1,13 @@
 import shutil
-from pathlib import Path
+import pathlib
+import itertools
 import subprocess
 import collections
 
 import cldfbench
 import pylexibank
 from clldutils.misc import slug
+from clldutils.markup import iter_markdown_tables
 from bs4 import BeautifulSoup as bs
 from csvw.metadata import URITemplate
 
@@ -24,13 +26,20 @@ BIB = """@misc{hindukush,
 
 
 def title_and_desc(p):
-    text = p.read_text(encoding='utf8').split('| Feature value |')[0].strip()
-    lines = [l.strip() for l in text.split('\n')]
-    if len(lines) < 2:
-        assert p.stem == 'README'
-        return None, None
+    if p.stem == 'README':
+        return None, None, None
+    text = p.read_text(encoding='utf8')
+    splitter = '| Feature value |'
+    assert splitter in text
+    text, rem = text.split(splitter)
+    lines = [l.strip() for l in text.strip().split('\n')]
+    assert len(lines) > 1
     assert lines[1] == ''
-    return bs(lines[0], 'html5lib').text, '\n'.join(lines[2:])
+    return (
+        bs(lines[0], 'html5lib').text,
+        '\n'.join(lines[2:]),
+        {{'Absent': '0', 'Present': '1', 'Indeterminate': '?'}.get(row[0], row[0]): int(row[1])
+         for row in next(iter_markdown_tables(splitter + rem))[1]})
 
 
 @attr.s
@@ -56,7 +65,7 @@ class Language(pylexibank.Language):
 
 
 class Dataset(pylexibank.Dataset):
-    dir = Path(__file__).parent
+    dir = pathlib.Path(__file__).parent
     id = "liljegrenhindukush"
     lexeme_class = Lexeme
     language_class = Language
@@ -88,9 +97,22 @@ class Dataset(pylexibank.Dataset):
             subprocess.check_call([
                 'pandoc',
                 '-o', p.stem + '.md',
-                '-t', 'markdown-simple_tables-multiline_tables-grid_tables',
+                '-t', 'markdown+smart-simple_tables-multiline_tables-grid_tables-bracketed_spans',
                 p.name], cwd=str(self.raw_dir))
             self.raw_dir.joinpath(p.name).unlink()
+            """
+-carries an oblique case suffix *–a* in the past tense, while the S
++carries an oblique case suffix *--a* in the past tense, while the S
+-| a.  | dʑuk                                | ʑen-e                                                      |
+-|-----|-------------------------------------|------------------------------------------------------------|
+-|     | girl                                | cry.<span style="font-variant:small-caps;">pst-3fsg</span> |
++| a\. | dʑuk                                | ʑen-e                                       |
++|-----|-------------------------------------|---------------------------------------------|
++|     | girl                                | cry.<span class="smallcaps">pst-3fsg</span> |
+ |     | **S**                               |                                             |
+-|     | ‘The girl cried.’ (BSHw-Val-AU:083) |
++|     | 'The girl cried.' (BSHw-Val-AU:083) |          
+            """
         for p in self._data_dir.joinpath('Site').glob('*.docx'):
             shutil.copy(str(p), self.dir / 'doc' / p.name)
             subprocess.check_call([
@@ -118,8 +140,9 @@ class Dataset(pylexibank.Dataset):
             )
             writer.cldf.remove_columns('MediaTable', 'Download_URL')
             writer.cldf['MediaTable', 'ID'].valueUrl = URITemplate("https://cdstar.shh.mpg.de/bitstreams/{objid}/{fname}")
-            for lang in self.raw_dir.read_csv(self._data_dir / 'DataSampleHK.csv', dicts=True):
-                gc = lerrata.get(lang['Language'], lang['Glottocode'].split('>')[1].split('<')[0])
+            for lang in self.raw_dir.read_csv(self._data_dir / 'DataSampleHK.csv', dicts=True, delimiter=';'):
+                lang = {k: v.strip() for k, v in lang.items()}
+                gc = lerrata.get(lang['Language'], lang['Glottocode'])
                 glang = gl_by_id[gc]
                 sg = None
                 for k, v in INDO_EUROPEAN_SUBGROUPS.items():
@@ -133,7 +156,7 @@ class Dataset(pylexibank.Dataset):
                     Longitude=coords[lang['Project code']][0],
                     Glottocode=gc,
                     Glottolog_Name=glang.name,
-                    ISO639P3code=lang['ISO 639-3'].split('>')[1].split('<')[0],
+                    ISO639P3code=lang['ISO 639-3'],
                     Family=glang.lineage[0][0] if glang.lineage else None,
                     SubGroup=sg,
                     Location=lang['Location'],
@@ -160,10 +183,9 @@ class Dataset(pylexibank.Dataset):
                         Media_Type=bs['content-type'],
                         size=bs['filesize'],
                     ))
-                    akey = fname.split('.')[0]
-                    if akey[-1] in 'abcde':
-                        akey = akey[:-1]
-                    audio[lid][akey].append(bs['checksum'])
+                    akey = spec['metadata']['path'].split('/')[1].split('.')[0].replace('-', '_').replace('aae', 'aee')
+                    bkey = akey[:-1] if akey[-1] in 'abcde' else akey
+                    audio[lid][bkey].append((akey, bs['checksum']))
 
             writer.add_sources(BIB)
             cmap = writer.add_concepts(lookup_factory=lambda c: ('40list', c.english.split('(')[0].strip().lower()))
@@ -177,18 +199,28 @@ class Dataset(pylexibank.Dataset):
                     domain=row['Category'],
                 )
             for cat in ['40list', 'Kinship', 'Numerals']:
-                for i, row in enumerate(self.raw_dir.read_csv(self._data_dir / '{}.csv'.format(cat), dicts=True)):
+                for i, row in enumerate(self.raw_dir.read_csv(self._data_dir / '{}.csv'.format(cat), dicts=True, delimiter=";")):
                     lid = row['ISO'].replace(' (', '_').replace(')', '')
                     if cat == '40list':
                         for j, col in enumerate(list(row.keys())[5:45], start=1):
-                            audio_key = '40_{}'.format(str(j).rjust(2, '0'))
-                            writer.add_lexemes(
-                                Language_ID=lid,
-                                Parameter_ID=cmap[(cat, col.lower())],
-                                Value=row[col],
-                                Audio_Files=audio.get(lid, {}).get(audio_key, []),
-                                Source=['hindukush'],
-                            )
+                            k = '{}_40_{}'.format(lid, str(j).rjust(2, '0'))
+                            audio_files = [
+                                [a[1] for a in audios] for _, audios in itertools.groupby(
+                                    sorted(audio[lid][k]), lambda a_: a_[0])]
+                            forms = [f.strip() for f in row[col].split(',')]
+                            if not audio_files:
+                                forms = [(f, []) for f in forms]
+                            else:
+                                assert len(audio_files) == len(forms)
+                                forms = list(zip(forms, audio_files))
+                            for f, a in forms:
+                                writer.add_lexemes(
+                                    Language_ID=lid,
+                                    Parameter_ID=cmap[(cat, col.lower())],
+                                    Value=f,
+                                    Audio_Files=a,
+                                    Source=['hindukush'],
+                                )
                     else:
                         for j, col in enumerate(list(row.keys())[5:], start=1):
                             writer.add_lexemes(
@@ -211,17 +243,20 @@ class Dataset(pylexibank.Dataset):
             writer.cldf.add_component(LanguageTable)  # we reuse the one from above!
             writer.cldf.add_component('CodeTable')
             writer.cldf.add_columns('ParameterTable', 'Category')
+            counts = collections.defaultdict(collections.Counter)
+            expected = {}
             for i, row in enumerate(features):
                 if not any(v for v in row.values()):
                     break
                 lid = row['ISO'].replace(' (', '_').replace(')', '')
                 if i == 0:
                     for col in list(row.keys())[4:]:
+                        name, desc, expected[col] = descs[col]
                         writer.objects['ParameterTable'].append(dict(
                             ID=col,
-                            Name=descs.get(col, (None, None))[0] or col,
+                            Name=name,
                             Category=categories.get(col[:2]) or col[:2],
-                            Description=descs.get(col, (None, None))[1],
+                            Description=desc,
                         ))
                         for code, desc in [
                             ('1', 'present'),
@@ -236,6 +271,7 @@ class Dataset(pylexibank.Dataset):
                             ))
                 for col in list(row.keys())[4:]:
                     if row[col]:
+                        counts[col].update([row[col]])
                         writer.objects['ValueTable'].append(dict(
                             ID='{}-{}'.format(lid, col),
                             Language_ID=lid,
@@ -244,5 +280,12 @@ class Dataset(pylexibank.Dataset):
                             Value=row[col],
                             Source=['hindukush'],
                         ))
+            for col, exp in expected.items():
+                for code, count in exp.items():
+                    if count != counts[col][code]:
+                        args.log.warning(
+                            '{}: expected: {} got: {}'.format(col, exp, counts[col]))
+                        break
+
             writer.cldf.properties['dc:description'] = \
                 self.dir.joinpath('doc', 'HKAT-Features.md').read_text(encoding='utf8')

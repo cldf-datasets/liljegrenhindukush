@@ -7,33 +7,30 @@ recipient (R) of a ditransitive clause, vis-à-vis the subject of an
 intransitive clause (S), the subject of a transitive clause (A), and the
 direct object of a transitive clause (P). This is the case in Amla
 Pashai , as seen in ‎(1), in which the cliticized case marker (or
-postposition) *=ntiː* (or *=aːntiː*) ‘to’ is the unique marker of a
+postposition) *=ntiː* (or *=aːntiː*) 'to' is the unique marker of a
 recipient noun phrase, whereas the subject of a transitive clause
 receive an oblique case suffix (in the past/perfective), and the subject
 of an intransitive clause as well as the object of a transitive clause
 are zero marked.
 
-(1) <span id="_Ref12281344" class="anchor"></span>Amla Pashai
-    \[psi(am)\] (Indo-Aryan)
+(1) Amla Pashai \[psi(am)\] (Indo-Aryan)
 
-| a.  | kiʈaːlik-iː                                                    | baː-staː**=ntiː**                                                     | gul    | gəɽ-eː-tɕ-in                                                 |
-|-----|----------------------------------------------------------------|-----------------------------------------------------------------------|--------|--------------------------------------------------------------|
-|     | girl-<span style="font-variant:small-caps;">obl</span>         | grandmother<span style="font-variant:small-caps;">-3sg.poss=</span>to | flower | send-<span style="font-variant:small-caps;">pst-f-3pl</span> |
-|     | ‘The girl sent flowers to her grandmother.’ (PSIam-Val-NG:037) |
+| a\. | kiʈaːlik-iː                                                    | baː-staː**=ntiː**                                      | gul    | gəɽ-eː-tɕ-in                                  |
+|-----|----------------------------------------------------------------|--------------------------------------------------------|--------|-----------------------------------------------|
+|     | girl-<span class="smallcaps">obl</span>                        | grandmother<span class="smallcaps">-3sg.poss=</span>to | flower | send-<span class="smallcaps">pst-f-3pl</span> |
+|     | 'The girl sent flowers to her grandmother.' (PSIam-Val-NG:037) |                                                        |        |                                               |
 
-| b.  | kilaː-j                                                      | kiʈaːlik | warg-iː=kuːtɕa                                               | ʈeːla   | k-i-tɕ-aːn                                                                                                |
-|-----|--------------------------------------------------------------|----------|--------------------------------------------------------------|---------|-----------------------------------------------------------------------------------------------------------|
-|     | boy-<span style="font-variant:small-caps;">obl</span>        | girl     | water-<span style="font-variant:small-caps;">obl</span>=into | pushing | do-<span style="font-variant:small-caps;">pst</span>-<span style="font-variant:small-caps;">f-3fsg</span> |
-|     | ‘The boy pushed the girl into the water.’ (PSIam-Val-NG:074) |
+| b\. | kilaː-j                                                      | kiʈaːlik | warg-iː=kuːtɕa                                | ʈeːla   | k-i-tɕ-aːn                                                                  |
+|-----|--------------------------------------------------------------|----------|-----------------------------------------------|---------|-----------------------------------------------------------------------------|
+|     | boy-<span class="smallcaps">obl</span>                       | girl     | water-<span class="smallcaps">obl</span>=into | pushing | do-<span class="smallcaps">pst</span>-<span class="smallcaps">f-3fsg</span> |
+|     | 'The boy pushed the girl into the water.' (PSIam-Val-NG:074) |          |                                               |         |                                                                             |
 
 Unique case-marking of the R argument is present in the large majority
 of the sample languages. The few languages lacking this property are
-primarily found in the region’s south.
+primarily found in the region's south.
 
-| Feature value | \# of varieties displaying it | %   |
+| Feature value | \# of varieties displaying it | \%  |
 |---------------|-------------------------------|-----|
 | Present       | 50                            | 85  |
 | Absent        | 9                             | 15  |
 | Indeterminate | 0                             | 0   |
-
-

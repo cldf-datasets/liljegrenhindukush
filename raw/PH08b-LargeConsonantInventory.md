@@ -1,7 +1,7 @@
 Large Consonant Inventory
 
 The size of the consonant inventory of each language was investigated.
-The categories labelled “moderately large” (26-33) and “large” (34 or
+The categories labelled "moderately large" (26-33) and "large" (34 or
 more) in WALS, were collapsed and any inventory size comprising 26 or
 more consonants were considered large. In order to operationalize the
 analysis, only the 40-item list was used as a basis. The resulting value
@@ -31,10 +31,8 @@ Approximately a third of the sample languages were recorded as using 26
 or more consonants in the 40-item list. There is a tendency for those
 languages to be spoken in the eastern half of the region.
 
-| Feature value | \# of varieties displaying it | %   |
+| Feature value | \# of varieties displaying it | \%  |
 |---------------|-------------------------------|-----|
 | Present       | 19                            | 32  |
 | Absent        | 40                            | 68  |
 | Indeterminate | 0                             | 0   |
-
-

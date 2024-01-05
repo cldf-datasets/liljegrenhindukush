@@ -11,37 +11,34 @@ with the subject of transitive clauses, whereas the subject of an
 intransitive clause is zero marked and the direct object is either zero
 marked or takes a dative case marker.
 
-(1) <span id="_Ref12281344" class="anchor"></span>Purik
-    \[prx\] (Sino-Tibetan)
+(1) Purik \[prx\] (Sino-Tibetan)
 
-| a.  | bomo-**s**                                             | ŋi                                                    | pʰila | mindoq | kʰur-e                                                   | soŋ                                                  |
-|-----|--------------------------------------------------------|-------------------------------------------------------|-------|--------|----------------------------------------------------------|------------------------------------------------------|
-|     | girl-<span style="font-variant:small-caps;">erg</span> | <span style="font-variant:small-caps;">1sg.gen</span> | sake  | flower | carry-<span style="font-variant:small-caps;">conj</span> | go.<span style="font-variant:small-caps;">pst</span> |
-|     | ‘The girl brought flowers to me.’ (PRX-Val-MM:075)     |
+| a\. | bomo-**s**                                         | ŋi                                     | pʰila | mindoq | kʰur-e                                    | soŋ                                   |
+|-----|----------------------------------------------------|----------------------------------------|-------|--------|-------------------------------------------|---------------------------------------|
+|     | girl-<span class="smallcaps">erg</span>            | <span class="smallcaps">1sg.gen</span> | sake  | flower | carry-<span class="smallcaps">conj</span> | go.<span class="smallcaps">pst</span> |
+|     | 'The girl brought flowers to me.' (PRX-Val-MM:075) |                                        |       |        |                                           |                                       |
 
-| b.  | bomo                                | tɕoŋs |     |     |
+| b\. | bomo                                | tɕoŋs |     |     |
 |-----|-------------------------------------|-------|-----|-----|
 |     | girl                                | jump  |     |     |
-|     | ‘The girl jumped.’ (PRX-Val-MM:052) |
+|     | 'The girl jumped.' (PRX-Val-MM:052) |       |     |     |
 
-| c.  | butsʰa-**s**                                               | bomo | tɕʰu-juŋ   | pʰul-e                                                  | taŋ-s                                                  |
-|-----|------------------------------------------------------------|------|------------|---------------------------------------------------------|--------------------------------------------------------|
-|     | boy-<span style="font-variant:small-caps;">erg</span>      | girl | water-into | push-<span style="font-variant:small-caps;">conj</span> | give-<span style="font-variant:small-caps;">pst</span> |
-|     | ‘The boy pushed the girl into the water.’ (PRX-Val-MM:074) |
+| c\. | butsʰa-**s**                                               | bomo | tɕʰu-juŋ   | pʰul-e                                   | taŋ-s                                   |
+|-----|------------------------------------------------------------|------|------------|------------------------------------------|-----------------------------------------|
+|     | boy-<span class="smallcaps">erg</span>                     | girl | water-into | push-<span class="smallcaps">conj</span> | give-<span class="smallcaps">pst</span> |
+|     | 'The boy pushed the girl into the water.' (PRX-Val-MM:074) |      |            |                                          |                                         |
 
-| d.  | butsʰa-**s**                                          | bomo-la                                                | ɬta-s                                                  |     |
-|-----|-------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|-----|
-|     | boy-<span style="font-variant:small-caps;">erg</span> | girl-<span style="font-variant:small-caps;">dat</span> | look-<span style="font-variant:small-caps;">pst</span> |     |
-|     | ‘The boy looked at the girl.’ (PRX-Val-MM:003)        |
+| d\. | butsʰa-**s**                                   | bomo-la                                 | ɬta-s                                   |     |
+|-----|------------------------------------------------|-----------------------------------------|-----------------------------------------|-----|
+|     | boy-<span class="smallcaps">erg</span>         | girl-<span class="smallcaps">dat</span> | look-<span class="smallcaps">pst</span> |     |
+|     | 'The boy looked at the girl.' (PRX-Val-MM:003) |                                         |                                         |     |
 
 Unique case-marking of the A argument is present in a majority of the
 sample languages. The languages lacking this property are primarily
-found in the region’s northwest.
+found in the region's northwest.
 
-| Feature value | \# of varieties displaying it | %   |
+| Feature value | \# of varieties displaying it | \%  |
 |---------------|-------------------------------|-----|
 | Present       | 41                            | 69  |
 | Absent        | 18                            | 31  |
 | Indeterminate | 0                             | 0   |
-
-
