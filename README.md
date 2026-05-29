@@ -16,9 +16,10 @@ Available online at https://hindukush.clld.org/
 
 
 Conceptlists in Concepticon:
-- [Holman-2008-40](https://concepticon.clld.org/contributions/Holman-2008-40)
+- [Holman-2008-40](https://concepticon.clld.org/contributions/0)
 ## Notes
 
+### Coverage
 
 ![coverage](map.svg)
 
@@ -28,14 +29,14 @@ Conceptlists in Concepticon:
 
 
 [![CLDF validation](https://github.com/cldf-datasets/liljegrenhindukush/workflows/CLDF-validation/badge.svg)](https://github.com/cldf-datasets/liljegrenhindukush/actions?query=workflow%3ACLDF-validation)
-![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 53%](https://img.shields.io/badge/Concepticon-53%25-red.svg "Concepticon: 53%")
-![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 94%](https://img.shields.io/badge/BIPA-94%25-green.svg "BIPA: 94%")
-![CLTS SoundClass: 94%](https://img.shields.io/badge/CLTS%20SoundClass-94%25-green.svg "CLTS SoundClass: 94%")
+![Glottolog: 100%](etc/badge_languages.svg)
+![Concepticon: 53%](etc/badge_concepts.svg)
+![Source: 100%](etc/badge_sources.svg)
+![BIPA: 94%](etc/badge_bipa.svg)
+![CLTS SoundClass: 94%](etc/badge_sc.svg)
 
-- **Varieties:** 59
-- **Concepts:** 194
+- **Varieties:** 59 (linked to 57 different Glottocodes)
+- **Concepts:** 194 (linked to 102 different Concepticon concept sets)
 - **Lexemes:** 11,600
 - **Sources:** 1
 - **Synonymy:** 1.04

@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 import json
 
 
@@ -13,6 +13,7 @@ setup(
     url=metadata.get('url', ''),
     py_modules=['lexibank_liljegrenhindukush'],
     include_package_data=True,
+    packages=find_packages(where='.'),
     zip_safe=False,
     entry_points={
         'lexibank.dataset': [

@@ -7,7 +7,7 @@
    ```
 3. Re-create the CLDF datasets
    ```shell
-   cldfbench lexibank.makecldf lexibank_liljegrenhindukush.py --glottolog-version v4.8 --concepticon-version v3.1.0 --clts-version v2.2.0
+   cldfbench lexibank.makecldf lexibank_liljegrenhindukush.py --glottolog-version v5.3 --concepticon-version v3.4.0 --clts-version v2.3.0
    ```
 4. Make sure the CLDF is valid:
    ```shell

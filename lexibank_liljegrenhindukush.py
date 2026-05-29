@@ -3,6 +3,8 @@ import pathlib
 import itertools
 import subprocess
 import collections
+import dataclasses
+from typing import Optional
 
 import cldfbench
 import pylexibank
@@ -10,8 +12,6 @@ from clldutils.misc import slug
 from clldutils.markup import iter_markdown_tables
 from bs4 import BeautifulSoup as bs
 from csvw.metadata import URITemplate
-
-import attr
 
 INDO_EUROPEAN_SUBGROUPS = {
     'indo1321': 'Indo-Aryan',
@@ -42,26 +42,26 @@ def title_and_desc(p):
          for row in next(iter_markdown_tables(splitter + rem))[1]})
 
 
-@attr.s
+@dataclasses.dataclass
 class Concept(pylexibank.Concept):
-    domain = attr.ib(default=None)
+    domain: Optional[str] = None
 
 
-@attr.s
+@dataclasses.dataclass
 class Lexeme(pylexibank.Lexeme):
-    Audio_Files = attr.ib(
-        default=None,
+    Audio_Files: list[str] = dataclasses.field(
+        default_factory=list,
         metadata=dict(
             propertyUrl="http://cldf.clld.org/v1.0/terms.rdf#mediaReference"),
     )
 
 
-@attr.s
+@dataclasses.dataclass
 class Language(pylexibank.Language):
-    SubGroup = attr.ib(default=None)
-    Location = attr.ib(default=None)
-    Elicitation = attr.ib(default=None)
-    Consultant = attr.ib(default=None)
+    SubGroup: Optional[str] = None
+    Location: Optional[str] = None
+    Elicitation: Optional[str] = None
+    Consultant: Optional[str] = None
 
 
 class Dataset(pylexibank.Dataset):
@@ -139,7 +139,7 @@ class Dataset(pylexibank.Dataset):
                 {'name': 'size', 'datatype': 'integer'},
             )
             writer.cldf.remove_columns('MediaTable', 'Download_URL')
-            writer.cldf['MediaTable', 'ID'].valueUrl = URITemplate("https://cdstar.shh.mpg.de/bitstreams/{objid}/{fname}")
+            writer.cldf['MediaTable', 'ID'].valueUrl = URITemplate("https://cdstar.eva.mpg.de/bitstreams/{objid}/{fname}")
             for lang in self.raw_dir.read_csv(self._data_dir / 'DataSampleHK.csv', dicts=True, delimiter=';'):
                 lang = {k: v.strip() for k, v in lang.items()}
                 gc = lerrata.get(lang['Language'], lang['Glottocode'])

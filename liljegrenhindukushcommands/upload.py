@@ -28,4 +28,3 @@ def run(args):
         ):
             if created:
                 args.log.info('{} -> {}'.format(fname, obj.id))
-
