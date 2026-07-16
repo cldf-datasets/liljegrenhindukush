@@ -61,3 +61,5 @@ venv/
 ENV/
 .idea/
 Audio files
+raw/media
+

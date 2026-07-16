@@ -32,8 +32,8 @@ Conceptlists in Concepticon:
 ![Glottolog: 100%](etc/badge_languages.svg)
 ![Concepticon: 53%](etc/badge_concepts.svg)
 ![Source: 100%](etc/badge_sources.svg)
-![BIPA: 94%](etc/badge_bipa.svg)
-![CLTS SoundClass: 94%](etc/badge_sc.svg)
+![BIPA: 99%](etc/badge_bipa.svg)
+![CLTS SoundClass: 99%](etc/badge_sc.svg)
 
 - **Varieties:** 59 (linked to 57 different Glottocodes)
 - **Concepts:** 194 (linked to 102 different Concepticon concept sets)
@@ -41,9 +41,9 @@ Conceptlists in Concepticon:
 - **Sources:** 1
 - **Synonymy:** 1.04
 - **Invalid lexemes:** 0
-- **Tokens:** 73,227
-- **Segments:** 183 (11 BIPA errors, 11 CLTS sound class errors, 172 CLTS modified)
-- **Inventory size (avg):** 51.80
+- **Tokens:** 73,114
+- **Segments:** 194 (1 BIPA errors, 1 CLTS sound class errors, 193 CLTS modified)
+- **Inventory size (avg):** 51.90
 
 # Contributors
 

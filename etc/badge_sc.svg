@@ -9,7 +9,7 @@
     </mask>
     <g mask="url(#anybadge_5)">
         <path fill="#555" d="M0 0h109v20H0z"/>
-        <path fill="#ADFF2F" d="M109 0h34v20H109z"/>
+        <path fill="#4C1" d="M109 0h34v20H109z"/>
         <path fill="url(#b)" d="M0 0h143v20H0z"/>
     </g>
     <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
@@ -17,7 +17,7 @@
         <text x="54.5" y="14">CLTS SoundClass</text>
     </g>
     <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
-        <text x="127.0" y="15" fill="#010101" fill-opacity=".3">94%</text>
-        <text x="126.0" y="14">94%</text>
+        <text x="127.0" y="15" fill="#010101" fill-opacity=".3">99%</text>
+        <text x="126.0" y="14">99%</text>
     </g>
 </svg>

@@ -9,6 +9,7 @@ from typing import Optional
 import cldfbench
 import pylexibank
 from clldutils.misc import slug
+from clldutils.path import md5
 from clldutils.markup import iter_markdown_tables
 from bs4 import BeautifulSoup as bs
 from csvw.metadata import URITemplate
@@ -62,6 +63,12 @@ class Language(pylexibank.Language):
     Location: Optional[str] = None
     Elicitation: Optional[str] = None
     Consultant: Optional[str] = None
+
+
+def fname_from_bitstream(bs, spec):
+    if bs['bitstreamid'] == 'web.mp3':
+        return spec['metadata']['path'].split('/')[-1].replace('-', '_').replace('.wav', '.mp3')
+    return bs["bitstreamid"]
 
 
 class Dataset(pylexibank.Dataset):
@@ -138,8 +145,8 @@ class Dataset(pylexibank.Dataset):
                 'fname',
                 {'name': 'size', 'datatype': 'integer'},
             )
-            writer.cldf.remove_columns('MediaTable', 'Download_URL')
-            writer.cldf['MediaTable', 'ID'].valueUrl = URITemplate("https://cdstar.eva.mpg.de/bitstreams/{objid}/{fname}")
+            writer.cldf['MediaTable', 'ID'].valueUrl = URITemplate(
+                "https://s3.nexus.mpcdf.mpg.de//dlce-eva-hindukush/{fname}")
             for lang in self.raw_dir.read_csv(self._data_dir / 'DataSampleHK.csv', dicts=True, delimiter=';'):
                 lang = {k: v.strip() for k, v in lang.items()}
                 gc = lerrata.get(lang['Language'], lang['Glottocode'])
@@ -165,23 +172,29 @@ class Dataset(pylexibank.Dataset):
                 ))
             lids = set(l['ID'] for l in writer.objects['LanguageTable'])
             audio = collections.defaultdict(lambda: collections.defaultdict(list))
+            audio_dir = self.cldf_dir / 'audio'
+            if not audio_dir.exists():
+                audio_dir.mkdir()
+
             for objid, spec in self.raw_dir.read_json('cdstar.json').items():
                 lang, fname = spec['metadata']['path'].split('/')
                 if '_' not in fname:
                     assert fname == 'comments.txt', fname
                     continue
-                lid, fname = fname.split('_', maxsplit=1)
+                lid, _ = fname.split('_', maxsplit=1)
                 lid = {'aae-at': 'aee-at'}.get(lid, lid)
                 lid = lid.replace('-', '_')
                 assert lid in lids, spec['metadata']['path'].split('/')
+
                 for bs in spec['bitstreams']:
+                    fname = fname_from_bitstream(bs, spec)
+                    shutil.copy(self.raw_dir / 'media' / fname, audio_dir)
                     writer.objects['MediaTable'].append(dict(
                         ID=bs['checksum'],
-                        Name='{}_{}'.format(objid, bs['bitstreamid']),
-                        objid=objid,
-                        fname=bs['bitstreamid'],
+                        Name=fname,
                         Media_Type=bs['content-type'],
                         size=bs['filesize'],
+                        Download_URL=f'audio/{fname}',
                     ))
                     akey = spec['metadata']['path'].split('/')[1].split('.')[0].replace('-', '_').replace('aae', 'aee')
                     bkey = akey[:-1] if akey[-1] in 'abcde' else akey
