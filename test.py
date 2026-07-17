@@ -9,3 +9,5 @@ def test_valid(cldf_dataset, cldf_sqlite_database, cldf_logger):
 
     # make sure all mediafiles are referenced!
     assert cldf_sqlite_database.query("select count(*) from mediatable where cldf_id not in (select mediatable_cldf_id from formtable_mediatable)")[0][0] == 0
+    mcount = cldf_sqlite_database.query("select count(cldf_id) from mediatable")[0][0]
+    assert cldf_sqlite_database.query("select count(distinct cldf_name) from mediatable")[0][0] == mcount

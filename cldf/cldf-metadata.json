@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/liljegrenhindukush",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0.1-24-g722935d",
+            "dc:created": "v1.0.1-25-g5a62e4d",
             "dc:title": "Repository"
         },
         {
@@ -318,7 +318,7 @@
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "required": true,
-                        "valueUrl": "https://s3.nexus.mpcdf.mpg.de//dlce-eva-hindukush/{fname}",
+                        "valueUrl": "https://s3.nexus.mpcdf.mpg.de//dlce-eva-hindukush/{Name}",
                         "name": "ID"
                     },
                     {
@@ -353,14 +353,6 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#pathInZip",
                         "required": false,
                         "name": "Path_In_Zip"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "objid"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "fname"
                     },
                     {
                         "datatype": "integer",

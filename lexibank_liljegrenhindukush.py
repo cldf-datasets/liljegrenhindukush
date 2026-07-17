@@ -139,14 +139,9 @@ class Dataset(pylexibank.Dataset):
         lerrata = {r['Name']: r['Glottocode'] for r in self.etc_dir.read_csv('languages.csv', dicts=True)}
         coords = {r['ISO']: (r['Coord1'], r['Coord2']) for r in features}
         with self.cldf_writer(args) as writer:
-            writer.cldf.add_component(
-                'MediaTable',
-                'objid',
-                'fname',
-                {'name': 'size', 'datatype': 'integer'},
-            )
+            writer.cldf.add_component('MediaTable',{'name': 'size', 'datatype': 'integer'})
             writer.cldf['MediaTable', 'ID'].valueUrl = URITemplate(
-                "https://s3.nexus.mpcdf.mpg.de//dlce-eva-hindukush/{fname}")
+                "https://s3.nexus.mpcdf.mpg.de//dlce-eva-hindukush/{Name}")
             for lang in self.raw_dir.read_csv(self._data_dir / 'DataSampleHK.csv', dicts=True, delimiter=';'):
                 lang = {k: v.strip() for k, v in lang.items()}
                 gc = lerrata.get(lang['Language'], lang['Glottocode'])
