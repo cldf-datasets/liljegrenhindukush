@@ -27,7 +27,7 @@ Jinja2==3.1.6
 jmespath==1.1.0
 jsonschema==4.26.0
 kiwisolver==1.5.0
--e git+https://github.com/cldf-datasets/liljegrenhindukush@9c88dec075e6ff747c81dd9e6bc379c4c7813ee5#egg=lexibank_liljegrenhindukush
+-e git+https://github.com/cldf-datasets/liljegrenhindukush@722935d375fe6b044dd55ab5998f2205e83268fe#egg=lexibank_liljegrenhindukush
 lingpy==2.6.14
 lxml==6.1.0
 Markdown==3.10.2

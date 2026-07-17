@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/liljegrenhindukush",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0.1",
+            "dc:created": "v1.0.1-24-g722935d",
             "dc:title": "Repository"
         },
         {
